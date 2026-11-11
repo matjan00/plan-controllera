@@ -1,0 +1,133 @@
+﻿miesiac;id_lokalizacji;lokalizacja;miasto;region;id_kontraktu;centrum_kosztow;konto;kategoria;grupa_kosztow;kwota_pln
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;401100;Wynagrodzenia techników;Personel;39327,12
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;401200;Nadgodziny techników;Personel;2885,63
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;402100;Materiały eksploatacyjne;Materiały;23074,51
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;403100;Podwykonawcy – sprzątanie;Podwykonawcy;82995,66
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;403200;Podwykonawcy – ochrona;Podwykonawcy;39716,62
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;16677,18
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;4569,79
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;404100;Energia elektryczna;Media;62844,03
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;404200;Media – woda i ciepło;Media;13609,36
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L01;Biurowiec Lipowy Park;Warszawa;Centrum;K01;CC1001;406100;Koszty ogólne kontraktu;Narzut;8778,00
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;401100;Wynagrodzenia techników;Personel;38221,68
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;401200;Nadgodziny techników;Personel;4559,41
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;402100;Materiały eksploatacyjne;Materiały;26418,85
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;403100;Podwykonawcy – sprzątanie;Podwykonawcy;104030,70
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;403200;Podwykonawcy – ochrona;Podwykonawcy;50787,25
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;22586,81
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;5731,27
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;404100;Energia elektryczna;Media;69583,94
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;404200;Media – woda i ciepło;Media;17809,15
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L02;Wieża Wolska;Warszawa;Centrum;K02;CC1002;406100;Koszty ogólne kontraktu;Narzut;11338,25
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;401100;Wynagrodzenia techników;Personel;55861,68
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;401200;Nadgodziny techników;Personel;2691,82
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;402100;Materiały eksploatacyjne;Materiały;19160,16
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;403100;Podwykonawcy – sprzątanie;Podwykonawcy;46712,28
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;403200;Podwykonawcy – ochrona;Podwykonawcy;41854,03
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;36528,31
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;9036,34
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;404100;Energia elektryczna;Media;70838,55
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;404200;Media – woda i ciepło;Media;13516,70
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;405100;Wynajem sprzętu;Sprzęt;46069,36
+2026-08-01;L03;Centrum logistyczne Pruszków;Pruszków;Centrum;K03;CC1003;406100;Koszty ogólne kontraktu;Narzut;17556,00
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;401100;Wynagrodzenia techników;Personel;40096,56
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;401200;Nadgodziny techników;Personel;431,93
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;402100;Materiały eksploatacyjne;Materiały;4692,03
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;403100;Podwykonawcy – sprzątanie;Podwykonawcy;59002,70
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;403200;Podwykonawcy – ochrona;Podwykonawcy;29733,49
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;13458,55
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;3289,52
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;404100;Energia elektryczna;Media;47230,14
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;404200;Media – woda i ciepło;Media;10056,56
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L04;Biurowiec Krakowska Brama;Kraków;Południe;K04;CC1004;406100;Koszty ogólne kontraktu;Narzut;6583,50
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;401100;Wynagrodzenia techników;Personel;37838,64
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;401200;Nadgodziny techników;Personel;564,09
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;402100;Materiały eksploatacyjne;Materiały;4026,90
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;403100;Podwykonawcy – sprzątanie;Podwykonawcy;116249,60
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;403200;Podwykonawcy – ochrona;Podwykonawcy;36668,21
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;19594,54
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;2258,84
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;404100;Energia elektryczna;Media;69464,37
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;404200;Media – woda i ciepło;Media;15991,24
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L05;Szpital Medline Kraków;Kraków;Południe;K05;CC1005;406100;Koszty ogólne kontraktu;Narzut;4389,00
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;401100;Wynagrodzenia techników;Personel;49455,84
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;401200;Nadgodziny techników;Personel;7730,48
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;402100;Materiały eksploatacyjne;Materiały;36957,93
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;403100;Podwykonawcy – sprzątanie;Podwykonawcy;165132,79
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;403200;Podwykonawcy – ochrona;Podwykonawcy;100867,23
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;42885,32
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;6884,57
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;404100;Energia elektryczna;Media;133013,95
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;404200;Media – woda i ciepło;Media;24921,57
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L06;Galeria Nova Katowice;Katowice;Południe;K06;CC1006;406100;Koszty ogólne kontraktu;Narzut;13167,00
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;401100;Wynagrodzenia techników;Personel;40123,44
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;401200;Nadgodziny techników;Personel;766,26
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;402100;Materiały eksploatacyjne;Materiały;7318,37
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;403100;Podwykonawcy – sprzątanie;Podwykonawcy;73424,25
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;403200;Podwykonawcy – ochrona;Podwykonawcy;36163,27
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;15501,57
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;4034,42
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;404100;Energia elektryczna;Media;58713,65
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;404200;Media – woda i ciepło;Media;12700,10
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L07;Centrum usług Delta Wrocław;Wrocław;Zachód;K07;CC1007;406100;Koszty ogólne kontraktu;Narzut;8046,50
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;401100;Wynagrodzenia techników;Personel;53180,40
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;401200;Nadgodziny techników;Personel;4758,31
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;402100;Materiały eksploatacyjne;Materiały;19238,98
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;403100;Podwykonawcy – sprzątanie;Podwykonawcy;62173,12
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;403200;Podwykonawcy – ochrona;Podwykonawcy;47894,60
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;24493,15
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;7353,30
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;404100;Energia elektryczna;Media;124654,88
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;404200;Media – woda i ciepło;Media;19470,95
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;405100;Wynajem sprzętu;Sprzęt;4576,73
+2026-08-01;L08;Zakład Komponenta Poznań;Poznań;Zachód;K08;CC1008;406100;Koszty ogólne kontraktu;Narzut;14630,00
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;401100;Wynagrodzenia techników;Personel;39896,64
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;401200;Nadgodziny techników;Personel;379,03
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;402100;Materiały eksploatacyjne;Materiały;3591,02
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;403100;Podwykonawcy – sprzątanie;Podwykonawcy;53017,97
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;403200;Podwykonawcy – ochrona;Podwykonawcy;26929,29
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;11768,05
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;3124,41
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;404100;Energia elektryczna;Media;42696,60
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;404200;Media – woda i ciepło;Media;9027,29
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L09;Oliwa Business Point;Gdańsk;Północ;K09;CC1009;406100;Koszty ogólne kontraktu;Narzut;5852,00
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;401100;Wynagrodzenia techników;Personel;56888,16
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;401200;Nadgodziny techników;Personel;6817,46
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;402100;Materiały eksploatacyjne;Materiały;40897,33
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;403100;Podwykonawcy – sprzątanie;Podwykonawcy;50413,67
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;403200;Podwykonawcy – ochrona;Podwykonawcy;43133,33
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;40847,20
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;9970,60
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;404100;Energia elektryczna;Media;75076,97
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;404200;Media – woda i ciepło;Media;15093,65
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;405100;Wynajem sprzętu;Sprzęt;43548,96
+2026-08-01;L10;Magazyn e-commerce Stryków;Stryków;Centrum;K03;CC1010;406100;Koszty ogólne kontraktu;Narzut;19019,00
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;401100;Wynagrodzenia techników;Personel;40766,88
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;401200;Nadgodziny techników;Personel;128,52
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;402100;Materiały eksploatacyjne;Materiały;4441,56
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;403100;Podwykonawcy – sprzątanie;Podwykonawcy;48222,70
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;403200;Podwykonawcy – ochrona;Podwykonawcy;24101,43
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;10172,59
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;2718,91
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;404100;Energia elektryczna;Media;37158,72
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;404200;Media – woda i ciepło;Media;7553,73
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L11;Kampus Bank Wisła Lublin;Lublin;Wschód;K02;CC1011;406100;Koszty ogólne kontraktu;Narzut;5120,50
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;401100;Wynagrodzenia techników;Personel;41107,92
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;401200;Nadgodziny techników;Personel;0,00
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;402100;Materiały eksploatacyjne;Materiały;2400,02
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;403100;Podwykonawcy – sprzątanie;Podwykonawcy;33978,98
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;403200;Podwykonawcy – ochrona;Podwykonawcy;16371,77
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;403300;Podwykonawcy – serwis HVAC;Podwykonawcy;7204,59
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;1830,84
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;404100;Energia elektryczna;Media;27366,22
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;404200;Media – woda i ciepło;Media;5402,03
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;405100;Wynajem sprzętu;Sprzęt;0,00
+2026-08-01;L12;Port Office Szczecin;Szczecin;Północ;K09;CC1012;406100;Koszty ogólne kontraktu;Narzut;3657,50

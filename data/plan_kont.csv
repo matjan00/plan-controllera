@@ -1,0 +1,17 @@
+﻿konto;nazwa_konta;grupa;rodzaj
+401100;Wynagrodzenia techników;Personel;Koszt
+401200;Nadgodziny techników;Personel;Koszt
+402100;Materiały eksploatacyjne;Materiały;Koszt
+403100;Podwykonawcy – sprzątanie;Podwykonawcy;Koszt
+403200;Podwykonawcy – ochrona;Podwykonawcy;Koszt
+403300;Podwykonawcy – serwis HVAC;Podwykonawcy;Koszt
+403400;Podwykonawcy – zieleń i odśnieżanie;Podwykonawcy;Koszt
+404100;Energia elektryczna;Media;Koszt
+404200;Media – woda i ciepło;Media;Koszt
+405100;Wynajem sprzętu;Sprzęt;Koszt
+406100;Koszty ogólne kontraktu;Narzut;Koszt
+701100;Przychód – opłata stała;Przychody;Przychód
+701200;Przychód – refaktura kosztów;Przychody;Przychód
+701300;Przychód – narzut / opłata za zarządzanie;Przychody;Przychód
+701400;Przychód – prace dodatkowe;Przychody;Przychód
+701500;Przychód – refaktura energii;Przychody;Przychód

@@ -1,0 +1,1222 @@
+﻿Okres;Rok obrot.;Centrum kosztów;Rodzaj kosztów;Nazwa rodzaju kosztów;Nr dokumentu;Data księg.;Tekst;Partner;Wartość/WalORK
+1;2026;CC1001;401100;Wynagrodzenia techników;5100000554;31.01.2026;Płace techników 2026-01;;35.672,00
+1;2026;CC1001;401200;Nadgodziny techników;5100000555;31.01.2026;Nadgodziny techników 2026-01;;136,44
+1;2026;CC1001;402100;Materiały eksploatacyjne;5100000556;31.01.2026;Zużycie materiałów 2026-01;;7.248,95
+1;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000006;31.01.2026;FV/0001/26/CLE;CleanPro sp. z o.o.;83.396,29
+1;2026;CC1001;403200;Podwykonawcy – ochrona;5100000026;31.01.2026;FV/0001/26/STR;Strażnik Ochrona sp. z o.o.;38.856,89
+1;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000012;31.01.2026;FV/0002/26/KLI;Klimat-Tech sp. z o.o.;6.313,44
+1;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000058;05.02.2026;FV/0001/26/KLI;Klimat-Tech sp. z o.o.;5.658,57
+1;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000030;31.01.2026;FV/0001/26/ZIE;Zielony Zakątek s.c.;6.538,29
+1;2026;CC1001;404100;Energia elektryczna;5100000557;31.01.2026;Energia – refaktura dostawcy 2026-01;;72.843,21
+1;2026;CC1001;404200;Media – woda i ciepło;5100000558;31.01.2026;Media – woda i ciepło 2026-01;;34.737,20
+1;2026;CC1001;406100;Koszty ogólne kontraktu;5100000559;31.01.2026;Koszty ogólne kontraktu 2026-01;;8.778,00
+1;2026;CC1002;401100;Wynagrodzenia techników;5100000560;31.01.2026;Płace techników 2026-01;;34.667,20
+1;2026;CC1002;401200;Nadgodziny techników;5100000561;31.01.2026;Nadgodziny techników 2026-01;;563,55
+1;2026;CC1002;402100;Materiały eksploatacyjne;5100000562;31.01.2026;Zużycie materiałów 2026-01;;8.773,92
+1;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000007;31.01.2026;FV/0002/26/CLE;CleanPro sp. z o.o.;105.923,10
+1;2026;CC1002;403200;Podwykonawcy – ochrona;5100000054;04.02.2026;FV/0002/26/STR;Strażnik Ochrona sp. z o.o.;50.956,88
+1;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000041;01.02.2026;FV/0003/26/KLI;Klimat-Tech sp. z o.o.;6.645,34
+1;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000059;05.02.2026;FV/0004/26/KLI;Klimat-Tech sp. z o.o.;8.229,51
+1;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000031;31.01.2026;FV/0002/26/ZIE;Zielony Zakątek s.c.;8.730,69
+1;2026;CC1002;404100;Energia elektryczna;5100000563;31.01.2026;Energia – refaktura dostawcy 2026-01;;94.966,27
+1;2026;CC1002;404200;Media – woda i ciepło;5100000564;31.01.2026;Media – woda i ciepło 2026-01;;45.382,12
+1;2026;CC1002;405100;Wynajem sprzętu;5100000565;31.01.2026;Wynajem sprzętu 2026-01;;5.287,96
+1;2026;CC1002;406100;Koszty ogólne kontraktu;5100000566;31.01.2026;Koszty ogólne kontraktu 2026-01;;11.338,25
+1;2026;CC1003;401100;Wynagrodzenia techników;5100000567;31.01.2026;Płace techników 2026-01;;50.667,20
+1;2026;CC1003;401200;Nadgodziny techników;5100000568;31.01.2026;Nadgodziny techników 2026-01;;1.870,30
+1;2026;CC1003;402100;Materiały eksploatacyjne;5100000569;31.01.2026;Zużycie materiałów 2026-01;;11.065,63
+1;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000047;03.02.2026;FV/0003/26/CLE;CleanPro sp. z o.o.;46.011,26
+1;2026;CC1003;403200;Podwykonawcy – ochrona;5100000027;31.01.2026;FV/0003/26/STR;Strażnik Ochrona sp. z o.o.;38.752,97
+1;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000013;31.01.2026;FV/0005/26/KLI;Klimat-Tech sp. z o.o.;2.965,32
+1;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000014;31.01.2026;FV/0006/26/KLI;Klimat-Tech sp. z o.o.;3.139,82
+1;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000062;06.02.2026;FV/0007/26/KLI;Klimat-Tech sp. z o.o.;4.372,09
+1;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000032;31.01.2026;FV/0003/26/ZIE;Zielony Zakątek s.c.;13.375,19
+1;2026;CC1003;404100;Energia elektryczna;5100000570;31.01.2026;Energia – refaktura dostawcy 2026-01;;77.186,16
+1;2026;CC1003;404200;Media – woda i ciepło;5100000571;31.01.2026;Media – woda i ciepło 2026-01;;35.159,46
+1;2026;CC1003;405100;Wynajem sprzętu;5100000572;31.01.2026;Wynajem sprzętu 2026-01;;6.085,81
+1;2026;CC1003;406100;Koszty ogólne kontraktu;5100000573;31.01.2026;Koszty ogólne kontraktu 2026-01;;17.556,00
+1;2026;CC1004;401100;Wynagrodzenia techników;5100000574;31.01.2026;Płace techników 2026-01;;36.369,60
+1;2026;CC1004;401200;Nadgodziny techników;5100000575;31.01.2026;Nadgodziny techników 2026-01;;378,22
+1;2026;CC1004;402100;Materiały eksploatacyjne;5100000576;31.01.2026;Zużycie materiałów 2026-01;;4.336,56
+1;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000001;31.01.2026;FV/0001/26/BŁY;Błysk Serwis sp. z o.o.;61.680,66
+1;2026;CC1004;403200;Podwykonawcy – ochrona;5100000021;31.01.2026;FV/0001/26/SEC;Securo Polska S.A.;29.726,97
+1;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000017;31.01.2026;FV/0001/26/POL;Polar Chłód sp. z o.o.;2.196,97
+1;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000018;31.01.2026;FV/0002/26/POL;Polar Chłód sp. z o.o.;2.299,86
+1;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000064;06.02.2026;FV/0003/26/POL;Polar Chłód sp. z o.o.;4.636,95
+1;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000033;31.01.2026;FV/0004/26/ZIE;Zielony Zakątek s.c.;4.950,05
+1;2026;CC1004;404100;Energia elektryczna;5100000577;31.01.2026;Energia – refaktura dostawcy 2026-01;;53.753,33
+1;2026;CC1004;404200;Media – woda i ciepło;5100000578;31.01.2026;Media – woda i ciepło 2026-01;;26.669,60
+1;2026;CC1004;406100;Koszty ogólne kontraktu;5100000579;31.01.2026;Koszty ogólne kontraktu 2026-01;;6.583,50
+1;2026;CC1005;401100;Wynagrodzenia techników;5100000580;31.01.2026;Płace techników 2026-01;;34.320,00
+1;2026;CC1005;401200;Nadgodziny techników;5100000581;31.01.2026;Nadgodziny techników 2026-01;;254,48
+1;2026;CC1005;402100;Materiały eksploatacyjne;5100000582;31.01.2026;Zużycie materiałów 2026-01;;4.182,33
+1;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000049;04.02.2026;FV/0002/26/BŁY;Błysk Serwis sp. z o.o.;122.238,61
+1;2026;CC1005;403200;Podwykonawcy – ochrona;5100000022;31.01.2026;FV/0002/26/SEC;Securo Polska S.A.;37.407,02
+1;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000053;04.02.2026;FV/0005/26/POL;Polar Chłód sp. z o.o.;6.487,46
+1;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000060;05.02.2026;FV/0004/26/POL;Polar Chłód sp. z o.o.;6.326,97
+1;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000048;03.02.2026;FV/0005/26/ZIE;Zielony Zakątek s.c.;3.321,71
+1;2026;CC1005;404100;Energia elektryczna;5100000583;31.01.2026;Energia – refaktura dostawcy 2026-01;;77.263,88
+1;2026;CC1005;404200;Media – woda i ciepło;5100000584;31.01.2026;Media – woda i ciepło 2026-01;;42.712,71
+1;2026;CC1005;406100;Koszty ogólne kontraktu;5100000585;31.01.2026;Koszty ogólne kontraktu 2026-01;;4.389,00
+1;2026;CC1006;401100;Wynagrodzenia techników;5100000586;31.01.2026;Płace techników 2026-01;;44.857,60
+1;2026;CC1006;401200;Nadgodziny techników;5100000587;31.01.2026;Nadgodziny techników 2026-01;;1.093,97
+1;2026;CC1006;402100;Materiały eksploatacyjne;5100000588;31.01.2026;Zużycie materiałów 2026-01;;14.430,42
+1;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000040;01.02.2026;FV/0003/26/BŁY;Błysk Serwis sp. z o.o.;154.556,76
+1;2026;CC1006;403200;Podwykonawcy – ochrona;5100000023;31.01.2026;FV/0003/26/SEC;Securo Polska S.A.;85.517,49
+1;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000019;31.01.2026;FV/0007/26/POL;Polar Chłód sp. z o.o.;10.105,20
+1;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000020;31.01.2026;FV/0008/26/POL;Polar Chłód sp. z o.o.;5.862,80
+1;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000043;01.02.2026;FV/0006/26/POL;Polar Chłód sp. z o.o.;7.316,81
+1;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000034;31.01.2026;FV/0006/26/ZIE;Zielony Zakątek s.c.;10.275,16
+1;2026;CC1006;404100;Energia elektryczna;5100000589;31.01.2026;Energia – refaktura dostawcy 2026-01;;157.263,00
+1;2026;CC1006;404200;Media – woda i ciepło;5100000590;31.01.2026;Media – woda i ciepło 2026-01;;64.213,99
+1;2026;CC1006;405100;Wynajem sprzętu;5100000591;31.01.2026;Wynajem sprzętu 2026-01;;5.852,68
+1;2026;CC1006;406100;Koszty ogólne kontraktu;5100000592;31.01.2026;Koszty ogólne kontraktu 2026-01;;13.167,00
+1;2026;CC1007;401100;Wynagrodzenia techników;5100000593;31.01.2026;Płace techników 2026-01;;36.393,60
+1;2026;CC1007;401200;Nadgodziny techników;5100000594;31.01.2026;Nadgodziny techników 2026-01;;438,43
+1;2026;CC1007;402100;Materiały eksploatacyjne;5100000595;31.01.2026;Zużycie materiałów 2026-01;;6.019,92
+1;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000002;31.01.2026;FV/0004/26/BŁY;Błysk Serwis sp. z o.o.;76.297,75
+1;2026;CC1007;403200;Podwykonawcy – ochrona;5100000024;31.01.2026;FV/0004/26/SEC;Securo Polska S.A.;36.357,49
+1;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000010;31.01.2026;FV/0001/26/FRO;Frost Serwis s.c.;4.692,77
+1;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000056;05.02.2026;FV/0002/26/FRO;Frost Serwis s.c.;2.988,93
+1;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000061;06.02.2026;FV/0003/26/FRO;Frost Serwis s.c.;3.472,17
+1;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000035;31.01.2026;FV/0007/26/ZIE;Zielony Zakątek s.c.;6.044,28
+1;2026;CC1007;404100;Energia elektryczna;5100000596;31.01.2026;Energia – refaktura dostawcy 2026-01;;66.008,86
+1;2026;CC1007;404200;Media – woda i ciepło;5100000597;31.01.2026;Media – woda i ciepło 2026-01;;32.684,01
+1;2026;CC1007;405100;Wynajem sprzętu;5100000598;31.01.2026;Wynajem sprzętu 2026-01;;4.466,13
+1;2026;CC1007;406100;Koszty ogólne kontraktu;5100000599;31.01.2026;Koszty ogólne kontraktu 2026-01;;8.046,50
+1;2026;CC1008;401100;Wynagrodzenia techników;5100000600;31.01.2026;Płace techników 2026-01;;48.236,80
+1;2026;CC1008;401200;Nadgodziny techników;5100000601;31.01.2026;Nadgodziny techników 2026-01;;481,69
+1;2026;CC1008;402100;Materiały eksploatacyjne;5100000602;31.01.2026;Zużycie materiałów 2026-01;;12.207,84
+1;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000003;31.01.2026;FV/0005/26/BŁY;Błysk Serwis sp. z o.o.;62.295,24
+1;2026;CC1008;403200;Podwykonawcy – ochrona;5100000025;31.01.2026;FV/0005/26/SEC;Securo Polska S.A.;46.556,60
+1;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000011;31.01.2026;FV/0004/26/FRO;Frost Serwis s.c.;8.112,53
+1;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000057;05.02.2026;FV/0005/26/FRO;Frost Serwis s.c.;7.459,77
+1;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000036;31.01.2026;FV/0008/26/ZIE;Zielony Zakątek s.c.;11.368,09
+1;2026;CC1008;404100;Energia elektryczna;5100000603;31.01.2026;Energia – refaktura dostawcy 2026-01;;139.997,97
+1;2026;CC1008;404200;Media – woda i ciepło;5100000604;31.01.2026;Media – woda i ciepło 2026-01;;54.996,94
+1;2026;CC1008;405100;Wynajem sprzętu;5100000605;31.01.2026;Wynajem sprzętu 2026-01;;4.792,65
+1;2026;CC1008;406100;Koszty ogólne kontraktu;5100000606;31.01.2026;Koszty ogólne kontraktu 2026-01;;14.630,00
+1;2026;CC1009;401100;Wynagrodzenia techników;5100000607;31.01.2026;Płace techników 2026-01;;36.187,20
+1;2026;CC1009;401200;Nadgodziny techników;5100000608;31.01.2026;Nadgodziny techników 2026-01;;904,31
+1;2026;CC1009;402100;Materiały eksploatacyjne;5100000609;31.01.2026;Zużycie materiałów 2026-01;;13.331,91
+1;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000004;31.01.2026;FV/0006/26/BŁY;Błysk Serwis sp. z o.o.;51.744,24
+1;2026;CC1009;403200;Podwykonawcy – ochrona;5100000045;02.02.2026;FV/0004/26/STR;Strażnik Ochrona sp. z o.o.;26.971,42
+1;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000051;04.02.2026;FV/0008/26/KLI;Klimat-Tech sp. z o.o.;7.561,48
+1;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000037;31.01.2026;FV/0009/26/ZIE;Zielony Zakątek s.c.;4.500,05
+1;2026;CC1009;404100;Energia elektryczna;5100000610;31.01.2026;Energia – refaktura dostawcy 2026-01;;49.487,95
+1;2026;CC1009;404200;Media – woda i ciepło;5100000611;31.01.2026;Media – woda i ciepło 2026-01;;23.509,75
+1;2026;CC1009;406100;Koszty ogólne kontraktu;5100000612;31.01.2026;Koszty ogólne kontraktu 2026-01;;5.852,00
+1;2026;CC1010;401100;Wynagrodzenia techników;5100000613;31.01.2026;Płace techników 2026-01;;51.598,40
+1;2026;CC1010;401200;Nadgodziny techników;5100000614;31.01.2026;Nadgodziny techników 2026-01;;912,11
+1;2026;CC1010;402100;Materiały eksploatacyjne;5100000615;31.01.2026;Zużycie materiałów 2026-01;;11.712,53
+1;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000008;31.01.2026;FV/0004/26/CLE;CleanPro sp. z o.o.;48.192,90
+1;2026;CC1010;403200;Podwykonawcy – ochrona;5100000028;31.01.2026;FV/0005/26/STR;Strażnik Ochrona sp. z o.o.;42.174,85
+1;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000015;31.01.2026;FV/0009/26/KLI;Klimat-Tech sp. z o.o.;3.697,87
+1;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000042;01.02.2026;FV/0010/26/KLI;Klimat-Tech sp. z o.o.;3.038,56
+1;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000044;02.02.2026;FV/0011/26/KLI;Klimat-Tech sp. z o.o.;4.591,98
+1;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000038;31.01.2026;FV/0010/26/ZIE;Zielony Zakątek s.c.;15.168,42
+1;2026;CC1010;404100;Energia elektryczna;5100000616;31.01.2026;Energia – refaktura dostawcy 2026-01;;84.103,45
+1;2026;CC1010;404200;Media – woda i ciepło;5100000617;31.01.2026;Media – woda i ciepło 2026-01;;38.919,68
+1;2026;CC1010;405100;Wynajem sprzętu;5100000618;31.01.2026;Wynajem sprzętu 2026-01;;5.633,86
+1;2026;CC1010;406100;Koszty ogólne kontraktu;5100000619;31.01.2026;Koszty ogólne kontraktu 2026-01;;19.019,00
+1;2026;CC1011;401100;Wynagrodzenia techników;5100000620;31.01.2026;Płace techników 2026-01;;36.976,00
+1;2026;CC1011;401200;Nadgodziny techników;5100000621;31.01.2026;Nadgodziny techników 2026-01;;106,16
+1;2026;CC1011;402100;Materiały eksploatacyjne;5100000622;31.01.2026;Zużycie materiałów 2026-01;;2.785,61
+1;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000009;31.01.2026;FV/0005/26/CLE;CleanPro sp. z o.o.;47.193,73
+1;2026;CC1011;403200;Podwykonawcy – ochrona;5100000046;02.02.2026;FV/0006/26/STR;Strażnik Ochrona sp. z o.o.;22.698,94
+1;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000063;06.02.2026;FV/0012/26/KLI;Klimat-Tech sp. z o.o.;6.718,50
+1;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000055;04.02.2026;FV/0011/26/ZIE;Zielony Zakątek s.c.;3.840,41
+1;2026;CC1011;404100;Energia elektryczna;5100000623;31.01.2026;Energia – refaktura dostawcy 2026-01;;41.468,46
+1;2026;CC1011;404200;Media – woda i ciepło;5100000624;31.01.2026;Media – woda i ciepło 2026-01;;20.133,98
+1;2026;CC1011;406100;Koszty ogólne kontraktu;5100000625;31.01.2026;Koszty ogólne kontraktu 2026-01;;5.120,50
+1;2026;CC1012;401100;Wynagrodzenia techników;5100000626;31.01.2026;Płace techników 2026-01;;37.286,40
+1;2026;CC1012;402100;Materiały eksploatacyjne;5100000627;31.01.2026;Zużycie materiałów 2026-01;;2.342,37
+1;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000005;31.01.2026;FV/0007/26/BŁY;Błysk Serwis sp. z o.o.;32.350,60
+1;2026;CC1012;403200;Podwykonawcy – ochrona;5100000029;31.01.2026;FV/0007/26/STR;Strażnik Ochrona sp. z o.o.;16.761,27
+1;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000016;31.01.2026;FV/0014/26/KLI;Klimat-Tech sp. z o.o.;2.859,89
+1;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000050;04.02.2026;FK/0125/26/KLI;Klimat-Tech sp. z o.o.;224,03-
+1;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000052;04.02.2026;FV/0013/26/KLI;Klimat-Tech sp. z o.o.;2.069,17
+1;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000039;31.01.2026;FV/0012/26/ZIE;Zielony Zakątek s.c.;2.905,68
+1;2026;CC1012;404100;Energia elektryczna;5100000628;31.01.2026;Energia – refaktura dostawcy 2026-01;;30.873,93
+1;2026;CC1012;404200;Media – woda i ciepło;5100000629;31.01.2026;Media – woda i ciepło 2026-01;;14.844,90
+1;2026;CC1012;406100;Koszty ogólne kontraktu;5100000630;31.01.2026;Koszty ogólne kontraktu 2026-01;;3.657,50
+2;2026;CC1001;401100;Wynagrodzenia techników;5100000631;28.02.2026;Płace techników 2026-02;;35.672,00
+2;2026;CC1001;401200;Nadgodziny techników;5100000632;28.02.2026;Nadgodziny techników 2026-02;;2.555,99
+2;2026;CC1001;402100;Materiały eksploatacyjne;5100000633;28.02.2026;Zużycie materiałów 2026-02;;20.687,85
+2;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000072;28.02.2026;FV/0006/26/CLE;CleanPro sp. z o.o.;80.151,53
+2;2026;CC1001;403200;Podwykonawcy – ochrona;5100000115;03.03.2026;FV/0008/26/STR;Strażnik Ochrona sp. z o.o.;40.510,62
+2;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000079;28.02.2026;FV/0016/26/KLI;Klimat-Tech sp. z o.o.;5.865,83
+2;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000123;06.03.2026;FV/0015/26/KLI;Klimat-Tech sp. z o.o.;5.564,47
+2;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000097;28.02.2026;FV/0013/26/ZIE;Zielony Zakątek s.c.;6.687,97
+2;2026;CC1001;404100;Energia elektryczna;5100000634;28.02.2026;Energia – refaktura dostawcy 2026-02;;71.019,32
+2;2026;CC1001;404200;Media – woda i ciepło;5100000635;28.02.2026;Media – woda i ciepło 2026-02;;33.161,57
+2;2026;CC1001;406100;Koszty ogólne kontraktu;5100000636;28.02.2026;Koszty ogólne kontraktu 2026-02;;8.778,00
+2;2026;CC1002;401100;Wynagrodzenia techników;5100000637;28.02.2026;Płace techników 2026-02;;34.667,20
+2;2026;CC1002;401200;Nadgodziny techników;5100000638;28.02.2026;Nadgodziny techników 2026-02;;1.577,49
+2;2026;CC1002;402100;Materiały eksploatacyjne;5100000639;28.02.2026;Zużycie materiałów 2026-02;;9.512,75
+2;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000073;28.02.2026;FV/0007/26/CLE;CleanPro sp. z o.o.;102.249,82
+2;2026;CC1002;403200;Podwykonawcy – ochrona;5100000111;02.03.2026;FV/0009/26/STR;Strażnik Ochrona sp. z o.o.;50.226,66
+2;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000080;28.02.2026;FV/0017/26/KLI;Klimat-Tech sp. z o.o.;6.499,82
+2;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000081;28.02.2026;FV/0018/26/KLI;Klimat-Tech sp. z o.o.;8.424,04
+2;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000107;01.03.2026;FV/0014/26/ZIE;Zielony Zakątek s.c.;8.785,70
+2;2026;CC1002;404100;Energia elektryczna;5100000640;28.02.2026;Energia – refaktura dostawcy 2026-02;;89.227,08
+2;2026;CC1002;404200;Media – woda i ciepło;5100000641;28.02.2026;Media – woda i ciepło 2026-02;;43.273,08
+2;2026;CC1002;406100;Koszty ogólne kontraktu;5100000642;28.02.2026;Koszty ogólne kontraktu 2026-02;;11.338,25
+2;2026;CC1003;401100;Wynagrodzenia techników;5100000643;28.02.2026;Płace techników 2026-02;;50.667,20
+2;2026;CC1003;401200;Nadgodziny techników;5100000644;28.02.2026;Nadgodziny techników 2026-02;;3.894,11
+2;2026;CC1003;402100;Materiały eksploatacyjne;5100000645;28.02.2026;Zużycie materiałów 2026-02;;34.858,32
+2;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000120;05.03.2026;FV/0008/26/CLE;CleanPro sp. z o.o.;44.494,04
+2;2026;CC1003;403200;Podwykonawcy – ochrona;5100000093;28.02.2026;FV/0010/26/STR;Strażnik Ochrona sp. z o.o.;41.706,65
+2;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000082;28.02.2026;FV/0019/26/KLI;Klimat-Tech sp. z o.o.;5.091,71
+2;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000083;28.02.2026;FV/0020/26/KLI;Klimat-Tech sp. z o.o.;5.368,56
+2;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000098;28.02.2026;FV/0015/26/ZIE;Zielony Zakątek s.c.;13.649,66
+2;2026;CC1003;404100;Energia elektryczna;5100000646;28.02.2026;Energia – refaktura dostawcy 2026-02;;74.912,10
+2;2026;CC1003;404200;Media – woda i ciepło;5100000647;28.02.2026;Media – woda i ciepło 2026-02;;33.698,03
+2;2026;CC1003;405100;Wynajem sprzętu;5100000648;28.02.2026;Wynajem sprzętu 2026-02;;6.018,02
+2;2026;CC1003;406100;Koszty ogólne kontraktu;5100000649;28.02.2026;Koszty ogólne kontraktu 2026-02;;17.556,00
+2;2026;CC1004;401100;Wynagrodzenia techników;5100000650;28.02.2026;Płace techników 2026-02;;36.369,60
+2;2026;CC1004;401200;Nadgodziny techników;5100000651;28.02.2026;Nadgodziny techników 2026-02;;2.142,27
+2;2026;CC1004;402100;Materiały eksploatacyjne;5100000652;28.02.2026;Zużycie materiałów 2026-02;;11.541,88
+2;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000065;28.02.2026;FV/0008/26/BŁY;Błysk Serwis sp. z o.o.;60.283,78
+2;2026;CC1004;403200;Podwykonawcy – ochrona;5100000122;05.03.2026;FV/0006/26/SEC;Securo Polska S.A.;29.523,74
+2;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000087;28.02.2026;FV/0009/26/POL;Polar Chłód sp. z o.o.;9.049,73
+2;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000099;28.02.2026;FV/0016/26/ZIE;Zielony Zakątek s.c.;4.927,09
+2;2026;CC1004;404100;Energia elektryczna;5100000653;28.02.2026;Energia – refaktura dostawcy 2026-02;;52.048,60
+2;2026;CC1004;404200;Media – woda i ciepło;5100000654;28.02.2026;Media – woda i ciepło 2026-02;;24.823,60
+2;2026;CC1004;406100;Koszty ogólne kontraktu;5100000655;28.02.2026;Koszty ogólne kontraktu 2026-02;;6.583,50
+2;2026;CC1005;401100;Wynagrodzenia techników;5100000656;28.02.2026;Płace techników 2026-02;;34.320,00
+2;2026;CC1005;401200;Nadgodziny techników;5100000657;28.02.2026;Nadgodziny techników 2026-02;;111,81
+2;2026;CC1005;402100;Materiały eksploatacyjne;5100000658;28.02.2026;Zużycie materiałów 2026-02;;2.835,48
+2;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000066;28.02.2026;FV/0009/26/BŁY;Błysk Serwis sp. z o.o.;117.122,22
+2;2026;CC1005;403200;Podwykonawcy – ochrona;5100000090;28.02.2026;FV/0007/26/SEC;Securo Polska S.A.;37.522,51
+2;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000088;28.02.2026;FV/0011/26/POL;Polar Chłód sp. z o.o.;5.361,90
+2;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000110;02.03.2026;FV/0010/26/POL;Polar Chłód sp. z o.o.;7.867,50
+2;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000100;28.02.2026;FV/0017/26/ZIE;Zielony Zakątek s.c.;3.420,46
+2;2026;CC1005;404100;Energia elektryczna;5100000659;28.02.2026;Energia – refaktura dostawcy 2026-02;;74.933,04
+2;2026;CC1005;404200;Media – woda i ciepło;5100000660;28.02.2026;Media – woda i ciepło 2026-02;;41.754,36
+2;2026;CC1005;406100;Koszty ogólne kontraktu;5100000661;28.02.2026;Koszty ogólne kontraktu 2026-02;;4.389,00
+2;2026;CC1006;401100;Wynagrodzenia techników;5100000662;28.02.2026;Płace techników 2026-02;;44.857,60
+2;2026;CC1006;401200;Nadgodziny techników;5100000663;28.02.2026;Nadgodziny techników 2026-02;;2.132,54
+2;2026;CC1006;402100;Materiały eksploatacyjne;5100000664;28.02.2026;Zużycie materiałów 2026-02;;10.791,61
+2;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000067;28.02.2026;FV/0010/26/BŁY;Błysk Serwis sp. z o.o.;147.488,15
+2;2026;CC1006;403200;Podwykonawcy – ochrona;5100000114;03.03.2026;FV/0008/26/SEC;Securo Polska S.A.;82.184,01
+2;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000089;28.02.2026;FV/0012/26/POL;Polar Chłód sp. z o.o.;13.781,93
+2;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000106;01.03.2026;FV/0013/26/POL;Polar Chłód sp. z o.o.;9.251,44
+2;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000101;28.02.2026;FV/0018/26/ZIE;Zielony Zakątek s.c.;9.930,31
+2;2026;CC1006;404100;Energia elektryczna;5100000665;28.02.2026;Energia – refaktura dostawcy 2026-02;;150.486,17
+2;2026;CC1006;404200;Media – woda i ciepło;5100000666;28.02.2026;Media – woda i ciepło 2026-02;;60.666,85
+2;2026;CC1006;406100;Koszty ogólne kontraktu;5100000667;28.02.2026;Koszty ogólne kontraktu 2026-02;;13.167,00
+2;2026;CC1007;401100;Wynagrodzenia techników;5100000668;28.02.2026;Płace techników 2026-02;;36.393,60
+2;2026;CC1007;401200;Nadgodziny techników;5100000669;28.02.2026;Nadgodziny techników 2026-02;;125,27
+2;2026;CC1007;402100;Materiały eksploatacyjne;5100000670;28.02.2026;Zużycie materiałów 2026-02;;5.985,72
+2;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000068;28.02.2026;FV/0011/26/BŁY;Błysk Serwis sp. z o.o.;74.258,53
+2;2026;CC1007;403200;Podwykonawcy – ochrona;5100000091;28.02.2026;FV/0009/26/SEC;Securo Polska S.A.;35.929,99
+2;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000076;28.02.2026;FV/0006/26/FRO;Frost Serwis s.c.;4.600,58
+2;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000077;28.02.2026;FV/0007/26/FRO;Frost Serwis s.c.;6.320,81
+2;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000102;28.02.2026;FV/0019/26/ZIE;Zielony Zakątek s.c.;6.112,11
+2;2026;CC1007;404100;Energia elektryczna;5100000671;28.02.2026;Energia – refaktura dostawcy 2026-02;;65.348,77
+2;2026;CC1007;404200;Media – woda i ciepło;5100000672;28.02.2026;Media – woda i ciepło 2026-02;;31.082,39
+2;2026;CC1007;405100;Wynajem sprzętu;5100000673;28.02.2026;Wynajem sprzętu 2026-02;;5.406,52
+2;2026;CC1007;406100;Koszty ogólne kontraktu;5100000674;28.02.2026;Koszty ogólne kontraktu 2026-02;;8.046,50
+2;2026;CC1008;401100;Wynagrodzenia techników;5100000675;28.02.2026;Płace techników 2026-02;;48.236,80
+2;2026;CC1008;401200;Nadgodziny techników;5100000676;28.02.2026;Nadgodziny techników 2026-02;;3.744,71
+2;2026;CC1008;402100;Materiały eksploatacyjne;5100000677;28.02.2026;Zużycie materiałów 2026-02;;27.751,90
+2;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000069;28.02.2026;FV/0012/26/BŁY;Błysk Serwis sp. z o.o.;63.379,46
+2;2026;CC1008;403200;Podwykonawcy – ochrona;5100000092;28.02.2026;FV/0010/26/SEC;Securo Polska S.A.;44.523,71
+2;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000078;28.02.2026;FV/0008/26/FRO;Frost Serwis s.c.;9.374,96
+2;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000121;05.03.2026;FV/0009/26/FRO;Frost Serwis s.c.;6.407,76
+2;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000103;28.02.2026;FV/0020/26/ZIE;Zielony Zakątek s.c.;11.020,00
+2;2026;CC1008;404100;Energia elektryczna;5100000678;28.02.2026;Energia – refaktura dostawcy 2026-02;;132.449,72
+2;2026;CC1008;404200;Media – woda i ciepło;5100000679;28.02.2026;Media – woda i ciepło 2026-02;;50.098,66
+2;2026;CC1008;405100;Wynajem sprzętu;5100000680;28.02.2026;Wynajem sprzętu 2026-02;;4.606,59
+2;2026;CC1008;406100;Koszty ogólne kontraktu;5100000681;28.02.2026;Koszty ogólne kontraktu 2026-02;;14.630,00
+2;2026;CC1009;401100;Wynagrodzenia techników;5100000682;28.02.2026;Płace techników 2026-02;;36.187,20
+2;2026;CC1009;401200;Nadgodziny techników;5100000683;28.02.2026;Nadgodziny techników 2026-02;;3.121,86
+2;2026;CC1009;402100;Materiały eksploatacyjne;5100000684;28.02.2026;Zużycie materiałów 2026-02;;11.317,05
+2;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000070;28.02.2026;FV/0013/26/BŁY;Błysk Serwis sp. z o.o.;53.000,38
+2;2026;CC1009;403200;Podwykonawcy – ochrona;5100000094;28.02.2026;FV/0011/26/STR;Strażnik Ochrona sp. z o.o.;27.158,48
+2;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000084;28.02.2026;FV/0022/26/KLI;Klimat-Tech sp. z o.o.;4.308,65
+2;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000117;04.03.2026;FV/0021/26/KLI;Klimat-Tech sp. z o.o.;3.440,73
+2;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000104;28.02.2026;FV/0021/26/ZIE;Zielony Zakątek s.c.;4.562,95
+2;2026;CC1009;404100;Energia elektryczna;5100000685;28.02.2026;Energia – refaktura dostawcy 2026-02;;47.696,95
+2;2026;CC1009;404200;Media – woda i ciepło;5100000686;28.02.2026;Media – woda i ciepło 2026-02;;22.830,15
+2;2026;CC1009;406100;Koszty ogólne kontraktu;5100000687;28.02.2026;Koszty ogólne kontraktu 2026-02;;5.852,00
+2;2026;CC1010;401100;Wynagrodzenia techników;5100000688;28.02.2026;Płace techników 2026-02;;51.598,40
+2;2026;CC1010;401200;Nadgodziny techników;5100000689;28.02.2026;Nadgodziny techników 2026-02;;2.050,93
+2;2026;CC1010;402100;Materiały eksploatacyjne;5100000690;28.02.2026;Zużycie materiałów 2026-02;;13.163,14
+2;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000074;28.02.2026;FV/0009/26/CLE;CleanPro sp. z o.o.;47.893,58
+2;2026;CC1010;403200;Podwykonawcy – ochrona;5100000095;28.02.2026;FV/0012/26/STR;Strażnik Ochrona sp. z o.o.;42.770,64
+2;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000113;03.03.2026;FV/0024/26/KLI;Klimat-Tech sp. z o.o.;7.103,20
+2;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000118;04.03.2026;FV/0023/26/KLI;Klimat-Tech sp. z o.o.;4.795,94
+2;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000108;01.03.2026;FV/0022/26/ZIE;Zielony Zakątek s.c.;14.671,06
+2;2026;CC1010;404100;Energia elektryczna;5100000691;28.02.2026;Energia – refaktura dostawcy 2026-02;;78.981,76
+2;2026;CC1010;404200;Media – woda i ciepło;5100000692;28.02.2026;Media – woda i ciepło 2026-02;;37.276,73
+2;2026;CC1010;405100;Wynajem sprzętu;5100000693;28.02.2026;Wynajem sprzętu 2026-02;;6.090,98
+2;2026;CC1010;406100;Koszty ogólne kontraktu;5100000694;28.02.2026;Koszty ogólne kontraktu 2026-02;;19.019,00
+2;2026;CC1011;401100;Wynagrodzenia techników;5100000695;28.02.2026;Płace techników 2026-02;;36.976,00
+2;2026;CC1011;401200;Nadgodziny techników;5100000696;28.02.2026;Nadgodziny techników 2026-02;;59,05
+2;2026;CC1011;402100;Materiały eksploatacyjne;5100000697;28.02.2026;Zużycie materiałów 2026-02;;4.067,01
+2;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000075;28.02.2026;FV/0010/26/CLE;CleanPro sp. z o.o.;45.670,69
+2;2026;CC1011;403200;Podwykonawcy – ochrona;5100000112;02.03.2026;FV/0013/26/STR;Strażnik Ochrona sp. z o.o.;24.213,75
+2;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000085;28.02.2026;FV/0025/26/KLI;Klimat-Tech sp. z o.o.;4.315,14
+2;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000086;28.02.2026;FV/0026/26/KLI;Klimat-Tech sp. z o.o.;2.574,93
+2;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000105;28.02.2026;FV/0023/26/ZIE;Zielony Zakątek s.c.;3.851,12
+2;2026;CC1011;404100;Energia elektryczna;5100000698;28.02.2026;Energia – refaktura dostawcy 2026-02;;40.170,41
+2;2026;CC1011;404200;Media – woda i ciepło;5100000699;28.02.2026;Media – woda i ciepło 2026-02;;20.159,95
+2;2026;CC1011;406100;Koszty ogólne kontraktu;5100000700;28.02.2026;Koszty ogólne kontraktu 2026-02;;5.120,50
+2;2026;CC1012;401100;Wynagrodzenia techników;5100000701;28.02.2026;Płace techników 2026-02;;37.286,40
+2;2026;CC1012;402100;Materiały eksploatacyjne;5100000702;28.02.2026;Zużycie materiałów 2026-02;;3.202,19
+2;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000071;28.02.2026;FV/0014/26/BŁY;Błysk Serwis sp. z o.o.;34.604,38
+2;2026;CC1012;403200;Podwykonawcy – ochrona;5100000096;28.02.2026;FV/0014/26/STR;Strażnik Ochrona sp. z o.o.;16.546,01
+2;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000109;02.03.2026;FV/0027/26/KLI;Klimat-Tech sp. z o.o.;2.424,57
+2;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000119;04.03.2026;FV/0028/26/KLI;Klimat-Tech sp. z o.o.;2.435,01
+2;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000116;03.03.2026;FV/0024/26/ZIE;Zielony Zakątek s.c.;2.820,83
+2;2026;CC1012;404100;Energia elektryczna;5100000703;28.02.2026;Energia – refaktura dostawcy 2026-02;;28.848,60
+2;2026;CC1012;404200;Media – woda i ciepło;5100000704;28.02.2026;Media – woda i ciepło 2026-02;;14.370,43
+2;2026;CC1012;406100;Koszty ogólne kontraktu;5100000705;28.02.2026;Koszty ogólne kontraktu 2026-02;;3.657,50
+3;2026;CC1001;401100;Wynagrodzenia techników;5100000706;31.03.2026;Płace techników 2026-03;;39.239,20
+3;2026;CC1001;401200;Nadgodziny techników;5100000707;31.03.2026;Nadgodziny techników 2026-03;;5.025,82
+3;2026;CC1001;402100;Materiały eksploatacyjne;5100000708;31.03.2026;Zużycie materiałów 2026-03;;15.535,29
+3;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000159;01.04.2026;FV/0011/26/CLE;CleanPro sp. z o.o.;82.774,54
+3;2026;CC1001;403200;Podwykonawcy – ochrona;5100000161;01.04.2026;FV/0015/26/STR;Strażnik Ochrona sp. z o.o.;41.636,09
+3;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000133;31.03.2026;FV/0029/26/KLI;Klimat-Tech sp. z o.o.;5.894,88
+3;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000166;02.04.2026;FV/0030/26/KLI;Klimat-Tech sp. z o.o.;6.384,06
+3;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000169;02.04.2026;FV/0025/26/ZIE;Zielony Zakątek s.c.;3.905,27
+3;2026;CC1001;404100;Energia elektryczna;5100000709;31.03.2026;Energia – refaktura dostawcy 2026-03;;61.882,10
+3;2026;CC1001;404200;Media – woda i ciepło;5100000710;31.03.2026;Media – woda i ciepło 2026-03;;27.686,90
+3;2026;CC1001;406100;Koszty ogólne kontraktu;5100000711;31.03.2026;Koszty ogólne kontraktu 2026-03;;8.778,00
+3;2026;CC1002;401100;Wynagrodzenia techników;5100000712;31.03.2026;Płace techników 2026-03;;38.133,92
+3;2026;CC1002;401200;Nadgodziny techników;5100000713;31.03.2026;Nadgodziny techników 2026-03;;3.311,69
+3;2026;CC1002;402100;Materiały eksploatacyjne;5100000714;31.03.2026;Zużycie materiałów 2026-03;;16.650,16
+3;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000164;02.04.2026;FV/0012/26/CLE;CleanPro sp. z o.o.;108.302,96
+3;2026;CC1002;403200;Podwykonawcy – ochrona;5100000149;31.03.2026;FV/0016/26/STR;Strażnik Ochrona sp. z o.o.;53.094,88
+3;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000134;31.03.2026;FV/0033/26/KLI;Klimat-Tech sp. z o.o.;4.134,79
+3;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000172;03.04.2026;FV/0031/26/KLI;Klimat-Tech sp. z o.o.;6.306,72
+3;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000183;06.04.2026;FV/0032/26/KLI;Klimat-Tech sp. z o.o.;5.794,58
+3;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000153;31.03.2026;FV/0026/26/ZIE;Zielony Zakątek s.c.;4.719,24
+3;2026;CC1002;404100;Energia elektryczna;5100000715;31.03.2026;Energia – refaktura dostawcy 2026-03;;82.306,27
+3;2026;CC1002;404200;Media – woda i ciepło;5100000716;31.03.2026;Media – woda i ciepło 2026-03;;35.786,22
+3;2026;CC1002;406100;Koszty ogólne kontraktu;5100000717;31.03.2026;Koszty ogólne kontraktu 2026-03;;11.338,25
+3;2026;CC1003;401100;Wynagrodzenia techników;5100000718;31.03.2026;Płace techników 2026-03;;55.733,92
+3;2026;CC1003;401200;Nadgodziny techników;5100000719;31.03.2026;Nadgodziny techników 2026-03;;2.027,55
+3;2026;CC1003;402100;Materiały eksploatacyjne;5100000720;31.03.2026;Zużycie materiałów 2026-03;;34.102,48
+3;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000128;31.03.2026;FV/0013/26/CLE;CleanPro sp. z o.o.;45.410,58
+3;2026;CC1003;403200;Podwykonawcy – ochrona;5100000181;05.04.2026;FV/0017/26/STR;Strażnik Ochrona sp. z o.o.;40.645,84
+3;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000135;31.03.2026;FV/0034/26/KLI;Klimat-Tech sp. z o.o.;10.939,04
+3;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000162;01.04.2026;FV/0027/26/ZIE;Zielony Zakątek s.c.;7.655,40
+3;2026;CC1003;404100;Energia elektryczna;5100000721;31.03.2026;Energia – refaktura dostawcy 2026-03;;67.665,24
+3;2026;CC1003;404200;Media – woda i ciepło;5100000722;31.03.2026;Media – woda i ciepło 2026-03;;27.244,17
+3;2026;CC1003;405100;Wynajem sprzętu;5100000723;31.03.2026;Wynajem sprzętu 2026-03;;5.427,18
+3;2026;CC1003;406100;Koszty ogólne kontraktu;5100000724;31.03.2026;Koszty ogólne kontraktu 2026-03;;17.556,00
+3;2026;CC1004;401100;Wynagrodzenia techników;5100000725;31.03.2026;Płace techników 2026-03;;40.006,56
+3;2026;CC1004;402100;Materiały eksploatacyjne;5100000726;31.03.2026;Zużycie materiałów 2026-03;;5.272,07
+3;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000171;03.04.2026;FV/0015/26/BŁY;Błysk Serwis sp. z o.o.;61.428,55
+3;2026;CC1004;403200;Podwykonawcy – ochrona;5100000144;31.03.2026;FV/0011/26/SEC;Securo Polska S.A.;30.831,77
+3;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000139;31.03.2026;FV/0014/26/POL;Polar Chłód sp. z o.o.;4.737,70
+3;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000140;31.03.2026;FV/0015/26/POL;Polar Chłód sp. z o.o.;4.919,88
+3;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000154;31.03.2026;FV/0028/26/ZIE;Zielony Zakątek s.c.;2.943,49
+3;2026;CC1004;404100;Energia elektryczna;5100000727;31.03.2026;Energia – refaktura dostawcy 2026-03;;48.620,59
+3;2026;CC1004;404200;Media – woda i ciepło;5100000728;31.03.2026;Media – woda i ciepło 2026-03;;19.949,17
+3;2026;CC1004;406100;Koszty ogólne kontraktu;5100000729;31.03.2026;Koszty ogólne kontraktu 2026-03;;6.583,50
+3;2026;CC1005;401100;Wynagrodzenia techników;5100000730;31.03.2026;Płace techników 2026-03;;37.752,00
+3;2026;CC1005;401200;Nadgodziny techników;5100000731;31.03.2026;Nadgodziny techników 2026-03;;480,68
+3;2026;CC1005;402100;Materiały eksploatacyjne;5100000732;31.03.2026;Zużycie materiałów 2026-03;;3.441,79
+3;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000124;31.03.2026;FV/0016/26/BŁY;Błysk Serwis sp. z o.o.;117.047,57
+3;2026;CC1005;403200;Podwykonawcy – ochrona;5100000174;03.04.2026;FV/0012/26/SEC;Securo Polska S.A.;38.873,79
+3;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000141;31.03.2026;FV/0016/26/POL;Polar Chłód sp. z o.o.;6.320,53
+3;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000142;31.03.2026;FV/0017/26/POL;Polar Chłód sp. z o.o.;6.762,70
+3;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000155;31.03.2026;FV/0029/26/ZIE;Zielony Zakątek s.c.;1.948,15
+3;2026;CC1005;404100;Energia elektryczna;5100000733;31.03.2026;Energia – refaktura dostawcy 2026-03;;69.551,32
+3;2026;CC1005;404200;Media – woda i ciepło;5100000734;31.03.2026;Media – woda i ciepło 2026-03;;32.329,07
+3;2026;CC1005;406100;Koszty ogólne kontraktu;5100000735;31.03.2026;Koszty ogólne kontraktu 2026-03;;4.389,00
+3;2026;CC1006;401100;Wynagrodzenia techników;5100000736;31.03.2026;Płace techników 2026-03;;49.343,36
+3;2026;CC1006;401200;Nadgodziny techników;5100000737;31.03.2026;Nadgodziny techników 2026-03;;1.039,75
+3;2026;CC1006;402100;Materiały eksploatacyjne;5100000738;31.03.2026;Zużycie materiałów 2026-03;;10.555,21
+3;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000125;31.03.2026;FV/0017/26/BŁY;Błysk Serwis sp. z o.o.;145.686,43
+3;2026;CC1006;403200;Podwykonawcy – ochrona;5100000145;31.03.2026;FV/0013/26/SEC;Securo Polska S.A.;79.923,30
+3;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000143;31.03.2026;FV/0019/26/POL;Polar Chłód sp. z o.o.;13.833,97
+3;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000173;03.04.2026;FV/0018/26/POL;Polar Chłód sp. z o.o.;9.403,77
+3;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000156;31.03.2026;FV/0030/26/ZIE;Zielony Zakątek s.c.;5.640,17
+3;2026;CC1006;404100;Energia elektryczna;5100000739;31.03.2026;Energia – refaktura dostawcy 2026-03;;132.327,84
+3;2026;CC1006;404200;Media – woda i ciepło;5100000740;31.03.2026;Media – woda i ciepło 2026-03;;48.740,53
+3;2026;CC1006;406100;Koszty ogólne kontraktu;5100000741;31.03.2026;Koszty ogólne kontraktu 2026-03;;13.167,00
+3;2026;CC1007;401100;Wynagrodzenia techników;5100000742;31.03.2026;Płace techników 2026-03;;40.032,96
+3;2026;CC1007;401200;Nadgodziny techników;5100000743;31.03.2026;Nadgodziny techników 2026-03;;2.932,01
+3;2026;CC1007;402100;Materiały eksploatacyjne;5100000744;31.03.2026;Zużycie materiałów 2026-03;;10.559,59
+3;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000126;31.03.2026;FV/0018/26/BŁY;Błysk Serwis sp. z o.o.;76.556,53
+3;2026;CC1007;403200;Podwykonawcy – ochrona;5100000146;31.03.2026;FV/0014/26/SEC;Securo Polska S.A.;37.989,65
+3;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000130;31.03.2026;FV/0010/26/FRO;Frost Serwis s.c.;7.714,63
+3;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000165;02.04.2026;FV/0011/26/FRO;Frost Serwis s.c.;3.853,55
+3;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000170;02.04.2026;FV/0031/26/ZIE;Zielony Zakątek s.c.;3.586,40
+3;2026;CC1007;404100;Energia elektryczna;5100000745;31.03.2026;Energia – refaktura dostawcy 2026-03;;56.910,53
+3;2026;CC1007;404200;Media – woda i ciepło;5100000746;31.03.2026;Media – woda i ciepło 2026-03;;23.973,67
+3;2026;CC1007;406100;Koszty ogólne kontraktu;5100000747;31.03.2026;Koszty ogólne kontraktu 2026-03;;8.046,50
+3;2026;CC1008;401100;Wynagrodzenia techników;5100000748;31.03.2026;Płace techników 2026-03;;53.060,48
+3;2026;CC1008;401200;Nadgodziny techników;5100000749;31.03.2026;Nadgodziny techników 2026-03;;421,59
+3;2026;CC1008;402100;Materiały eksploatacyjne;5100000750;31.03.2026;Zużycie materiałów 2026-03;;10.197,59
+3;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000178;05.04.2026;FV/0019/26/BŁY;Błysk Serwis sp. z o.o.;61.309,55
+3;2026;CC1008;403200;Podwykonawcy – ochrona;5100000147;31.03.2026;FV/0015/26/SEC;Securo Polska S.A.;45.151,47
+3;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000131;31.03.2026;FV/0012/26/FRO;Frost Serwis s.c.;4.759,68
+3;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000132;31.03.2026;FV/0013/26/FRO;Frost Serwis s.c.;4.676,16
+3;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000160;01.04.2026;FV/0014/26/FRO;Frost Serwis s.c.;7.089,12
+3;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000157;31.03.2026;FV/0032/26/ZIE;Zielony Zakątek s.c.;6.243,20
+3;2026;CC1008;404100;Energia elektryczna;5100000751;31.03.2026;Energia – refaktura dostawcy 2026-03;;117.738,42
+3;2026;CC1008;404200;Media – woda i ciepło;5100000752;31.03.2026;Media – woda i ciepło 2026-03;;39.447,69
+3;2026;CC1008;405100;Wynajem sprzętu;5100000753;31.03.2026;Wynajem sprzętu 2026-03;;4.693,99
+3;2026;CC1008;406100;Koszty ogólne kontraktu;5100000754;31.03.2026;Koszty ogólne kontraktu 2026-03;;14.630,00
+3;2026;CC1009;401100;Wynagrodzenia techników;5100000755;31.03.2026;Płace techników 2026-03;;39.805,92
+3;2026;CC1009;401200;Nadgodziny techników;5100000756;31.03.2026;Nadgodziny techników 2026-03;;2.265,56
+3;2026;CC1009;402100;Materiały eksploatacyjne;5100000757;31.03.2026;Zużycie materiałów 2026-03;;12.077,66
+3;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000179;05.04.2026;FV/0020/26/BŁY;Błysk Serwis sp. z o.o.;53.000,09
+3;2026;CC1009;403200;Podwykonawcy – ochrona;5100000148;31.03.2026;FK/0066/26/STR;Strażnik Ochrona sp. z o.o.;1.578,19-
+3;2026;CC1009;403200;Podwykonawcy – ochrona;5100000150;31.03.2026;FV/0018/26/STR;Strażnik Ochrona sp. z o.o.;26.286,67
+3;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000136;31.03.2026;FV/0036/26/KLI;Klimat-Tech sp. z o.o.;3.245,80
+3;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000175;04.04.2026;FV/0035/26/KLI;Klimat-Tech sp. z o.o.;5.092,99
+3;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000177;04.04.2026;FV/0033/26/ZIE;Zielony Zakątek s.c.;2.545,22
+3;2026;CC1009;404100;Energia elektryczna;5100000758;31.03.2026;Energia – refaktura dostawcy 2026-03;;42.999,02
+3;2026;CC1009;404200;Media – woda i ciepło;5100000759;31.03.2026;Media – woda i ciepło 2026-03;;17.580,39
+3;2026;CC1009;406100;Koszty ogólne kontraktu;5100000760;31.03.2026;Koszty ogólne kontraktu 2026-03;;5.852,00
+3;2026;CC1010;401100;Wynagrodzenia techników;5100000761;31.03.2026;Płace techników 2026-03;;56.758,24
+3;2026;CC1010;401200;Nadgodziny techników;5100000762;31.03.2026;Nadgodziny techników 2026-03;;1.694,19
+3;2026;CC1010;402100;Materiały eksploatacyjne;5100000763;31.03.2026;Zużycie materiałów 2026-03;;14.155,05
+3;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000180;05.04.2026;FV/0014/26/CLE;CleanPro sp. z o.o.;47.853,00
+3;2026;CC1010;403200;Podwykonawcy – ochrona;5100000151;31.03.2026;FV/0019/26/STR;Strażnik Ochrona sp. z o.o.;42.087,65
+3;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000167;02.04.2026;FV/0037/26/KLI;Klimat-Tech sp. z o.o.;6.263,13
+3;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000168;02.04.2026;FV/0038/26/KLI;Klimat-Tech sp. z o.o.;5.717,37
+3;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000158;31.03.2026;FV/0034/26/ZIE;Zielony Zakątek s.c.;7.903,45
+3;2026;CC1010;404100;Energia elektryczna;5100000764;31.03.2026;Energia – refaktura dostawcy 2026-03;;71.429,40
+3;2026;CC1010;404200;Media – woda i ciepło;5100000765;31.03.2026;Media – woda i ciepło 2026-03;;30.307,47
+3;2026;CC1010;405100;Wynajem sprzętu;5100000766;31.03.2026;Wynajem sprzętu 2026-03;;6.768,67
+3;2026;CC1010;406100;Koszty ogólne kontraktu;5100000767;31.03.2026;Koszty ogólne kontraktu 2026-03;;19.019,00
+3;2026;CC1011;401100;Wynagrodzenia techników;5100000768;31.03.2026;Płace techników 2026-03;;40.673,60
+3;2026;CC1011;402100;Materiały eksploatacyjne;5100000769;31.03.2026;Zużycie materiałów 2026-03;;4.425,60
+3;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000129;31.03.2026;FV/0015/26/CLE;CleanPro sp. z o.o.;45.832,79
+3;2026;CC1011;403200;Podwykonawcy – ochrona;5100000152;31.03.2026;FV/0020/26/STR;Strażnik Ochrona sp. z o.o.;22.889,70
+3;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000137;31.03.2026;FV/0039/26/KLI;Klimat-Tech sp. z o.o.;7.079,69
+3;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000182;05.04.2026;FV/0035/26/ZIE;Zielony Zakątek s.c.;2.235,17
+3;2026;CC1011;404100;Energia elektryczna;5100000770;31.03.2026;Energia – refaktura dostawcy 2026-03;;35.895,96
+3;2026;CC1011;404200;Media – woda i ciepło;5100000771;31.03.2026;Media – woda i ciepło 2026-03;;15.929,45
+3;2026;CC1011;406100;Koszty ogólne kontraktu;5100000772;31.03.2026;Koszty ogólne kontraktu 2026-03;;5.120,50
+3;2026;CC1012;401100;Wynagrodzenia techników;5100000773;31.03.2026;Płace techników 2026-03;;41.015,04
+3;2026;CC1012;402100;Materiały eksploatacyjne;5100000774;31.03.2026;Zużycie materiałów 2026-03;;2.582,20
+3;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000127;31.03.2026;FV/0021/26/BŁY;Błysk Serwis sp. z o.o.;32.485,98
+3;2026;CC1012;403200;Podwykonawcy – ochrona;5100000176;04.04.2026;FV/0021/26/STR;Strażnik Ochrona sp. z o.o.;16.724,72
+3;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000138;31.03.2026;FV/0040/26/KLI;Klimat-Tech sp. z o.o.;2.662,32
+3;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000184;06.04.2026;FV/0041/26/KLI;Klimat-Tech sp. z o.o.;2.439,41
+3;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000163;01.04.2026;FV/0036/26/ZIE;Zielony Zakątek s.c.;1.633,49
+3;2026;CC1012;404100;Energia elektryczna;5100000775;31.03.2026;Energia – refaktura dostawcy 2026-03;;27.051,68
+3;2026;CC1012;404200;Media – woda i ciepło;5100000776;31.03.2026;Media – woda i ciepło 2026-03;;10.992,52
+3;2026;CC1012;406100;Koszty ogólne kontraktu;5100000777;31.03.2026;Koszty ogólne kontraktu 2026-03;;3.657,50
+4;2026;CC1001;401100;Wynagrodzenia techników;5100000778;30.04.2026;Płace techników 2026-04;;37.455,60
+4;2026;CC1001;401200;Nadgodziny techników;5100000779;30.04.2026;Nadgodziny techników 2026-04;;54,97
+4;2026;CC1001;402100;Materiały eksploatacyjne;5100000780;30.04.2026;Zużycie materiałów 2026-04;;11.638,16
+4;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000232;04.05.2026;FV/0016/26/CLE;CleanPro sp. z o.o.;82.739,79
+4;2026;CC1001;403200;Podwykonawcy – ochrona;5100000206;30.04.2026;FV/0022/26/STR;Strażnik Ochrona sp. z o.o.;41.654,85
+4;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000189;30.04.2026;FV/0042/26/KLI;Klimat-Tech sp. z o.o.;7.306,24
+4;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000190;30.04.2026;FV/0043/26/KLI;Klimat-Tech sp. z o.o.;6.586,03
+4;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000210;30.04.2026;FV/0037/26/ZIE;Zielony Zakątek s.c.;4.463,33
+4;2026;CC1001;404100;Energia elektryczna;5100000781;30.04.2026;Energia – refaktura dostawcy 2026-04;;59.749,77
+4;2026;CC1001;404200;Media – woda i ciepło;5100000782;30.04.2026;Media – woda i ciepło 2026-04;;20.931,13
+4;2026;CC1001;406100;Koszty ogólne kontraktu;5100000783;30.04.2026;Koszty ogólne kontraktu 2026-04;;8.778,00
+4;2026;CC1002;401100;Wynagrodzenia techników;5100000784;30.04.2026;Płace techników 2026-04;;36.400,56
+4;2026;CC1002;401200;Nadgodziny techników;5100000785;30.04.2026;Nadgodziny techników 2026-04;;562,59
+4;2026;CC1002;402100;Materiały eksploatacyjne;5100000786;30.04.2026;Zużycie materiałów 2026-04;;9.425,45
+4;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000243;06.05.2026;FV/0017/26/CLE;CleanPro sp. z o.o.;100.755,78
+4;2026;CC1002;403200;Podwykonawcy – ochrona;5100000207;30.04.2026;FV/0023/26/STR;Strażnik Ochrona sp. z o.o.;53.263,50
+4;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000191;30.04.2026;FV/0044/26/KLI;Klimat-Tech sp. z o.o.;5.449,35
+4;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000192;30.04.2026;FV/0045/26/KLI;Klimat-Tech sp. z o.o.;7.077,34
+4;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000193;30.04.2026;FV/0046/26/KLI;Klimat-Tech sp. z o.o.;5.095,89
+4;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000211;30.04.2026;FV/0038/26/ZIE;Zielony Zakątek s.c.;5.894,96
+4;2026;CC1002;404100;Energia elektryczna;5100000787;30.04.2026;Energia – refaktura dostawcy 2026-04;;60.495,38
+4;2026;CC1002;404200;Media – woda i ciepło;5100000788;30.04.2026;Media – woda i ciepło 2026-04;;26.663,57
+4;2026;CC1002;406100;Koszty ogólne kontraktu;5100000789;30.04.2026;Koszty ogólne kontraktu 2026-04;;11.338,25
+4;2026;CC1003;401100;Wynagrodzenia techników;5100000790;30.04.2026;Płace techników 2026-04;;53.200,56
+4;2026;CC1003;401200;Nadgodziny techników;5100000791;30.04.2026;Nadgodziny techników 2026-04;;2.351,17
+4;2026;CC1003;402100;Materiały eksploatacyjne;5100000792;30.04.2026;Zużycie materiałów 2026-04;;13.976,62
+4;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000221;02.05.2026;FV/0018/26/CLE;CleanPro sp. z o.o.;44.206,49
+4;2026;CC1003;403200;Podwykonawcy – ochrona;5100000230;03.05.2026;FV/0024/26/STR;Strażnik Ochrona sp. z o.o.;41.372,59
+4;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000240;05.05.2026;FV/0047/26/KLI;Klimat-Tech sp. z o.o.;12.838,37
+4;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000246;06.05.2026;FV/0039/26/ZIE;Zielony Zakątek s.c.;9.006,01
+4;2026;CC1003;404100;Energia elektryczna;5100000793;30.04.2026;Energia – refaktura dostawcy 2026-04;;60.724,29
+4;2026;CC1003;404200;Media – woda i ciepło;5100000794;30.04.2026;Media – woda i ciepło 2026-04;;20.189,34
+4;2026;CC1003;405100;Wynajem sprzętu;5100000795;30.04.2026;Wynajem sprzętu 2026-04;;6.018,51
+4;2026;CC1003;406100;Koszty ogólne kontraktu;5100000796;30.04.2026;Koszty ogólne kontraktu 2026-04;;17.556,00
+4;2026;CC1004;401100;Wynagrodzenia techników;5100000797;30.04.2026;Płace techników 2026-04;;38.188,08
+4;2026;CC1004;402100;Materiały eksploatacyjne;5100000798;30.04.2026;Zużycie materiałów 2026-04;;4.714,12
+4;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000185;30.04.2026;FV/0022/26/BŁY;Błysk Serwis sp. z o.o.;61.843,25
+4;2026;CC1004;403200;Podwykonawcy – ochrona;5100000202;30.04.2026;FV/0016/26/SEC;Securo Polska S.A.;31.320,66
+4;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000198;30.04.2026;FV/0020/26/POL;Polar Chłód sp. z o.o.;4.327,62
+4;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000199;30.04.2026;FV/0021/26/POL;Polar Chłód sp. z o.o.;6.251,87
+4;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000223;02.05.2026;FV/0040/26/ZIE;Zielony Zakątek s.c.;3.314,50
+4;2026;CC1004;404100;Energia elektryczna;5100000799;30.04.2026;Energia – refaktura dostawcy 2026-04;;44.470,45
+4;2026;CC1004;404200;Media – woda i ciepło;5100000800;30.04.2026;Media – woda i ciepło 2026-04;;15.236,06
+4;2026;CC1004;405100;Wynajem sprzętu;5100000801;30.04.2026;Wynajem sprzętu 2026-04;;5.040,73
+4;2026;CC1004;406100;Koszty ogólne kontraktu;5100000802;30.04.2026;Koszty ogólne kontraktu 2026-04;;6.583,50
+4;2026;CC1005;401100;Wynagrodzenia techników;5100000803;30.04.2026;Płace techników 2026-04;;36.036,00
+4;2026;CC1005;401200;Nadgodziny techników;5100000804;30.04.2026;Nadgodziny techników 2026-04;;232,86
+4;2026;CC1005;402100;Materiały eksploatacyjne;5100000805;30.04.2026;Zużycie materiałów 2026-04;;2.519,24
+4;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000214;01.05.2026;FV/0023/26/BŁY;Błysk Serwis sp. z o.o.;119.341,42
+4;2026;CC1005;403200;Podwykonawcy – ochrona;5100000203;30.04.2026;FV/0017/26/SEC;Securo Polska S.A.;36.921,49
+4;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000200;30.04.2026;FV/0022/26/POL;Polar Chłód sp. z o.o.;8.934,22
+4;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000228;03.05.2026;FV/0023/26/POL;Polar Chłód sp. z o.o.;6.347,08
+4;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000212;30.04.2026;FV/0041/26/ZIE;Zielony Zakątek s.c.;2.285,36
+4;2026;CC1005;404100;Energia elektryczna;5100000806;30.04.2026;Energia – refaktura dostawcy 2026-04;;61.768,26
+4;2026;CC1005;404200;Media – woda i ciepło;5100000807;30.04.2026;Media – woda i ciepło 2026-04;;24.657,42
+4;2026;CC1005;406100;Koszty ogólne kontraktu;5100000808;30.04.2026;Koszty ogólne kontraktu 2026-04;;4.389,00
+4;2026;CC1006;401100;Wynagrodzenia techników;5100000809;30.04.2026;Płace techników 2026-04;;47.100,48
+4;2026;CC1006;401200;Nadgodziny techników;5100000810;30.04.2026;Nadgodziny techników 2026-04;;1.285,54
+4;2026;CC1006;402100;Materiały eksploatacyjne;5100000811;30.04.2026;Zużycie materiałów 2026-04;;11.237,18
+4;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000220;02.05.2026;FV/0024/26/BŁY;Błysk Serwis sp. z o.o.;154.118,84
+4;2026;CC1006;403200;Podwykonawcy – ochrona;5100000204;30.04.2026;FV/0018/26/SEC;Securo Polska S.A.;84.952,85
+4;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000201;30.04.2026;FV/0025/26/POL;Polar Chłód sp. z o.o.;15.054,01
+4;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000229;03.05.2026;FV/0024/26/POL;Polar Chłód sp. z o.o.;12.058,46
+4;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000213;30.04.2026;FV/0042/26/ZIE;Zielony Zakątek s.c.;6.776,50
+4;2026;CC1006;404100;Energia elektryczna;5100000812;30.04.2026;Energia – refaktura dostawcy 2026-04;;120.960,89
+4;2026;CC1006;404200;Media – woda i ciepło;5100000813;30.04.2026;Media – woda i ciepło 2026-04;;37.824,78
+4;2026;CC1006;406100;Koszty ogólne kontraktu;5100000814;30.04.2026;Koszty ogólne kontraktu 2026-04;;13.167,00
+4;2026;CC1007;401100;Wynagrodzenia techników;5100000815;30.04.2026;Płace techników 2026-04;;38.213,28
+4;2026;CC1007;401200;Nadgodziny techników;5100000816;30.04.2026;Nadgodziny techników 2026-04;;532,38
+4;2026;CC1007;402100;Materiały eksploatacyjne;5100000817;30.04.2026;Zużycie materiałów 2026-04;;5.901,55
+4;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000215;01.05.2026;FV/0025/26/BŁY;Błysk Serwis sp. z o.o.;72.948,23
+4;2026;CC1007;403200;Podwykonawcy – ochrona;5100000234;04.05.2026;FV/0019/26/SEC;Securo Polska S.A.;37.380,29
+4;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000187;30.04.2026;FV/0015/26/FRO;Frost Serwis s.c.;4.560,17
+4;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000188;30.04.2026;FV/0016/26/FRO;Frost Serwis s.c.;3.834,38
+4;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000244;06.05.2026;FV/0017/26/FRO;Frost Serwis s.c.;3.931,42
+4;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000241;05.05.2026;FV/0043/26/ZIE;Zielony Zakątek s.c.;4.045,65
+4;2026;CC1007;404100;Energia elektryczna;5100000818;30.04.2026;Energia – refaktura dostawcy 2026-04;;52.171,86
+4;2026;CC1007;404200;Media – woda i ciepło;5100000819;30.04.2026;Media – woda i ciepło 2026-04;;19.126,59
+4;2026;CC1007;405100;Wynajem sprzętu;5100000820;30.04.2026;Wynajem sprzętu 2026-04;;4.914,94
+4;2026;CC1007;406100;Koszty ogólne kontraktu;5100000821;30.04.2026;Koszty ogólne kontraktu 2026-04;;8.046,50
+4;2026;CC1008;401100;Wynagrodzenia techników;5100000822;30.04.2026;Płace techników 2026-04;;50.648,64
+4;2026;CC1008;401200;Nadgodziny techników;5100000823;30.04.2026;Nadgodziny techników 2026-04;;335,24
+4;2026;CC1008;402100;Materiały eksploatacyjne;5100000824;30.04.2026;Zużycie materiałów 2026-04;;15.165,86
+4;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000224;03.05.2026;FV/0026/26/BŁY;Błysk Serwis sp. z o.o.;63.406,22
+4;2026;CC1008;403200;Podwykonawcy – ochrona;5100000205;30.04.2026;FV/0020/26/SEC;Securo Polska S.A.;45.123,50
+4;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000222;02.05.2026;FV/0019/26/FRO;Frost Serwis s.c.;8.567,51
+4;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000245;06.05.2026;FV/0018/26/FRO;Frost Serwis s.c.;10.219,12
+4;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000219;01.05.2026;FV/0044/26/ZIE;Zielony Zakątek s.c.;7.527,59
+4;2026;CC1008;404100;Energia elektryczna;5100000825;30.04.2026;Energia – refaktura dostawcy 2026-04;;111.182,46
+4;2026;CC1008;404200;Media – woda i ciepło;5100000826;30.04.2026;Media – woda i ciepło 2026-04;;30.421,35
+4;2026;CC1008;405100;Wynajem sprzętu;5100000827;30.04.2026;Wynajem sprzętu 2026-04;;5.024,41
+4;2026;CC1008;406100;Koszty ogólne kontraktu;5100000828;30.04.2026;Koszty ogólne kontraktu 2026-04;;14.630,00
+4;2026;CC1009;401100;Wynagrodzenia techników;5100000829;30.04.2026;Płace techników 2026-04;;37.996,56
+4;2026;CC1009;402100;Materiały eksploatacyjne;5100000830;30.04.2026;Zużycie materiałów 2026-04;;4.110,75
+4;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000186;30.04.2026;FV/0027/26/BŁY;Błysk Serwis sp. z o.o.;52.716,60
+4;2026;CC1009;403200;Podwykonawcy – ochrona;5100000218;01.05.2026;FV/0025/26/STR;Strażnik Ochrona sp. z o.o.;27.503,03
+4;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000194;30.04.2026;FV/0048/26/KLI;Klimat-Tech sp. z o.o.;4.316,74
+4;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000195;30.04.2026;FV/0049/26/KLI;Klimat-Tech sp. z o.o.;5.091,60
+4;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000242;05.05.2026;FV/0045/26/ZIE;Zielony Zakątek s.c.;2.921,19
+4;2026;CC1009;404100;Energia elektryczna;5100000831;30.04.2026;Energia – refaktura dostawcy 2026-04;;38.861,51
+4;2026;CC1009;404200;Media – woda i ciepło;5100000832;30.04.2026;Media – woda i ciepło 2026-04;;13.670,08
+4;2026;CC1009;405100;Wynajem sprzętu;5100000833;30.04.2026;Wynajem sprzętu 2026-04;;3.703,25
+4;2026;CC1009;406100;Koszty ogólne kontraktu;5100000834;30.04.2026;Koszty ogólne kontraktu 2026-04;;5.852,00
+4;2026;CC1010;401100;Wynagrodzenia techników;5100000835;30.04.2026;Płace techników 2026-04;;54.178,32
+4;2026;CC1010;401200;Nadgodziny techników;5100000836;30.04.2026;Nadgodziny techników 2026-04;;1.504,05
+4;2026;CC1010;402100;Materiały eksploatacyjne;5100000837;30.04.2026;Zużycie materiałów 2026-04;;16.476,46
+4;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000239;05.05.2026;FV/0019/26/CLE;CleanPro sp. z o.o.;50.828,62
+4;2026;CC1010;403200;Podwykonawcy – ochrona;5100000235;04.05.2026;FK/0064/26/STR;Strażnik Ochrona sp. z o.o.;3.710,01-
+4;2026;CC1010;403200;Podwykonawcy – ochrona;5100000236;04.05.2026;FV/0026/26/STR;Strażnik Ochrona sp. z o.o.;44.177,86
+4;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000226;03.05.2026;FV/0050/26/KLI;Klimat-Tech sp. z o.o.;4.470,73
+4;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000227;03.05.2026;FV/0051/26/KLI;Klimat-Tech sp. z o.o.;8.640,71
+4;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000231;03.05.2026;FV/0046/26/ZIE;Zielony Zakątek s.c.;10.085,75
+4;2026;CC1010;404100;Energia elektryczna;5100000838;30.04.2026;Energia – refaktura dostawcy 2026-04;;66.535,85
+4;2026;CC1010;404200;Media – woda i ciepło;5100000839;30.04.2026;Media – woda i ciepło 2026-04;;21.964,40
+4;2026;CC1010;405100;Wynajem sprzętu;5100000840;30.04.2026;Wynajem sprzętu 2026-04;;6.342,04
+4;2026;CC1010;406100;Koszty ogólne kontraktu;5100000841;30.04.2026;Koszty ogólne kontraktu 2026-04;;19.019,00
+4;2026;CC1011;401100;Wynagrodzenia techników;5100000842;30.04.2026;Płace techników 2026-04;;38.824,80
+4;2026;CC1011;401200;Nadgodziny techników;5100000843;30.04.2026;Nadgodziny techników 2026-04;;1.328,57
+4;2026;CC1011;402100;Materiały eksploatacyjne;5100000844;30.04.2026;Zużycie materiałów 2026-04;;20.654,17
+4;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000225;03.05.2026;FV/0020/26/CLE;CleanPro sp. z o.o.;47.474,47
+4;2026;CC1011;403200;Podwykonawcy – ochrona;5100000208;30.04.2026;FV/0027/26/STR;Strażnik Ochrona sp. z o.o.;23.698,58
+4;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000196;30.04.2026;FV/0054/26/KLI;Klimat-Tech sp. z o.o.;2.394,20
+4;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000216;01.05.2026;FV/0052/26/KLI;Klimat-Tech sp. z o.o.;2.897,13
+4;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000217;01.05.2026;FV/0053/26/KLI;Klimat-Tech sp. z o.o.;2.543,80
+4;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000247;06.05.2026;FV/0047/26/ZIE;Zielony Zakątek s.c.;2.681,08
+4;2026;CC1011;404100;Energia elektryczna;5100000845;30.04.2026;Energia – refaktura dostawcy 2026-04;;33.654,82
+4;2026;CC1011;404200;Media – woda i ciepło;5100000846;30.04.2026;Media – woda i ciepło 2026-04;;12.254,71
+4;2026;CC1011;405100;Wynajem sprzętu;5100000847;30.04.2026;Wynajem sprzętu 2026-04;;4.892,72
+4;2026;CC1011;406100;Koszty ogólne kontraktu;5100000848;30.04.2026;Koszty ogólne kontraktu 2026-04;;5.120,50
+4;2026;CC1012;401100;Wynagrodzenia techników;5100000849;30.04.2026;Płace techników 2026-04;;39.150,72
+4;2026;CC1012;402100;Materiały eksploatacyjne;5100000850;30.04.2026;Zużycie materiałów 2026-04;;2.092,84
+4;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000238;05.05.2026;FV/0028/26/BŁY;Błysk Serwis sp. z o.o.;34.271,69
+4;2026;CC1012;403200;Podwykonawcy – ochrona;5100000209;30.04.2026;FV/0028/26/STR;Strażnik Ochrona sp. z o.o.;16.132,90
+4;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000197;30.04.2026;FV/0056/26/KLI;Klimat-Tech sp. z o.o.;2.709,00
+4;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000233;04.05.2026;FV/0055/26/KLI;Klimat-Tech sp. z o.o.;3.259,30
+4;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000237;04.05.2026;FV/0048/26/ZIE;Zielony Zakątek s.c.;1.826,50
+4;2026;CC1012;404100;Energia elektryczna;5100000851;30.04.2026;Energia – refaktura dostawcy 2026-04;;24.455,89
+4;2026;CC1012;404200;Media – woda i ciepło;5100000852;30.04.2026;Media – woda i ciepło 2026-04;;8.631,97
+4;2026;CC1012;406100;Koszty ogólne kontraktu;5100000853;30.04.2026;Koszty ogólne kontraktu 2026-04;;3.657,50
+5;2026;CC1001;401100;Wynagrodzenia techników;5100000854;31.05.2026;Płace techników 2026-05;;35.672,00
+5;2026;CC1001;401200;Nadgodziny techników;5100000855;31.05.2026;Nadgodziny techników 2026-05;;191,02
+5;2026;CC1001;402100;Materiały eksploatacyjne;5100000856;31.05.2026;Zużycie materiałów 2026-05;;5.252,30
+5;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000301;05.06.2026;FV/0021/26/CLE;CleanPro sp. z o.o.;82.254,38
+5;2026;CC1001;403200;Podwykonawcy – ochrona;5100000268;31.05.2026;FV/0029/26/STR;Strażnik Ochrona sp. z o.o.;41.245,09
+5;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000256;31.05.2026;FV/0057/26/KLI;Klimat-Tech sp. z o.o.;3.970,08
+5;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000257;31.05.2026;FV/0058/26/KLI;Klimat-Tech sp. z o.o.;6.045,32
+5;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000303;05.06.2026;FV/0059/26/KLI;Klimat-Tech sp. z o.o.;4.726,90
+5;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000273;31.05.2026;FV/0049/26/ZIE;Zielony Zakątek s.c.;4.559,99
+5;2026;CC1001;404100;Energia elektryczna;5100000857;31.05.2026;Energia – refaktura dostawcy 2026-05;;57.625,85
+5;2026;CC1001;404200;Media – woda i ciepło;5100000858;31.05.2026;Media – woda i ciepło 2026-05;;15.211,62
+5;2026;CC1001;406100;Koszty ogólne kontraktu;5100000859;31.05.2026;Koszty ogólne kontraktu 2026-05;;8.778,00
+5;2026;CC1002;401100;Wynagrodzenia techników;5100000860;31.05.2026;Płace techników 2026-05;;34.667,20
+5;2026;CC1002;401200;Nadgodziny techników;5100000861;31.05.2026;Nadgodziny techników 2026-05;;556,03
+5;2026;CC1002;402100;Materiały eksploatacyjne;5100000862;31.05.2026;Zużycie materiałów 2026-05;;8.208,19
+5;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000251;31.05.2026;FV/0022/26/CLE;CleanPro sp. z o.o.;107.200,32
+5;2026;CC1002;403200;Podwykonawcy – ochrona;5100000269;31.05.2026;FV/0030/26/STR;Strażnik Ochrona sp. z o.o.;51.241,30
+5;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000258;31.05.2026;FV/0062/26/KLI;Klimat-Tech sp. z o.o.;8.418,20
+5;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000286;01.06.2026;FV/0060/26/KLI;Klimat-Tech sp. z o.o.;5.487,31
+5;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000293;03.06.2026;FV/0061/26/KLI;Klimat-Tech sp. z o.o.;4.596,58
+5;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000274;31.05.2026;FV/0050/26/ZIE;Zielony Zakątek s.c.;5.659,33
+5;2026;CC1002;404100;Energia elektryczna;5100000863;31.05.2026;Energia – refaktura dostawcy 2026-05;;59.462,75
+5;2026;CC1002;404200;Media – woda i ciepło;5100000864;31.05.2026;Media – woda i ciepło 2026-05;;19.522,15
+5;2026;CC1002;406100;Koszty ogólne kontraktu;5100000865;31.05.2026;Koszty ogólne kontraktu 2026-05;;11.338,25
+5;2026;CC1003;401100;Wynagrodzenia techników;5100000866;31.05.2026;Płace techników 2026-05;;50.667,20
+5;2026;CC1003;401200;Nadgodziny techników;5100000867;31.05.2026;Nadgodziny techników 2026-05;;4.839,43
+5;2026;CC1003;402100;Materiały eksploatacyjne;5100000868;31.05.2026;Zużycie materiałów 2026-05;;14.419,59
+5;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000252;31.05.2026;FV/0023/26/CLE;CleanPro sp. z o.o.;46.531,64
+5;2026;CC1003;403200;Podwykonawcy – ochrona;5100000270;31.05.2026;FV/0031/26/STR;Strażnik Ochrona sp. z o.o.;40.110,54
+5;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000304;05.06.2026;FV/0063/26/KLI;Klimat-Tech sp. z o.o.;13.393,08
+5;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000299;04.06.2026;FV/0051/26/ZIE;Zielony Zakątek s.c.;9.085,78
+5;2026;CC1003;404100;Energia elektryczna;5100000869;31.05.2026;Energia – refaktura dostawcy 2026-05;;60.093,84
+5;2026;CC1003;404200;Media – woda i ciepło;5100000870;31.05.2026;Media – woda i ciepło 2026-05;;15.660,05
+5;2026;CC1003;405100;Wynajem sprzętu;5100000871;31.05.2026;Wynajem sprzętu 2026-05;;5.852,29
+5;2026;CC1003;406100;Koszty ogólne kontraktu;5100000872;31.05.2026;Koszty ogólne kontraktu 2026-05;;17.556,00
+5;2026;CC1004;401100;Wynagrodzenia techników;5100000873;31.05.2026;Płace techników 2026-05;;36.369,60
+5;2026;CC1004;401200;Nadgodziny techników;5100000874;31.05.2026;Nadgodziny techników 2026-05;;261,34
+5;2026;CC1004;402100;Materiały eksploatacyjne;5100000875;31.05.2026;Zużycie materiałów 2026-05;;5.302,39
+5;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000282;01.06.2026;FK/0064/26/BŁY;Błysk Serwis sp. z o.o.;7.008,19-
+5;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000283;01.06.2026;FV/0029/26/BŁY;Błysk Serwis sp. z o.o.;61.329,63
+5;2026;CC1004;403200;Podwykonawcy – ochrona;5100000309;06.06.2026;FV/0021/26/SEC;Securo Polska S.A.;29.575,79
+5;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000264;31.05.2026;FV/0028/26/POL;Polar Chłód sp. z o.o.;3.675,50
+5;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000295;03.06.2026;FV/0027/26/POL;Polar Chłód sp. z o.o.;2.884,79
+5;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000308;06.06.2026;FV/0026/26/POL;Polar Chłód sp. z o.o.;4.020,58
+5;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000300;04.06.2026;FV/0052/26/ZIE;Zielony Zakątek s.c.;3.269,17
+5;2026;CC1004;404100;Energia elektryczna;5100000876;31.05.2026;Energia – refaktura dostawcy 2026-05;;43.943,08
+5;2026;CC1004;404200;Media – woda i ciepło;5100000877;31.05.2026;Media – woda i ciepło 2026-05;;12.252,10
+5;2026;CC1004;406100;Koszty ogólne kontraktu;5100000878;31.05.2026;Koszty ogólne kontraktu 2026-05;;6.583,50
+5;2026;CC1005;401100;Wynagrodzenia techników;5100000879;31.05.2026;Płace techników 2026-05;;34.320,00
+5;2026;CC1005;401200;Nadgodziny techników;5100000880;31.05.2026;Nadgodziny techników 2026-05;;1.452,60
+5;2026;CC1005;402100;Materiały eksploatacyjne;5100000881;31.05.2026;Zużycie materiałów 2026-05;;16.946,07
+5;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000284;01.06.2026;FV/0030/26/BŁY;Błysk Serwis sp. z o.o.;115.380,31
+5;2026;CC1005;403200;Podwykonawcy – ochrona;5100000296;03.06.2026;FV/0022/26/SEC;Securo Polska S.A.;37.857,71
+5;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000265;31.05.2026;FV/0029/26/POL;Polar Chłód sp. z o.o.;15.699,00
+5;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000291;02.06.2026;FV/0053/26/ZIE;Zielony Zakątek s.c.;2.334,13
+5;2026;CC1005;404100;Energia elektryczna;5100000882;31.05.2026;Energia – refaktura dostawcy 2026-05;;63.366,15
+5;2026;CC1005;404200;Media – woda i ciepło;5100000883;31.05.2026;Media – woda i ciepło 2026-05;;19.986,23
+5;2026;CC1005;406100;Koszty ogólne kontraktu;5100000884;31.05.2026;Koszty ogólne kontraktu 2026-05;;4.389,00
+5;2026;CC1006;401100;Wynagrodzenia techników;5100000885;31.05.2026;Płace techników 2026-05;;44.857,60
+5;2026;CC1006;401200;Nadgodziny techników;5100000886;31.05.2026;Nadgodziny techników 2026-05;;1.299,70
+5;2026;CC1006;402100;Materiały eksploatacyjne;5100000887;31.05.2026;Zużycie materiałów 2026-05;;21.695,24
+5;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000306;06.06.2026;FV/0031/26/BŁY;Błysk Serwis sp. z o.o.;170.472,80
+5;2026;CC1006;403200;Podwykonawcy – ochrona;5100000297;03.06.2026;FV/0023/26/SEC;Securo Polska S.A.;104.357,22
+5;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000288;01.06.2026;FV/0031/26/POL;Polar Chłód sp. z o.o.;9.991,17
+5;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000305;05.06.2026;FV/0030/26/POL;Polar Chłód sp. z o.o.;16.794,70
+5;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000275;31.05.2026;FV/0054/26/ZIE;Zielony Zakątek s.c.;6.627,09
+5;2026;CC1006;404100;Energia elektryczna;5100000888;31.05.2026;Energia – refaktura dostawcy 2026-05;;120.846,04
+5;2026;CC1006;404200;Media – woda i ciepło;5100000889;31.05.2026;Media – woda i ciepło 2026-05;;29.274,14
+5;2026;CC1006;406100;Koszty ogólne kontraktu;5100000890;31.05.2026;Koszty ogólne kontraktu 2026-05;;13.167,00
+5;2026;CC1007;401100;Wynagrodzenia techników;5100000891;31.05.2026;Płace techników 2026-05;;36.393,60
+5;2026;CC1007;401200;Nadgodziny techników;5100000892;31.05.2026;Nadgodziny techników 2026-05;;3.726,63
+5;2026;CC1007;402100;Materiały eksploatacyjne;5100000893;31.05.2026;Zużycie materiałów 2026-05;;13.934,22
+5;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000248;31.05.2026;FV/0032/26/BŁY;Błysk Serwis sp. z o.o.;76.605,10
+5;2026;CC1007;403200;Podwykonawcy – ochrona;5100000266;31.05.2026;FV/0024/26/SEC;Securo Polska S.A.;35.824,86
+5;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000254;31.05.2026;FV/0020/26/FRO;Frost Serwis s.c.;8.554,69
+5;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000255;31.05.2026;FV/0021/26/FRO;Frost Serwis s.c.;4.382,97
+5;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000276;31.05.2026;FV/0055/26/ZIE;Zielony Zakątek s.c.;4.230,47
+5;2026;CC1007;404100;Energia elektryczna;5100000894;31.05.2026;Energia – refaktura dostawcy 2026-05;;52.225,78
+5;2026;CC1007;404200;Media – woda i ciepło;5100000895;31.05.2026;Media – woda i ciepło 2026-05;;14.291,97
+5;2026;CC1007;406100;Koszty ogólne kontraktu;5100000896;31.05.2026;Koszty ogólne kontraktu 2026-05;;8.046,50
+5;2026;CC1008;401100;Wynagrodzenia techników;5100000897;31.05.2026;Płace techników 2026-05;;48.236,80
+5;2026;CC1008;401200;Nadgodziny techników;5100000898;31.05.2026;Nadgodziny techników 2026-05;;344,40
+5;2026;CC1008;402100;Materiały eksploatacyjne;5100000899;31.05.2026;Zużycie materiałów 2026-05;;11.319,89
+5;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000249;31.05.2026;FV/0033/26/BŁY;Błysk Serwis sp. z o.o.;61.895,01
+5;2026;CC1008;403200;Podwykonawcy – ochrona;5100000267;31.05.2026;FV/0025/26/SEC;Securo Polska S.A.;45.613,96
+5;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000292;03.06.2026;FV/0022/26/FRO;Frost Serwis s.c.;8.667,70
+5;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000302;05.06.2026;FV/0023/26/FRO;Frost Serwis s.c.;10.821,24
+5;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000277;31.05.2026;FV/0056/26/ZIE;Zielony Zakątek s.c.;7.342,87
+5;2026;CC1008;404100;Energia elektryczna;5100000900;31.05.2026;Energia – refaktura dostawcy 2026-05;;105.230,70
+5;2026;CC1008;404200;Media – woda i ciepło;5100000901;31.05.2026;Media – woda i ciepło 2026-05;;22.634,70
+5;2026;CC1008;405100;Wynajem sprzętu;5100000902;31.05.2026;Wynajem sprzętu 2026-05;;4.829,85
+5;2026;CC1008;406100;Koszty ogólne kontraktu;5100000903;31.05.2026;Koszty ogólne kontraktu 2026-05;;14.630,00
+5;2026;CC1009;401100;Wynagrodzenia techników;5100000904;31.05.2026;Płace techników 2026-05;;36.187,20
+5;2026;CC1009;401200;Nadgodziny techników;5100000905;31.05.2026;Nadgodziny techników 2026-05;;83,62
+5;2026;CC1009;402100;Materiały eksploatacyjne;5100000906;31.05.2026;Zużycie materiałów 2026-05;;3.932,81
+5;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000307;06.06.2026;FV/0034/26/BŁY;Błysk Serwis sp. z o.o.;52.604,54
+5;2026;CC1009;403200;Podwykonawcy – ochrona;5100000271;31.05.2026;FV/0032/26/STR;Strażnik Ochrona sp. z o.o.;25.893,24
+5;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000259;31.05.2026;FV/0065/26/KLI;Klimat-Tech sp. z o.o.;5.218,42
+5;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000287;01.06.2026;FV/0064/26/KLI;Klimat-Tech sp. z o.o.;4.431,65
+5;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000278;31.05.2026;FV/0057/26/ZIE;Zielony Zakątek s.c.;2.917,44
+5;2026;CC1009;404100;Energia elektryczna;5100000907;31.05.2026;Energia – refaktura dostawcy 2026-05;;38.533,46
+5;2026;CC1009;404200;Media – woda i ciepło;5100000908;31.05.2026;Media – woda i ciepło 2026-05;;10.120,74
+5;2026;CC1009;406100;Koszty ogólne kontraktu;5100000909;31.05.2026;Koszty ogólne kontraktu 2026-05;;5.852,00
+5;2026;CC1010;401100;Wynagrodzenia techników;5100000910;31.05.2026;Płace techników 2026-05;;51.598,40
+5;2026;CC1010;401200;Nadgodziny techników;5100000911;31.05.2026;Nadgodziny techników 2026-05;;3.719,60
+5;2026;CC1010;402100;Materiały eksploatacyjne;5100000912;31.05.2026;Zużycie materiałów 2026-05;;27.688,89
+5;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000253;31.05.2026;FV/0024/26/CLE;CleanPro sp. z o.o.;50.264,57
+5;2026;CC1010;403200;Podwykonawcy – ochrona;5100000272;31.05.2026;FV/0033/26/STR;Strażnik Ochrona sp. z o.o.;42.437,67
+5;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000260;31.05.2026;FV/0067/26/KLI;Klimat-Tech sp. z o.o.;7.256,68
+5;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000298;04.06.2026;FV/0066/26/KLI;Klimat-Tech sp. z o.o.;6.634,58
+5;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000279;31.05.2026;FV/0058/26/ZIE;Zielony Zakątek s.c.;9.604,68
+5;2026;CC1010;404100;Energia elektryczna;5100000913;31.05.2026;Energia – refaktura dostawcy 2026-05;;65.680,38
+5;2026;CC1010;404200;Media – woda i ciepło;5100000914;31.05.2026;Media – woda i ciepło 2026-05;;17.600,86
+5;2026;CC1010;405100;Wynajem sprzętu;5100000915;31.05.2026;Wynajem sprzętu 2026-05;;6.161,57
+5;2026;CC1010;406100;Koszty ogólne kontraktu;5100000916;31.05.2026;Koszty ogólne kontraktu 2026-05;;19.019,00
+5;2026;CC1011;401100;Wynagrodzenia techników;5100000917;31.05.2026;Płace techników 2026-05;;36.976,00
+5;2026;CC1011;401200;Nadgodziny techników;5100000918;31.05.2026;Nadgodziny techników 2026-05;;197,96
+5;2026;CC1011;402100;Materiały eksploatacyjne;5100000919;31.05.2026;Zużycie materiałów 2026-05;;3.980,23
+5;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000285;01.06.2026;FV/0025/26/CLE;CleanPro sp. z o.o.;47.903,53
+5;2026;CC1011;403200;Podwykonawcy – ochrona;5100000289;02.06.2026;FV/0034/26/STR;Strażnik Ochrona sp. z o.o.;22.943,51
+5;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000261;31.05.2026;FV/0069/26/KLI;Klimat-Tech sp. z o.o.;4.006,18
+5;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000294;03.06.2026;FV/0068/26/KLI;Klimat-Tech sp. z o.o.;4.235,72
+5;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000280;31.05.2026;FV/0059/26/ZIE;Zielony Zakątek s.c.;2.605,23
+5;2026;CC1011;404100;Energia elektryczna;5100000920;31.05.2026;Energia – refaktura dostawcy 2026-05;;33.194,12
+5;2026;CC1011;404200;Media – woda i ciepło;5100000921;31.05.2026;Media – woda i ciepło 2026-05;;8.892,24
+5;2026;CC1011;406100;Koszty ogólne kontraktu;5100000922;31.05.2026;Koszty ogólne kontraktu 2026-05;;5.120,50
+5;2026;CC1012;401100;Wynagrodzenia techników;5100000923;31.05.2026;Płace techników 2026-05;;37.286,40
+5;2026;CC1012;402100;Materiały eksploatacyjne;5100000924;31.05.2026;Zużycie materiałów 2026-05;;2.514,41
+5;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000250;31.05.2026;FV/0035/26/BŁY;Błysk Serwis sp. z o.o.;34.816,06
+5;2026;CC1012;403200;Podwykonawcy – ochrona;5100000290;02.06.2026;FV/0035/26/STR;Strażnik Ochrona sp. z o.o.;16.947,67
+5;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000262;31.05.2026;FV/0070/26/KLI;Klimat-Tech sp. z o.o.;2.031,76
+5;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000263;31.05.2026;FV/0071/26/KLI;Klimat-Tech sp. z o.o.;3.894,84
+5;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000281;31.05.2026;FV/0060/26/ZIE;Zielony Zakątek s.c.;1.910,92
+5;2026;CC1012;404100;Energia elektryczna;5100000925;31.05.2026;Energia – refaktura dostawcy 2026-05;;24.171,81
+5;2026;CC1012;404200;Media – woda i ciepło;5100000926;31.05.2026;Media – woda i ciepło 2026-05;;6.429,90
+5;2026;CC1012;406100;Koszty ogólne kontraktu;5100000927;31.05.2026;Koszty ogólne kontraktu 2026-05;;3.657,50
+6;2026;CC1001;401100;Wynagrodzenia techników;5100000928;30.06.2026;Płace techników 2026-06;;37.455,60
+6;2026;CC1001;401200;Nadgodziny techników;5100000929;30.06.2026;Nadgodziny techników 2026-06;;682,22
+6;2026;CC1001;402100;Materiały eksploatacyjne;5100000930;30.06.2026;Zużycie materiałów 2026-06;;6.029,47
+6;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000314;30.06.2026;FV/0026/26/CLE;CleanPro sp. z o.o.;81.236,86
+6;2026;CC1001;403200;Podwykonawcy – ochrona;5100000341;30.06.2026;FV/0036/26/STR;Strażnik Ochrona sp. z o.o.;39.855,59
+6;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000320;30.06.2026;FV/0073/26/KLI;Klimat-Tech sp. z o.o.;7.124,34
+6;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000321;30.06.2026;FV/0074/26/KLI;Klimat-Tech sp. z o.o.;3.753,89
+6;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000359;02.07.2026;FV/0072/26/KLI;Klimat-Tech sp. z o.o.;6.857,81
+6;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000347;30.06.2026;FV/0061/26/ZIE;Zielony Zakątek s.c.;4.581,13
+6;2026;CC1001;404100;Energia elektryczna;5100000931;30.06.2026;Energia – refaktura dostawcy 2026-06;;62.533,94
+6;2026;CC1001;404200;Media – woda i ciepło;5100000932;30.06.2026;Media – woda i ciepło 2026-06;;13.133,71
+6;2026;CC1001;406100;Koszty ogólne kontraktu;5100000933;30.06.2026;Koszty ogólne kontraktu 2026-06;;8.778,00
+6;2026;CC1002;401100;Wynagrodzenia techników;5100000934;30.06.2026;Płace techników 2026-06;;36.400,56
+6;2026;CC1002;401200;Nadgodziny techników;5100000935;30.06.2026;Nadgodziny techników 2026-06;;539,93
+6;2026;CC1002;402100;Materiały eksploatacyjne;5100000936;30.06.2026;Zużycie materiałów 2026-06;;11.730,53
+6;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000356;01.07.2026;FV/0027/26/CLE;CleanPro sp. z o.o.;103.345,10
+6;2026;CC1002;403200;Podwykonawcy – ochrona;5100000372;06.07.2026;FV/0037/26/STR;Strażnik Ochrona sp. z o.o.;51.955,49
+6;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000322;30.06.2026;FV/0075/26/KLI;Klimat-Tech sp. z o.o.;11.033,84
+6;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000367;04.07.2026;FV/0076/26/KLI;Klimat-Tech sp. z o.o.;11.303,89
+6;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000348;30.06.2026;FV/0062/26/ZIE;Zielony Zakątek s.c.;5.873,88
+6;2026;CC1002;404100;Energia elektryczna;5100000937;30.06.2026;Energia – refaktura dostawcy 2026-06;;66.523,67
+6;2026;CC1002;404200;Media – woda i ciepło;5100000938;30.06.2026;Media – woda i ciepło 2026-06;;17.626,95
+6;2026;CC1002;405100;Wynajem sprzętu;5100000939;30.06.2026;Wynajem sprzętu 2026-06;;5.544,20
+6;2026;CC1002;406100;Koszty ogólne kontraktu;5100000940;30.06.2026;Koszty ogólne kontraktu 2026-06;;11.338,25
+6;2026;CC1003;401100;Wynagrodzenia techników;5100000941;30.06.2026;Płace techników 2026-06;;53.200,56
+6;2026;CC1003;401200;Nadgodziny techników;5100000942;30.06.2026;Nadgodziny techników 2026-06;;8.322,39
+6;2026;CC1003;402100;Materiały eksploatacyjne;5100000943;30.06.2026;Zużycie materiałów 2026-06;;30.896,10
+6;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000357;01.07.2026;FV/0028/26/CLE;CleanPro sp. z o.o.;43.935,84
+6;2026;CC1003;403200;Podwykonawcy – ochrona;5100000342;30.06.2026;FV/0038/26/STR;Strażnik Ochrona sp. z o.o.;40.725,47
+6;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000323;30.06.2026;FV/0077/26/KLI;Klimat-Tech sp. z o.o.;36.988,76
+6;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000349;30.06.2026;FV/0063/26/ZIE;Zielony Zakątek s.c.;9.190,49
+6;2026;CC1003;404100;Energia elektryczna;5100000944;30.06.2026;Energia – refaktura dostawcy 2026-06;;65.091,44
+6;2026;CC1003;404200;Media – woda i ciepło;5100000945;30.06.2026;Media – woda i ciepło 2026-06;;13.869,93
+6;2026;CC1003;405100;Wynajem sprzętu;5100000946;30.06.2026;Wynajem sprzętu 2026-06;;41.527,46
+6;2026;CC1003;406100;Koszty ogólne kontraktu;5100000947;30.06.2026;Koszty ogólne kontraktu 2026-06;;17.556,00
+6;2026;CC1004;401100;Wynagrodzenia techników;5100000948;30.06.2026;Płace techników 2026-06;;38.188,08
+6;2026;CC1004;401200;Nadgodziny techników;5100000949;30.06.2026;Nadgodziny techników 2026-06;;1.812,69
+6;2026;CC1004;402100;Materiały eksploatacyjne;5100000950;30.06.2026;Zużycie materiałów 2026-06;;22.722,81
+6;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000310;30.06.2026;FV/0036/26/BŁY;Błysk Serwis sp. z o.o.;60.913,72
+6;2026;CC1004;403200;Podwykonawcy – ochrona;5100000335;30.06.2026;FV/0026/26/SEC;Securo Polska S.A.;30.215,71
+6;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000329;30.06.2026;FV/0033/26/POL;Polar Chłód sp. z o.o.;5.177,11
+6;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000365;03.07.2026;FV/0032/26/POL;Polar Chłód sp. z o.o.;7.851,20
+6;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000346;30.06.2026;FK/0109/26/ZIE;Zielony Zakątek s.c.;206,88-
+6;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000350;30.06.2026;FV/0064/26/ZIE;Zielony Zakątek s.c.;3.491,99
+6;2026;CC1004;404100;Energia elektryczna;5100000951;30.06.2026;Energia – refaktura dostawcy 2026-06;;45.967,63
+6;2026;CC1004;404200;Media – woda i ciepło;5100000952;30.06.2026;Media – woda i ciepło 2026-06;;9.792,48
+6;2026;CC1004;406100;Koszty ogólne kontraktu;5100000953;30.06.2026;Koszty ogólne kontraktu 2026-06;;6.583,50
+6;2026;CC1005;401100;Wynagrodzenia techników;5100000954;30.06.2026;Płace techników 2026-06;;36.036,00
+6;2026;CC1005;402100;Materiały eksploatacyjne;5100000955;30.06.2026;Zużycie materiałów 2026-06;;5.089,11
+6;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000355;01.07.2026;FV/0037/26/BŁY;Błysk Serwis sp. z o.o.;124.112,13
+6;2026;CC1005;403200;Podwykonawcy – ochrona;5100000336;30.06.2026;FV/0027/26/SEC;Securo Polska S.A.;37.709,71
+6;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000330;30.06.2026;FV/0034/26/POL;Polar Chłód sp. z o.o.;5.913,27
+6;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000331;30.06.2026;FV/0036/26/POL;Polar Chłód sp. z o.o.;8.024,24
+6;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000371;06.07.2026;FV/0035/26/POL;Polar Chłód sp. z o.o.;5.227,74
+6;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000361;02.07.2026;FV/0065/26/ZIE;Zielony Zakątek s.c.;2.214,76
+6;2026;CC1005;404100;Energia elektryczna;5100000956;30.06.2026;Energia – refaktura dostawcy 2026-06;;67.256,67
+6;2026;CC1005;404200;Media – woda i ciepło;5100000957;30.06.2026;Media – woda i ciepło 2026-06;;16.328,16
+6;2026;CC1005;406100;Koszty ogólne kontraktu;5100000958;30.06.2026;Koszty ogólne kontraktu 2026-06;;4.389,00
+6;2026;CC1006;401100;Wynagrodzenia techników;5100000959;30.06.2026;Płace techników 2026-06;;47.100,48
+6;2026;CC1006;401200;Nadgodziny techników;5100000960;30.06.2026;Nadgodziny techników 2026-06;;2.408,50
+6;2026;CC1006;402100;Materiały eksploatacyjne;5100000961;30.06.2026;Zużycie materiałów 2026-06;;40.298,53
+6;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000362;03.07.2026;FV/0038/26/BŁY;Błysk Serwis sp. z o.o.;161.245,53
+6;2026;CC1006;403200;Podwykonawcy – ochrona;5100000337;30.06.2026;FV/0028/26/SEC;Securo Polska S.A.;103.365,05
+6;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000332;30.06.2026;FV/0037/26/POL;Polar Chłód sp. z o.o.;13.410,26
+6;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000333;30.06.2026;FV/0038/26/POL;Polar Chłód sp. z o.o.;15.597,95
+6;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000334;30.06.2026;FV/0039/26/POL;Polar Chłód sp. z o.o.;16.243,05
+6;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000368;04.07.2026;FV/0066/26/ZIE;Zielony Zakątek s.c.;6.825,13
+6;2026;CC1006;404100;Energia elektryczna;5100000962;30.06.2026;Energia – refaktura dostawcy 2026-06;;132.593,70
+6;2026;CC1006;404200;Media – woda i ciepło;5100000963;30.06.2026;Media – woda i ciepło 2026-06;;25.172,18
+6;2026;CC1006;406100;Koszty ogólne kontraktu;5100000964;30.06.2026;Koszty ogólne kontraktu 2026-06;;13.167,00
+6;2026;CC1007;401100;Wynagrodzenia techników;5100000965;30.06.2026;Płace techników 2026-06;;38.213,28
+6;2026;CC1007;401200;Nadgodziny techników;5100000966;30.06.2026;Nadgodziny techników 2026-06;;1.626,26
+6;2026;CC1007;402100;Materiały eksploatacyjne;5100000967;30.06.2026;Zużycie materiałów 2026-06;;9.161,10
+6;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000311;30.06.2026;FV/0039/26/BŁY;Błysk Serwis sp. z o.o.;73.519,22
+6;2026;CC1007;403200;Podwykonawcy – ochrona;5100000338;30.06.2026;FV/0029/26/SEC;Securo Polska S.A.;38.116,01
+6;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000316;30.06.2026;FV/0024/26/FRO;Frost Serwis s.c.;6.742,42
+6;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000317;30.06.2026;FV/0025/26/FRO;Frost Serwis s.c.;3.908,42
+6;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000318;30.06.2026;FV/0026/26/FRO;Frost Serwis s.c.;5.453,44
+6;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000366;03.07.2026;FV/0067/26/ZIE;Zielony Zakątek s.c.;4.153,50
+6;2026;CC1007;404100;Energia elektryczna;5100000968;30.06.2026;Energia – refaktura dostawcy 2026-06;;57.084,34
+6;2026;CC1007;404200;Media – woda i ciepło;5100000969;30.06.2026;Media – woda i ciepło 2026-06;;12.526,50
+6;2026;CC1007;406100;Koszty ogólne kontraktu;5100000970;30.06.2026;Koszty ogólne kontraktu 2026-06;;8.046,50
+6;2026;CC1008;401100;Wynagrodzenia techników;5100000971;30.06.2026;Płace techników 2026-06;;50.648,64
+6;2026;CC1008;401200;Nadgodziny techników;5100000972;30.06.2026;Nadgodziny techników 2026-06;;515,76
+6;2026;CC1008;402100;Materiały eksploatacyjne;5100000973;30.06.2026;Zużycie materiałów 2026-06;;15.624,77
+6;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000312;30.06.2026;FV/0040/26/BŁY;Błysk Serwis sp. z o.o.;62.741,66
+6;2026;CC1008;403200;Podwykonawcy – ochrona;5100000339;30.06.2026;FV/0030/26/SEC;Securo Polska S.A.;45.133,79
+6;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000319;30.06.2026;FV/0029/26/FRO;Frost Serwis s.c.;6.544,35
+6;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000358;02.07.2026;FV/0028/26/FRO;Frost Serwis s.c.;8.502,10
+6;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000364;03.07.2026;FV/0027/26/FRO;Frost Serwis s.c.;8.980,20
+6;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000351;30.06.2026;FV/0068/26/ZIE;Zielony Zakątek s.c.;7.376,02
+6;2026;CC1008;404100;Energia elektryczna;5100000974;30.06.2026;Energia – refaktura dostawcy 2026-06;;114.251,31
+6;2026;CC1008;404200;Media – woda i ciepło;5100000975;30.06.2026;Media – woda i ciepło 2026-06;;20.502,86
+6;2026;CC1008;405100;Wynajem sprzętu;5100000976;30.06.2026;Wynajem sprzętu 2026-06;;4.650,94
+6;2026;CC1008;406100;Koszty ogólne kontraktu;5100000977;30.06.2026;Koszty ogólne kontraktu 2026-06;;14.630,00
+6;2026;CC1009;401100;Wynagrodzenia techników;5100000978;30.06.2026;Płace techników 2026-06;;37.996,56
+6;2026;CC1009;402100;Materiały eksploatacyjne;5100000979;30.06.2026;Zużycie materiałów 2026-06;;5.152,69
+6;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000369;06.07.2026;FV/0041/26/BŁY;Błysk Serwis sp. z o.o.;54.118,71
+6;2026;CC1009;403200;Podwykonawcy – ochrona;5100000360;02.07.2026;FV/0039/26/STR;Strażnik Ochrona sp. z o.o.;27.122,86
+6;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000324;30.06.2026;FV/0078/26/KLI;Klimat-Tech sp. z o.o.;5.350,81
+6;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000370;06.07.2026;FV/0079/26/KLI;Klimat-Tech sp. z o.o.;6.653,15
+6;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000352;30.06.2026;FV/0069/26/ZIE;Zielony Zakątek s.c.;2.982,46
+6;2026;CC1009;404100;Energia elektryczna;5100000980;30.06.2026;Energia – refaktura dostawcy 2026-06;;42.592,81
+6;2026;CC1009;404200;Media – woda i ciepło;5100000981;30.06.2026;Media – woda i ciepło 2026-06;;9.163,27
+6;2026;CC1009;406100;Koszty ogólne kontraktu;5100000982;30.06.2026;Koszty ogólne kontraktu 2026-06;;5.852,00
+6;2026;CC1010;401100;Wynagrodzenia techników;5100000983;30.06.2026;Płace techników 2026-06;;54.178,32
+6;2026;CC1010;401200;Nadgodziny techników;5100000984;30.06.2026;Nadgodziny techników 2026-06;;6.386,09
+6;2026;CC1010;402100;Materiały eksploatacyjne;5100000985;30.06.2026;Zużycie materiałów 2026-06;;18.411,20
+6;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000363;03.07.2026;FV/0029/26/CLE;CleanPro sp. z o.o.;49.834,43
+6;2026;CC1010;403200;Podwykonawcy – ochrona;5100000340;30.06.2026;FK/0065/26/STR;Strażnik Ochrona sp. z o.o.;2.478,53-
+6;2026;CC1010;403200;Podwykonawcy – ochrona;5100000343;30.06.2026;FV/0040/26/STR;Strażnik Ochrona sp. z o.o.;44.875,18
+6;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000325;30.06.2026;FV/0080/26/KLI;Klimat-Tech sp. z o.o.;20.916,36
+6;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000326;30.06.2026;FV/0081/26/KLI;Klimat-Tech sp. z o.o.;20.530,62
+6;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000373;06.07.2026;FV/0070/26/ZIE;Zielony Zakątek s.c.;9.769,31
+6;2026;CC1010;404100;Energia elektryczna;5100000986;30.06.2026;Energia – refaktura dostawcy 2026-06;;71.012,95
+6;2026;CC1010;404200;Media – woda i ciepło;5100000987;30.06.2026;Media – woda i ciepło 2026-06;;14.126,09
+6;2026;CC1010;405100;Wynajem sprzętu;5100000988;30.06.2026;Wynajem sprzętu 2026-06;;43.908,85
+6;2026;CC1010;406100;Koszty ogólne kontraktu;5100000989;30.06.2026;Koszty ogólne kontraktu 2026-06;;19.019,00
+6;2026;CC1011;401100;Wynagrodzenia techników;5100000990;30.06.2026;Płace techników 2026-06;;38.824,80
+6;2026;CC1011;402100;Materiały eksploatacyjne;5100000991;30.06.2026;Zużycie materiałów 2026-06;;10.256,36
+6;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000315;30.06.2026;FV/0030/26/CLE;CleanPro sp. z o.o.;48.709,80
+6;2026;CC1011;403200;Podwykonawcy – ochrona;5100000344;30.06.2026;FV/0041/26/STR;Strażnik Ochrona sp. z o.o.;22.582,28
+6;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000327;30.06.2026;FV/0082/26/KLI;Klimat-Tech sp. z o.o.;10.410,25
+6;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000353;30.06.2026;FV/0071/26/ZIE;Zielony Zakątek s.c.;2.551,22
+6;2026;CC1011;404100;Energia elektryczna;5100000992;30.06.2026;Energia – refaktura dostawcy 2026-06;;36.222,00
+6;2026;CC1011;404200;Media – woda i ciepło;5100000993;30.06.2026;Media – woda i ciepło 2026-06;;7.567,91
+6;2026;CC1011;406100;Koszty ogólne kontraktu;5100000994;30.06.2026;Koszty ogólne kontraktu 2026-06;;5.120,50
+6;2026;CC1012;401100;Wynagrodzenia techników;5100000995;30.06.2026;Płace techników 2026-06;;39.150,72
+6;2026;CC1012;402100;Materiały eksploatacyjne;5100000996;30.06.2026;Zużycie materiałów 2026-06;;2.422,73
+6;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000313;30.06.2026;FV/0042/26/BŁY;Błysk Serwis sp. z o.o.;34.788,98
+6;2026;CC1012;403200;Podwykonawcy – ochrona;5100000345;30.06.2026;FV/0042/26/STR;Strażnik Ochrona sp. z o.o.;17.340,48
+6;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000328;30.06.2026;FV/0083/26/KLI;Klimat-Tech sp. z o.o.;6.979,63
+6;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000354;30.06.2026;FV/0072/26/ZIE;Zielony Zakątek s.c.;1.874,58
+6;2026;CC1012;404100;Energia elektryczna;5100000997;30.06.2026;Energia – refaktura dostawcy 2026-06;;25.214,01
+6;2026;CC1012;404200;Media – woda i ciepło;5100000998;30.06.2026;Media – woda i ciepło 2026-06;;5.615,38
+6;2026;CC1012;405100;Wynajem sprzętu;5100000999;30.06.2026;Wynajem sprzętu 2026-06;;1.717,03
+6;2026;CC1012;406100;Koszty ogólne kontraktu;5100001000;30.06.2026;Koszty ogólne kontraktu 2026-06;;3.657,50
+7;2026;CC1001;401100;Wynagrodzenia techników;5100001001;31.07.2026;Płace techników 2026-07;;43.072,56
+7;2026;CC1001;401200;Nadgodziny techników;5100001002;31.07.2026;Nadgodziny techników 2026-07;;1.479,47
+7;2026;CC1001;402100;Materiały eksploatacyjne;5100001003;31.07.2026;Zużycie materiałów 2026-07;;13.798,38
+7;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000379;31.07.2026;FV/0031/26/CLE;CleanPro sp. z o.o.;81.069,74
+7;2026;CC1001;403200;Podwykonawcy – ochrona;5100000398;31.07.2026;FV/0043/26/STR;Strażnik Ochrona sp. z o.o.;41.567,59
+7;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000423;04.08.2026;FV/0084/26/KLI;Klimat-Tech sp. z o.o.;17.848,19
+7;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000402;31.07.2026;FV/0073/26/ZIE;Zielony Zakątek s.c.;4.577,80
+7;2026;CC1001;404100;Energia elektryczna;5100001004;31.07.2026;Energia – refaktura dostawcy 2026-07;;65.197,72
+7;2026;CC1001;404200;Media – woda i ciepło;5100001005;31.07.2026;Media – woda i ciepło 2026-07;;13.587,89
+7;2026;CC1001;405100;Wynajem sprzętu;5100001006;31.07.2026;Wynajem sprzętu 2026-07;;1.579,76
+7;2026;CC1001;406100;Koszty ogólne kontraktu;5100001007;31.07.2026;Koszty ogólne kontraktu 2026-07;;8.778,00
+7;2026;CC1002;401100;Wynagrodzenia techników;5100001008;31.07.2026;Płace techników 2026-07;;41.861,84
+7;2026;CC1002;401200;Nadgodziny techników;5100001009;31.07.2026;Nadgodziny techników 2026-07;;3.896,84
+7;2026;CC1002;402100;Materiały eksploatacyjne;5100001010;31.07.2026;Zużycie materiałów 2026-07;;13.053,79
+7;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000419;03.08.2026;FV/0032/26/CLE;CleanPro sp. z o.o.;103.236,90
+7;2026;CC1002;403200;Podwykonawcy – ochrona;5100000422;03.08.2026;FV/0044/26/STR;Strażnik Ochrona sp. z o.o.;50.839,16
+7;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000384;31.07.2026;FV/0085/26/KLI;Klimat-Tech sp. z o.o.;10.085,74
+7;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000424;04.08.2026;FV/0086/26/KLI;Klimat-Tech sp. z o.o.;12.855,85
+7;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000418;02.08.2026;FV/0074/26/ZIE;Zielony Zakątek s.c.;5.682,30
+7;2026;CC1002;404100;Energia elektryczna;5100001011;31.07.2026;Energia – refaktura dostawcy 2026-07;;71.535,88
+7;2026;CC1002;404200;Media – woda i ciepło;5100001012;31.07.2026;Media – woda i ciepło 2026-07;;16.936,17
+7;2026;CC1002;406100;Koszty ogólne kontraktu;5100001013;31.07.2026;Koszty ogólne kontraktu 2026-07;;11.338,25
+7;2026;CC1003;401100;Wynagrodzenia techników;5100001014;31.07.2026;Płace techników 2026-07;;61.181,84
+7;2026;CC1003;401200;Nadgodziny techników;5100001015;31.07.2026;Nadgodziny techników 2026-07;;4.329,65
+7;2026;CC1003;402100;Materiały eksploatacyjne;5100001016;31.07.2026;Zużycie materiałów 2026-07;;18.948,70
+7;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000420;03.08.2026;FV/0033/26/CLE;CleanPro sp. z o.o.;46.214,75
+7;2026;CC1003;403200;Podwykonawcy – ochrona;5100000399;31.07.2026;FV/0045/26/STR;Strażnik Ochrona sp. z o.o.;40.827,84
+7;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000385;31.07.2026;FV/0087/26/KLI;Klimat-Tech sp. z o.o.;14.650,66
+7;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000386;31.07.2026;FV/0088/26/KLI;Klimat-Tech sp. z o.o.;24.018,03
+7;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000403;31.07.2026;FV/0075/26/ZIE;Zielony Zakątek s.c.;9.334,87
+7;2026;CC1003;404100;Energia elektryczna;5100001017;31.07.2026;Energia – refaktura dostawcy 2026-07;;69.968,26
+7;2026;CC1003;404200;Media – woda i ciepło;5100001018;31.07.2026;Media – woda i ciepło 2026-07;;13.562,81
+7;2026;CC1003;405100;Wynajem sprzętu;5100001019;31.07.2026;Wynajem sprzętu 2026-07;;45.987,82
+7;2026;CC1003;406100;Koszty ogólne kontraktu;5100001020;31.07.2026;Koszty ogólne kontraktu 2026-07;;17.556,00
+7;2026;CC1004;401100;Wynagrodzenia techników;5100001021;31.07.2026;Płace techników 2026-07;;43.915,28
+7;2026;CC1004;402100;Materiały eksploatacyjne;5100001022;31.07.2026;Zużycie materiałów 2026-07;;6.951,04
+7;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000374;31.07.2026;FV/0043/26/BŁY;Błysk Serwis sp. z o.o.;59.016,57
+7;2026;CC1004;403200;Podwykonawcy – ochrona;5100000397;31.07.2026;FV/0031/26/SEC;Securo Polska S.A.;31.310,91
+7;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000393;31.07.2026;FV/0040/26/POL;Polar Chłód sp. z o.o.;7.033,42
+7;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000417;02.08.2026;FV/0041/26/POL;Polar Chłód sp. z o.o.;6.104,00
+7;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000429;05.08.2026;FV/0076/26/ZIE;Zielony Zakątek s.c.;3.446,54
+7;2026;CC1004;404100;Energia elektryczna;5100001023;31.07.2026;Energia – refaktura dostawcy 2026-07;;49.754,65
+7;2026;CC1004;404200;Media – woda i ciepło;5100001024;31.07.2026;Media – woda i ciepło 2026-07;;9.985,85
+7;2026;CC1004;405100;Wynajem sprzętu;5100001025;31.07.2026;Wynajem sprzętu 2026-07;;2.540,68
+7;2026;CC1004;406100;Koszty ogólne kontraktu;5100001026;31.07.2026;Koszty ogólne kontraktu 2026-07;;6.583,50
+7;2026;CC1005;401100;Wynagrodzenia techników;5100001027;31.07.2026;Płace techników 2026-07;;41.442,32
+7;2026;CC1005;401200;Nadgodziny techników;5100001028;31.07.2026;Nadgodziny techników 2026-07;;176,11
+7;2026;CC1005;402100;Materiały eksploatacyjne;5100001029;31.07.2026;Zużycie materiałów 2026-07;;4.894,84
+7;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000375;31.07.2026;FV/0044/26/BŁY;Błysk Serwis sp. z o.o.;115.807,11
+7;2026;CC1005;403200;Podwykonawcy – ochrona;5100000431;06.08.2026;FV/0032/26/SEC;Securo Polska S.A.;36.905,56
+7;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000394;31.07.2026;FV/0042/26/POL;Polar Chłód sp. z o.o.;19.317,04
+7;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000416;01.08.2026;FV/0077/26/ZIE;Zielony Zakątek s.c.;2.222,89
+7;2026;CC1005;404100;Energia elektryczna;5100001030;31.07.2026;Energia – refaktura dostawcy 2026-07;;72.430,05
+7;2026;CC1005;404200;Media – woda i ciepło;5100001031;31.07.2026;Media – woda i ciepło 2026-07;;16.115,17
+7;2026;CC1005;406100;Koszty ogólne kontraktu;5100001032;31.07.2026;Koszty ogólne kontraktu 2026-07;;4.389,00
+7;2026;CC1006;401100;Wynagrodzenia techników;5100001033;31.07.2026;Płace techników 2026-07;;54.165,92
+7;2026;CC1006;401200;Nadgodziny techników;5100001034;31.07.2026;Nadgodziny techników 2026-07;;6.449,06
+7;2026;CC1006;402100;Materiały eksploatacyjne;5100001035;31.07.2026;Zużycie materiałów 2026-07;;43.863,62
+7;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000411;01.08.2026;FV/0045/26/BŁY;Błysk Serwis sp. z o.o.;167.811,40
+7;2026;CC1006;403200;Podwykonawcy – ochrona;5100000432;06.08.2026;FV/0033/26/SEC;Securo Polska S.A.;101.528,45
+7;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000395;31.07.2026;FV/0043/26/POL;Polar Chłód sp. z o.o.;19.939,88
+7;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000396;31.07.2026;FV/0044/26/POL;Polar Chłód sp. z o.o.;25.475,21
+7;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000404;31.07.2026;FV/0078/26/ZIE;Zielony Zakątek s.c.;6.960,40
+7;2026;CC1006;404100;Energia elektryczna;5100001036;31.07.2026;Energia – refaktura dostawcy 2026-07;;141.543,54
+7;2026;CC1006;404200;Media – woda i ciepło;5100001037;31.07.2026;Media – woda i ciepło 2026-07;;24.495,17
+7;2026;CC1006;406100;Koszty ogólne kontraktu;5100001038;31.07.2026;Koszty ogólne kontraktu 2026-07;;13.167,00
+7;2026;CC1007;401100;Wynagrodzenia techników;5100001039;31.07.2026;Płace techników 2026-07;;43.944,72
+7;2026;CC1007;401200;Nadgodziny techników;5100001040;31.07.2026;Nadgodziny techników 2026-07;;328,84
+7;2026;CC1007;402100;Materiały eksploatacyjne;5100001041;31.07.2026;Zużycie materiałów 2026-07;;6.025,09
+7;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000412;01.08.2026;FV/0046/26/BŁY;Błysk Serwis sp. z o.o.;74.592,30
+7;2026;CC1007;403200;Podwykonawcy – ochrona;5100000414;01.08.2026;FV/0034/26/SEC;Securo Polska S.A.;37.813,29
+7;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000382;31.07.2026;FV/0031/26/FRO;Frost Serwis s.c.;5.118,19
+7;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000413;01.08.2026;FV/0032/26/FRO;Frost Serwis s.c.;7.265,35
+7;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000430;06.08.2026;FV/0030/26/FRO;Frost Serwis s.c.;3.580,70
+7;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000405;31.07.2026;FV/0079/26/ZIE;Zielony Zakątek s.c.;4.192,66
+7;2026;CC1007;404100;Energia elektryczna;5100001042;31.07.2026;Energia – refaktura dostawcy 2026-07;;62.409,09
+7;2026;CC1007;404200;Media – woda i ciepło;5100001043;31.07.2026;Media – woda i ciepło 2026-07;;12.027,07
+7;2026;CC1007;405100;Wynajem sprzętu;5100001044;31.07.2026;Wynajem sprzętu 2026-07;;3.705,29
+7;2026;CC1007;406100;Koszty ogólne kontraktu;5100001045;31.07.2026;Koszty ogólne kontraktu 2026-07;;8.046,50
+7;2026;CC1008;401100;Wynagrodzenia techników;5100001046;31.07.2026;Płace techników 2026-07;;58.245,20
+7;2026;CC1008;401200;Nadgodziny techników;5100001047;31.07.2026;Nadgodziny techników 2026-07;;328,40
+7;2026;CC1008;402100;Materiały eksploatacyjne;5100001048;31.07.2026;Zużycie materiałów 2026-07;;13.618,46
+7;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000376;31.07.2026;FV/0047/26/BŁY;Błysk Serwis sp. z o.o.;62.325,92
+7;2026;CC1008;403200;Podwykonawcy – ochrona;5100000427;04.08.2026;FV/0035/26/SEC;Securo Polska S.A.;47.485,44
+7;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000383;31.07.2026;FV/0033/26/FRO;Frost Serwis s.c.;10.803,89
+7;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000421;03.08.2026;FV/0034/26/FRO;Frost Serwis s.c.;14.636,91
+7;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000406;31.07.2026;FV/0080/26/ZIE;Zielony Zakątek s.c.;7.632,42
+7;2026;CC1008;404100;Energia elektryczna;5100001049;31.07.2026;Energia – refaktura dostawcy 2026-07;;125.362,86
+7;2026;CC1008;404200;Media – woda i ciepło;5100001050;31.07.2026;Media – woda i ciepło 2026-07;;19.649,62
+7;2026;CC1008;405100;Wynajem sprzętu;5100001051;31.07.2026;Wynajem sprzętu 2026-07;;4.806,46
+7;2026;CC1008;406100;Koszty ogólne kontraktu;5100001052;31.07.2026;Koszty ogólne kontraktu 2026-07;;14.630,00
+7;2026;CC1009;401100;Wynagrodzenia techników;5100001053;31.07.2026;Płace techników 2026-07;;43.696,32
+7;2026;CC1009;401200;Nadgodziny techników;5100001054;31.07.2026;Nadgodziny techników 2026-07;;3.230,12
+7;2026;CC1009;402100;Materiały eksploatacyjne;5100001055;31.07.2026;Zużycie materiałów 2026-07;;14.027,40
+7;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000377;31.07.2026;FV/0048/26/BŁY;Błysk Serwis sp. z o.o.;52.806,35
+7;2026;CC1009;403200;Podwykonawcy – ochrona;5100000400;31.07.2026;FV/0046/26/STR;Strażnik Ochrona sp. z o.o.;26.392,91
+7;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000387;31.07.2026;FV/0089/26/KLI;Klimat-Tech sp. z o.o.;2.582,10
+7;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000388;31.07.2026;FV/0090/26/KLI;Klimat-Tech sp. z o.o.;5.622,68
+7;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000425;04.08.2026;FV/0091/26/KLI;Klimat-Tech sp. z o.o.;3.699,82
+7;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000407;31.07.2026;FV/0081/26/ZIE;Zielony Zakątek s.c.;2.944,08
+7;2026;CC1009;404100;Energia elektryczna;5100001056;31.07.2026;Energia – refaktura dostawcy 2026-07;;43.940,09
+7;2026;CC1009;404200;Media – woda i ciepło;5100001057;31.07.2026;Media – woda i ciepło 2026-07;;8.671,80
+7;2026;CC1009;406100;Koszty ogólne kontraktu;5100001058;31.07.2026;Koszty ogólne kontraktu 2026-07;;5.852,00
+7;2026;CC1010;401100;Wynagrodzenia techników;5100001059;31.07.2026;Płace techników 2026-07;;62.306,08
+7;2026;CC1010;401200;Nadgodziny techników;5100001060;31.07.2026;Nadgodziny techników 2026-07;;3.103,40
+7;2026;CC1010;402100;Materiały eksploatacyjne;5100001061;31.07.2026;Zużycie materiałów 2026-07;;17.800,21
+7;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000380;31.07.2026;FV/0034/26/CLE;CleanPro sp. z o.o.;48.019,71
+7;2026;CC1010;403200;Podwykonawcy – ochrona;5100000401;31.07.2026;FV/0047/26/STR;Strażnik Ochrona sp. z o.o.;45.332,88
+7;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000389;31.07.2026;FV/0093/26/KLI;Klimat-Tech sp. z o.o.;22.360,82
+7;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000426;04.08.2026;FV/0092/26/KLI;Klimat-Tech sp. z o.o.;19.236,22
+7;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000408;31.07.2026;FV/0082/26/ZIE;Zielony Zakątek s.c.;9.549,18
+7;2026;CC1010;404100;Energia elektryczna;5100001062;31.07.2026;Energia – refaktura dostawcy 2026-07;;76.284,34
+7;2026;CC1010;404200;Media – woda i ciepło;5100001063;31.07.2026;Media – woda i ciepło 2026-07;;15.080,79
+7;2026;CC1010;405100;Wynajem sprzętu;5100001064;31.07.2026;Wynajem sprzętu 2026-07;;42.160,13
+7;2026;CC1010;406100;Koszty ogólne kontraktu;5100001065;31.07.2026;Koszty ogólne kontraktu 2026-07;;19.019,00
+7;2026;CC1011;401100;Wynagrodzenia techników;5100001066;31.07.2026;Płace techników 2026-07;;44.649,44
+7;2026;CC1011;401200;Nadgodziny techników;5100001067;31.07.2026;Nadgodziny techników 2026-07;;3.399,68
+7;2026;CC1011;402100;Materiały eksploatacyjne;5100001068;31.07.2026;Zużycie materiałów 2026-07;;14.016,43
+7;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000381;31.07.2026;FV/0035/26/CLE;CleanPro sp. z o.o.;47.241,76
+7;2026;CC1011;403200;Podwykonawcy – ochrona;5100000415;01.08.2026;FV/0048/26/STR;Strażnik Ochrona sp. z o.o.;23.859,97
+7;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000390;31.07.2026;FV/0094/26/KLI;Klimat-Tech sp. z o.o.;5.104,01
+7;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000391;31.07.2026;FV/0095/26/KLI;Klimat-Tech sp. z o.o.;5.503,50
+7;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000409;31.07.2026;FV/0083/26/ZIE;Zielony Zakątek s.c.;2.632,40
+7;2026;CC1011;404100;Energia elektryczna;5100001069;31.07.2026;Energia – refaktura dostawcy 2026-07;;38.216,83
+7;2026;CC1011;404200;Media – woda i ciepło;5100001070;31.07.2026;Media – woda i ciepło 2026-07;;7.814,44
+7;2026;CC1011;406100;Koszty ogólne kontraktu;5100001071;31.07.2026;Koszty ogólne kontraktu 2026-07;;5.120,50
+7;2026;CC1012;401100;Wynagrodzenia techników;5100001072;31.07.2026;Płace techników 2026-07;;45.022,96
+7;2026;CC1012;402100;Materiały eksploatacyjne;5100001073;31.07.2026;Zużycie materiałów 2026-07;;2.688,08
+7;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000378;31.07.2026;FV/0049/26/BŁY;Błysk Serwis sp. z o.o.;34.813,48
+7;2026;CC1012;403200;Podwykonawcy – ochrona;5100000428;05.08.2026;FV/0049/26/STR;Strażnik Ochrona sp. z o.o.;16.174,30
+7;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000392;31.07.2026;FV/0096/26/KLI;Klimat-Tech sp. z o.o.;7.307,18
+7;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000410;31.07.2026;FV/0084/26/ZIE;Zielony Zakątek s.c.;1.939,68
+7;2026;CC1012;404100;Energia elektryczna;5100001074;31.07.2026;Energia – refaktura dostawcy 2026-07;;27.883,92
+7;2026;CC1012;404200;Media – woda i ciepło;5100001075;31.07.2026;Media – woda i ciepło 2026-07;;5.749,48
+7;2026;CC1012;406100;Koszty ogólne kontraktu;5100001076;31.07.2026;Koszty ogólne kontraktu 2026-07;;3.657,50
+8;2026;CC1001;401100;Wynagrodzenia techników;5100001077;31.08.2026;Płace techników 2026-08;;39.327,12
+8;2026;CC1001;401200;Nadgodziny techników;5100001078;31.08.2026;Nadgodziny techników 2026-08;;2.885,63
+8;2026;CC1001;402100;Materiały eksploatacyjne;5100001079;31.08.2026;Zużycie materiałów 2026-08;;23.074,51
+8;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000437;31.08.2026;FV/0036/26/CLE;CleanPro sp. z o.o.;82.995,66
+8;2026;CC1001;403200;Podwykonawcy – ochrona;5100000458;31.08.2026;FV/0050/26/STR;Strażnik Ochrona sp. z o.o.;39.716,62
+8;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000442;31.08.2026;FV/0097/26/KLI;Klimat-Tech sp. z o.o.;11.308,27
+8;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000480;02.09.2026;FV/0098/26/KLI;Klimat-Tech sp. z o.o.;5.368,91
+8;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000462;31.08.2026;FV/0085/26/ZIE;Zielony Zakątek s.c.;4.569,79
+8;2026;CC1001;404100;Energia elektryczna;5100001080;31.08.2026;Energia – refaktura dostawcy 2026-08;;62.844,03
+8;2026;CC1001;404200;Media – woda i ciepło;5100001081;31.08.2026;Media – woda i ciepło 2026-08;;13.609,36
+8;2026;CC1001;406100;Koszty ogólne kontraktu;5100001082;31.08.2026;Koszty ogólne kontraktu 2026-08;;8.778,00
+8;2026;CC1002;401100;Wynagrodzenia techników;5100001083;31.08.2026;Płace techników 2026-08;;38.221,68
+8;2026;CC1002;401200;Nadgodziny techników;5100001084;31.08.2026;Nadgodziny techników 2026-08;;4.559,41
+8;2026;CC1002;402100;Materiały eksploatacyjne;5100001085;31.08.2026;Zużycie materiałów 2026-08;;26.418,85
+8;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000473;01.09.2026;FV/0037/26/CLE;CleanPro sp. z o.o.;104.030,70
+8;2026;CC1002;403200;Podwykonawcy – ochrona;5100000477;01.09.2026;FV/0051/26/STR;Strażnik Ochrona sp. z o.o.;50.787,25
+8;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000443;31.08.2026;FV/0099/26/KLI;Klimat-Tech sp. z o.o.;13.282,69
+8;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000444;31.08.2026;FV/0100/26/KLI;Klimat-Tech sp. z o.o.;9.304,12
+8;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000463;31.08.2026;FV/0086/26/ZIE;Zielony Zakątek s.c.;5.731,27
+8;2026;CC1002;404100;Energia elektryczna;5100001086;31.08.2026;Energia – refaktura dostawcy 2026-08;;69.583,94
+8;2026;CC1002;404200;Media – woda i ciepło;5100001087;31.08.2026;Media – woda i ciepło 2026-08;;17.809,15
+8;2026;CC1002;406100;Koszty ogólne kontraktu;5100001088;31.08.2026;Koszty ogólne kontraktu 2026-08;;11.338,25
+8;2026;CC1003;401100;Wynagrodzenia techników;5100001089;31.08.2026;Płace techników 2026-08;;55.861,68
+8;2026;CC1003;401200;Nadgodziny techników;5100001090;31.08.2026;Nadgodziny techników 2026-08;;2.691,82
+8;2026;CC1003;402100;Materiały eksploatacyjne;5100001091;31.08.2026;Zużycie materiałów 2026-08;;19.160,16
+8;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000474;01.09.2026;FV/0038/26/CLE;CleanPro sp. z o.o.;46.712,28
+8;2026;CC1003;403200;Podwykonawcy – ochrona;5100000459;31.08.2026;FV/0052/26/STR;Strażnik Ochrona sp. z o.o.;41.854,03
+8;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000445;31.08.2026;FV/0101/26/KLI;Klimat-Tech sp. z o.o.;36.528,31
+8;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000464;31.08.2026;FV/0087/26/ZIE;Zielony Zakątek s.c.;9.036,34
+8;2026;CC1003;404100;Energia elektryczna;5100001092;31.08.2026;Energia – refaktura dostawcy 2026-08;;70.838,55
+8;2026;CC1003;404200;Media – woda i ciepło;5100001093;31.08.2026;Media – woda i ciepło 2026-08;;13.516,70
+8;2026;CC1003;405100;Wynajem sprzętu;5100001094;31.08.2026;Wynajem sprzętu 2026-08;;46.069,36
+8;2026;CC1003;406100;Koszty ogólne kontraktu;5100001095;31.08.2026;Koszty ogólne kontraktu 2026-08;;17.556,00
+8;2026;CC1004;401100;Wynagrodzenia techników;5100001096;31.08.2026;Płace techników 2026-08;;40.096,56
+8;2026;CC1004;401200;Nadgodziny techników;5100001097;31.08.2026;Nadgodziny techników 2026-08;;431,93
+8;2026;CC1004;402100;Materiały eksploatacyjne;5100001098;31.08.2026;Zużycie materiałów 2026-08;;4.692,03
+8;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000433;31.08.2026;FV/0050/26/BŁY;Błysk Serwis sp. z o.o.;59.002,70
+8;2026;CC1004;403200;Podwykonawcy – ochrona;5100000453;31.08.2026;FV/0036/26/SEC;Securo Polska S.A.;29.733,49
+8;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000448;31.08.2026;FV/0045/26/POL;Polar Chłód sp. z o.o.;3.326,43
+8;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000483;03.09.2026;FV/0046/26/POL;Polar Chłód sp. z o.o.;5.057,75
+8;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000484;03.09.2026;FV/0047/26/POL;Polar Chłód sp. z o.o.;5.074,37
+8;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000465;31.08.2026;FV/0088/26/ZIE;Zielony Zakątek s.c.;3.289,52
+8;2026;CC1004;404100;Energia elektryczna;5100001099;31.08.2026;Energia – refaktura dostawcy 2026-08;;47.230,14
+8;2026;CC1004;404200;Media – woda i ciepło;5100001100;31.08.2026;Media – woda i ciepło 2026-08;;10.056,56
+8;2026;CC1004;406100;Koszty ogólne kontraktu;5100001101;31.08.2026;Koszty ogólne kontraktu 2026-08;;6.583,50
+8;2026;CC1005;401100;Wynagrodzenia techników;5100001102;31.08.2026;Płace techników 2026-08;;37.838,64
+8;2026;CC1005;401200;Nadgodziny techników;5100001103;31.08.2026;Nadgodziny techników 2026-08;;564,09
+8;2026;CC1005;402100;Materiały eksploatacyjne;5100001104;31.08.2026;Zużycie materiałów 2026-08;;4.026,90
+8;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000490;06.09.2026;FV/0051/26/BŁY;Błysk Serwis sp. z o.o.;116.249,60
+8;2026;CC1005;403200;Podwykonawcy – ochrona;5100000454;31.08.2026;FV/0037/26/SEC;Securo Polska S.A.;36.668,21
+8;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000449;31.08.2026;FV/0049/26/POL;Polar Chłód sp. z o.o.;8.980,50
+8;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000476;01.09.2026;FV/0048/26/POL;Polar Chłód sp. z o.o.;10.614,04
+8;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000466;31.08.2026;FV/0089/26/ZIE;Zielony Zakątek s.c.;2.258,84
+8;2026;CC1005;404100;Energia elektryczna;5100001105;31.08.2026;Energia – refaktura dostawcy 2026-08;;69.464,37
+8;2026;CC1005;404200;Media – woda i ciepło;5100001106;31.08.2026;Media – woda i ciepło 2026-08;;15.991,24
+8;2026;CC1005;406100;Koszty ogólne kontraktu;5100001107;31.08.2026;Koszty ogólne kontraktu 2026-08;;4.389,00
+8;2026;CC1006;401100;Wynagrodzenia techników;5100001108;31.08.2026;Płace techników 2026-08;;49.455,84
+8;2026;CC1006;401200;Nadgodziny techników;5100001109;31.08.2026;Nadgodziny techników 2026-08;;7.730,48
+8;2026;CC1006;402100;Materiały eksploatacyjne;5100001110;31.08.2026;Zużycie materiałów 2026-08;;36.957,93
+8;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000478;02.09.2026;FV/0052/26/BŁY;Błysk Serwis sp. z o.o.;165.132,79
+8;2026;CC1006;403200;Podwykonawcy – ochrona;5100000455;31.08.2026;FV/0038/26/SEC;Securo Polska S.A.;100.867,23
+8;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000450;31.08.2026;FV/0050/26/POL;Polar Chłód sp. z o.o.;16.686,59
+8;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000451;31.08.2026;FV/0051/26/POL;Polar Chłód sp. z o.o.;14.460,17
+8;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000452;31.08.2026;FV/0052/26/POL;Polar Chłód sp. z o.o.;11.738,56
+8;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000467;31.08.2026;FV/0090/26/ZIE;Zielony Zakątek s.c.;6.884,57
+8;2026;CC1006;404100;Energia elektryczna;5100001111;31.08.2026;Energia – refaktura dostawcy 2026-08;;133.013,95
+8;2026;CC1006;404200;Media – woda i ciepło;5100001112;31.08.2026;Media – woda i ciepło 2026-08;;24.921,57
+8;2026;CC1006;406100;Koszty ogólne kontraktu;5100001113;31.08.2026;Koszty ogólne kontraktu 2026-08;;13.167,00
+8;2026;CC1007;401100;Wynagrodzenia techników;5100001114;31.08.2026;Płace techników 2026-08;;40.123,44
+8;2026;CC1007;401200;Nadgodziny techników;5100001115;31.08.2026;Nadgodziny techników 2026-08;;766,26
+8;2026;CC1007;402100;Materiały eksploatacyjne;5100001116;31.08.2026;Zużycie materiałów 2026-08;;7.318,37
+8;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000434;31.08.2026;FV/0053/26/BŁY;Błysk Serwis sp. z o.o.;73.424,25
+8;2026;CC1007;403200;Podwykonawcy – ochrona;5100000456;31.08.2026;FV/0039/26/SEC;Securo Polska S.A.;36.163,27
+8;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000440;31.08.2026;FV/0036/26/FRO;Frost Serwis s.c.;7.266,15
+8;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000479;02.09.2026;FV/0035/26/FRO;Frost Serwis s.c.;8.235,42
+8;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000468;31.08.2026;FV/0091/26/ZIE;Zielony Zakątek s.c.;4.034,42
+8;2026;CC1007;404100;Energia elektryczna;5100001117;31.08.2026;Energia – refaktura dostawcy 2026-08;;58.713,65
+8;2026;CC1007;404200;Media – woda i ciepło;5100001118;31.08.2026;Media – woda i ciepło 2026-08;;12.700,10
+8;2026;CC1007;406100;Koszty ogólne kontraktu;5100001119;31.08.2026;Koszty ogólne kontraktu 2026-08;;8.046,50
+8;2026;CC1008;401100;Wynagrodzenia techników;5100001120;31.08.2026;Płace techników 2026-08;;53.180,40
+8;2026;CC1008;401200;Nadgodziny techników;5100001121;31.08.2026;Nadgodziny techników 2026-08;;4.758,31
+8;2026;CC1008;402100;Materiały eksploatacyjne;5100001122;31.08.2026;Zużycie materiałów 2026-08;;19.238,98
+8;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000435;31.08.2026;FV/0054/26/BŁY;Błysk Serwis sp. z o.o.;62.173,12
+8;2026;CC1008;403200;Podwykonawcy – ochrona;5100000457;31.08.2026;FV/0040/26/SEC;Securo Polska S.A.;47.894,60
+8;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000441;31.08.2026;FV/0037/26/FRO;Frost Serwis s.c.;14.690,11
+8;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000482;03.09.2026;FV/0038/26/FRO;Frost Serwis s.c.;9.803,04
+8;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000469;31.08.2026;FV/0092/26/ZIE;Zielony Zakątek s.c.;7.353,30
+8;2026;CC1008;404100;Energia elektryczna;5100001123;31.08.2026;Energia – refaktura dostawcy 2026-08;;124.654,88
+8;2026;CC1008;404200;Media – woda i ciepło;5100001124;31.08.2026;Media – woda i ciepło 2026-08;;19.470,95
+8;2026;CC1008;405100;Wynajem sprzętu;5100001125;31.08.2026;Wynajem sprzętu 2026-08;;4.576,73
+8;2026;CC1008;406100;Koszty ogólne kontraktu;5100001126;31.08.2026;Koszty ogólne kontraktu 2026-08;;14.630,00
+8;2026;CC1009;401100;Wynagrodzenia techników;5100001127;31.08.2026;Płace techników 2026-08;;39.896,64
+8;2026;CC1009;401200;Nadgodziny techników;5100001128;31.08.2026;Nadgodziny techników 2026-08;;379,03
+8;2026;CC1009;402100;Materiały eksploatacyjne;5100001129;31.08.2026;Zużycie materiałów 2026-08;;3.591,02
+8;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000489;05.09.2026;FV/0055/26/BŁY;Błysk Serwis sp. z o.o.;53.017,97
+8;2026;CC1009;403200;Podwykonawcy – ochrona;5100000460;31.08.2026;FV/0053/26/STR;Strażnik Ochrona sp. z o.o.;26.929,29
+8;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000446;31.08.2026;FV/0102/26/KLI;Klimat-Tech sp. z o.o.;4.693,37
+8;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000481;02.09.2026;FV/0103/26/KLI;Klimat-Tech sp. z o.o.;3.470,26
+8;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000486;04.09.2026;FV/0104/26/KLI;Klimat-Tech sp. z o.o.;3.604,42
+8;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000470;31.08.2026;FV/0093/26/ZIE;Zielony Zakątek s.c.;3.124,41
+8;2026;CC1009;404100;Energia elektryczna;5100001130;31.08.2026;Energia – refaktura dostawcy 2026-08;;42.696,60
+8;2026;CC1009;404200;Media – woda i ciepło;5100001131;31.08.2026;Media – woda i ciepło 2026-08;;9.027,29
+8;2026;CC1009;406100;Koszty ogólne kontraktu;5100001132;31.08.2026;Koszty ogólne kontraktu 2026-08;;5.852,00
+8;2026;CC1010;401100;Wynagrodzenia techników;5100001133;31.08.2026;Płace techników 2026-08;;56.888,16
+8;2026;CC1010;401200;Nadgodziny techników;5100001134;31.08.2026;Nadgodziny techników 2026-08;;6.817,46
+8;2026;CC1010;402100;Materiały eksploatacyjne;5100001135;31.08.2026;Zużycie materiałów 2026-08;;40.897,33
+8;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000438;31.08.2026;FV/0039/26/CLE;CleanPro sp. z o.o.;50.413,67
+8;2026;CC1010;403200;Podwykonawcy – ochrona;5100000491;06.09.2026;FV/0054/26/STR;Strażnik Ochrona sp. z o.o.;43.133,33
+8;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000475;01.09.2026;FV/0105/26/KLI;Klimat-Tech sp. z o.o.;40.847,20
+8;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000471;31.08.2026;FV/0094/26/ZIE;Zielony Zakątek s.c.;9.970,60
+8;2026;CC1010;404100;Energia elektryczna;5100001136;31.08.2026;Energia – refaktura dostawcy 2026-08;;75.076,97
+8;2026;CC1010;404200;Media – woda i ciepło;5100001137;31.08.2026;Media – woda i ciepło 2026-08;;15.093,65
+8;2026;CC1010;405100;Wynajem sprzętu;5100001138;31.08.2026;Wynajem sprzętu 2026-08;;43.548,96
+8;2026;CC1010;406100;Koszty ogólne kontraktu;5100001139;31.08.2026;Koszty ogólne kontraktu 2026-08;;19.019,00
+8;2026;CC1011;401100;Wynagrodzenia techników;5100001140;31.08.2026;Płace techników 2026-08;;40.766,88
+8;2026;CC1011;401200;Nadgodziny techników;5100001141;31.08.2026;Nadgodziny techników 2026-08;;128,52
+8;2026;CC1011;402100;Materiały eksploatacyjne;5100001142;31.08.2026;Zużycie materiałów 2026-08;;4.441,56
+8;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000439;31.08.2026;FV/0040/26/CLE;CleanPro sp. z o.o.;48.222,70
+8;2026;CC1011;403200;Podwykonawcy – ochrona;5100000485;03.09.2026;FV/0055/26/STR;Strażnik Ochrona sp. z o.o.;24.101,43
+8;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000447;31.08.2026;FV/0106/26/KLI;Klimat-Tech sp. z o.o.;10.172,59
+8;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000488;04.09.2026;FV/0095/26/ZIE;Zielony Zakątek s.c.;2.718,91
+8;2026;CC1011;404100;Energia elektryczna;5100001143;31.08.2026;Energia – refaktura dostawcy 2026-08;;37.158,72
+8;2026;CC1011;404200;Media – woda i ciepło;5100001144;31.08.2026;Media – woda i ciepło 2026-08;;7.553,73
+8;2026;CC1011;406100;Koszty ogólne kontraktu;5100001145;31.08.2026;Koszty ogólne kontraktu 2026-08;;5.120,50
+8;2026;CC1012;401100;Wynagrodzenia techników;5100001146;31.08.2026;Płace techników 2026-08;;41.107,92
+8;2026;CC1012;402100;Materiały eksploatacyjne;5100001147;31.08.2026;Zużycie materiałów 2026-08;;2.400,02
+8;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000436;31.08.2026;FV/0056/26/BŁY;Błysk Serwis sp. z o.o.;33.978,98
+8;2026;CC1012;403200;Podwykonawcy – ochrona;5100000461;31.08.2026;FV/0056/26/STR;Strażnik Ochrona sp. z o.o.;16.371,77
+8;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000487;04.09.2026;FV/0107/26/KLI;Klimat-Tech sp. z o.o.;7.204,59
+8;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000472;31.08.2026;FV/0096/26/ZIE;Zielony Zakątek s.c.;1.830,84
+8;2026;CC1012;404100;Energia elektryczna;5100001148;31.08.2026;Energia – refaktura dostawcy 2026-08;;27.366,22
+8;2026;CC1012;404200;Media – woda i ciepło;5100001149;31.08.2026;Media – woda i ciepło 2026-08;;5.402,03
+8;2026;CC1012;406100;Koszty ogólne kontraktu;5100001150;31.08.2026;Koszty ogólne kontraktu 2026-08;;3.657,50
+9;2026;CC1001;401100;Wynagrodzenia techników;5100001151;30.09.2026;Płace techników 2026-09;;41.199,84
+9;2026;CC1001;402100;Materiały eksploatacyjne;5100001152;30.09.2026;Zużycie materiałów 2026-09;;6.542,65
+9;2026;CC1001;403100;Podwykonawcy – sprzątanie;5100000532;02.10.2026;FV/0041/26/CLE;CleanPro sp. z o.o.;79.368,17
+9;2026;CC1001;403200;Podwykonawcy – ochrona;5100000521;30.09.2026;FV/0057/26/STR;Strażnik Ochrona sp. z o.o.;38.957,39
+9;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000499;30.09.2026;FV/0108/26/KLI;Klimat-Tech sp. z o.o.;3.634,76
+9;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000500;30.09.2026;FV/0109/26/KLI;Klimat-Tech sp. z o.o.;3.445,89
+9;2026;CC1001;403300;Podwykonawcy – serwis HVAC;5100000501;30.09.2026;FV/0110/26/KLI;Klimat-Tech sp. z o.o.;7.202,54
+9;2026;CC1001;403400;Podwykonawcy – zieleń i odśnieżanie;5100000538;03.10.2026;FV/0097/26/ZIE;Zielony Zakątek s.c.;3.455,97
+9;2026;CC1001;404100;Energia elektryczna;5100001153;30.09.2026;Energia – refaktura dostawcy 2026-09;;58.083,12
+9;2026;CC1001;404200;Media – woda i ciepło;5100001154;30.09.2026;Media – woda i ciepło 2026-09;;15.644,62
+9;2026;CC1001;406100;Koszty ogólne kontraktu;5100001155;30.09.2026;Koszty ogólne kontraktu 2026-09;;8.778,00
+9;2026;CC1002;401100;Wynagrodzenia techników;5100001156;30.09.2026;Płace techników 2026-09;;40.041,76
+9;2026;CC1002;401200;Nadgodziny techników;5100001157;30.09.2026;Nadgodziny techników 2026-09;;4.585,25
+9;2026;CC1002;402100;Materiały eksploatacyjne;5100001158;30.09.2026;Zużycie materiałów 2026-09;;17.152,14
+9;2026;CC1002;403100;Podwykonawcy – sprzątanie;5100000496;30.09.2026;FV/0042/26/CLE;CleanPro sp. z o.o.;101.743,62
+9;2026;CC1002;403200;Podwykonawcy – ochrona;5100000522;30.09.2026;FV/0058/26/STR;Strażnik Ochrona sp. z o.o.;51.957,77
+9;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000502;30.09.2026;FV/0111/26/KLI;Klimat-Tech sp. z o.o.;8.121,97
+9;2026;CC1002;403300;Podwykonawcy – serwis HVAC;5100000547;05.10.2026;FV/0112/26/KLI;Klimat-Tech sp. z o.o.;9.365,66
+9;2026;CC1002;403400;Podwykonawcy – zieleń i odśnieżanie;5100000551;06.10.2026;FV/0098/26/ZIE;Zielony Zakątek s.c.;4.353,37
+9;2026;CC1002;404100;Energia elektryczna;5100001159;30.09.2026;Energia – refaktura dostawcy 2026-09;;64.936,61
+9;2026;CC1002;404200;Media – woda i ciepło;5100001160;30.09.2026;Media – woda i ciepło 2026-09;;20.656,52
+9;2026;CC1002;405100;Wynajem sprzętu;5100001161;30.09.2026;Wynajem sprzętu 2026-09;;3.653,50
+9;2026;CC1002;406100;Koszty ogólne kontraktu;5100001162;30.09.2026;Koszty ogólne kontraktu 2026-09;;11.338,25
+9;2026;CC1003;401100;Wynagrodzenia techników;5100001163;30.09.2026;Płace techników 2026-09;;58.521,76
+9;2026;CC1003;401200;Nadgodziny techników;5100001164;30.09.2026;Nadgodziny techników 2026-09;;4.201,16
+9;2026;CC1003;402100;Materiały eksploatacyjne;5100001165;30.09.2026;Zużycie materiałów 2026-09;;32.264,24
+9;2026;CC1003;403100;Podwykonawcy – sprzątanie;5100000545;05.10.2026;FV/0043/26/CLE;CleanPro sp. z o.o.;45.699,42
+9;2026;CC1003;403200;Podwykonawcy – ochrona;5100000543;04.10.2026;FV/0059/26/STR;Strażnik Ochrona sp. z o.o.;40.272,87
+9;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000541;04.10.2026;FV/0113/26/KLI;Klimat-Tech sp. z o.o.;6.765,99
+9;2026;CC1003;403300;Podwykonawcy – serwis HVAC;5100000548;05.10.2026;FV/0114/26/KLI;Klimat-Tech sp. z o.o.;5.360,03
+9;2026;CC1003;403400;Podwykonawcy – zieleń i odśnieżanie;5100000530;01.10.2026;FV/0099/26/ZIE;Zielony Zakątek s.c.;6.790,78
+9;2026;CC1003;404100;Energia elektryczna;5100001166;30.09.2026;Energia – refaktura dostawcy 2026-09;;62.027,59
+9;2026;CC1003;404200;Media – woda i ciepło;5100001167;30.09.2026;Media – woda i ciepło 2026-09;;16.008,66
+9;2026;CC1003;405100;Wynajem sprzętu;5100001168;30.09.2026;Wynajem sprzętu 2026-09;;5.188,34
+9;2026;CC1003;406100;Koszty ogólne kontraktu;5100001169;30.09.2026;Koszty ogólne kontraktu 2026-09;;17.556,00
+9;2026;CC1004;401100;Wynagrodzenia techników;5100001170;30.09.2026;Płace techników 2026-09;;42.005,92
+9;2026;CC1004;402100;Materiały eksploatacyjne;5100001171;30.09.2026;Zużycie materiałów 2026-09;;3.994,79
+9;2026;CC1004;403100;Podwykonawcy – sprzątanie;5100000492;30.09.2026;FV/0057/26/BŁY;Błysk Serwis sp. z o.o.;59.702,44
+9;2026;CC1004;403200;Podwykonawcy – ochrona;5100000517;30.09.2026;FV/0041/26/SEC;Securo Polska S.A.;29.360,39
+9;2026;CC1004;403300;Podwykonawcy – serwis HVAC;5100000512;30.09.2026;FV/0053/26/POL;Polar Chłód sp. z o.o.;10.305,81
+9;2026;CC1004;403400;Podwykonawcy – zieleń i odśnieżanie;5100000531;01.10.2026;FV/0100/26/ZIE;Zielony Zakątek s.c.;2.614,23
+9;2026;CC1004;404100;Energia elektryczna;5100001172;30.09.2026;Energia – refaktura dostawcy 2026-09;;44.454,61
+9;2026;CC1004;404200;Media – woda i ciepło;5100001173;30.09.2026;Media – woda i ciepło 2026-09;;11.643,29
+9;2026;CC1004;406100;Koszty ogólne kontraktu;5100001174;30.09.2026;Koszty ogólne kontraktu 2026-09;;6.583,50
+9;2026;CC1005;401100;Wynagrodzenia techników;5100001175;30.09.2026;Płace techników 2026-09;;39.640,48
+9;2026;CC1005;401200;Nadgodziny techników;5100001176;30.09.2026;Nadgodziny techników 2026-09;;557,67
+9;2026;CC1005;402100;Materiały eksploatacyjne;5100001177;30.09.2026;Zużycie materiałów 2026-09;;8.877,67
+9;2026;CC1005;403100;Podwykonawcy – sprzątanie;5100000536;03.10.2026;FV/0058/26/BŁY;Błysk Serwis sp. z o.o.;123.280,21
+9;2026;CC1005;403200;Podwykonawcy – ochrona;5100000518;30.09.2026;FV/0042/26/SEC;Securo Polska S.A.;38.456,81
+9;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000513;30.09.2026;FV/0054/26/POL;Polar Chłód sp. z o.o.;4.573,40
+9;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000514;30.09.2026;FV/0055/26/POL;Polar Chłód sp. z o.o.;7.339,93
+9;2026;CC1005;403300;Podwykonawcy – serwis HVAC;5100000533;02.10.2026;FV/0056/26/POL;Polar Chłód sp. z o.o.;3.726,18
+9;2026;CC1005;403400;Podwykonawcy – zieleń i odśnieżanie;5100000552;06.10.2026;FV/0101/26/ZIE;Zielony Zakątek s.c.;1.727,39
+9;2026;CC1005;404100;Energia elektryczna;5100001178;30.09.2026;Energia – refaktura dostawcy 2026-09;;63.005,50
+9;2026;CC1005;404200;Media – woda i ciepło;5100001179;30.09.2026;Media – woda i ciepło 2026-09;;18.894,50
+9;2026;CC1005;406100;Koszty ogólne kontraktu;5100001180;30.09.2026;Koszty ogólne kontraktu 2026-09;;4.389,00
+9;2026;CC1006;401100;Wynagrodzenia techników;5100001181;30.09.2026;Płace techników 2026-09;;51.810,88
+9;2026;CC1006;401200;Nadgodziny techników;5100001182;30.09.2026;Nadgodziny techników 2026-09;;1.232,87
+9;2026;CC1006;402100;Materiały eksploatacyjne;5100001183;30.09.2026;Zużycie materiałów 2026-09;;21.917,09
+9;2026;CC1006;403100;Podwykonawcy – sprzątanie;5100000544;05.10.2026;FV/0059/26/BŁY;Błysk Serwis sp. z o.o.;164.554,30
+9;2026;CC1006;403200;Podwykonawcy – ochrona;5100000519;30.09.2026;FV/0043/26/SEC;Securo Polska S.A.;103.206,37
+9;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000515;30.09.2026;FV/0057/26/POL;Polar Chłód sp. z o.o.;6.051,56
+9;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000516;30.09.2026;FV/0058/26/POL;Polar Chłód sp. z o.o.;10.727,49
+9;2026;CC1006;403300;Podwykonawcy – serwis HVAC;5100000549;06.10.2026;FV/0059/26/POL;Polar Chłód sp. z o.o.;9.662,48
+9;2026;CC1006;403400;Podwykonawcy – zieleń i odśnieżanie;5100000539;03.10.2026;FV/0102/26/ZIE;Zielony Zakątek s.c.;5.216,04
+9;2026;CC1006;404100;Energia elektryczna;5100001184;30.09.2026;Energia – refaktura dostawcy 2026-09;;125.590,84
+9;2026;CC1006;404200;Media – woda i ciepło;5100001185;30.09.2026;Media – woda i ciepło 2026-09;;28.930,62
+9;2026;CC1006;406100;Koszty ogólne kontraktu;5100001186;30.09.2026;Koszty ogólne kontraktu 2026-09;;13.167,00
+9;2026;CC1007;401100;Wynagrodzenia techników;5100001187;30.09.2026;Płace techników 2026-09;;42.034,08
+9;2026;CC1007;401200;Nadgodziny techników;5100001188;30.09.2026;Nadgodziny techników 2026-09;;286,98
+9;2026;CC1007;402100;Materiały eksploatacyjne;5100001189;30.09.2026;Zużycie materiałów 2026-09;;5.289,65
+9;2026;CC1007;403100;Podwykonawcy – sprzątanie;5100000537;03.10.2026;FV/0060/26/BŁY;Błysk Serwis sp. z o.o.;73.318,98
+9;2026;CC1007;403200;Podwykonawcy – ochrona;5100000520;30.09.2026;FV/0044/26/SEC;Securo Polska S.A.;36.704,54
+9;2026;CC1007;403300;Podwykonawcy – serwis HVAC;5100000546;05.10.2026;FV/0039/26/FRO;Frost Serwis s.c.;13.205,88
+9;2026;CC1007;403400;Podwykonawcy – zieleń i odśnieżanie;5100000525;30.09.2026;FV/0103/26/ZIE;Zielony Zakątek s.c.;3.242,28
+9;2026;CC1007;404100;Energia elektryczna;5100001190;30.09.2026;Energia – refaktura dostawcy 2026-09;;53.743,42
+9;2026;CC1007;404200;Media – woda i ciepło;5100001191;30.09.2026;Media – woda i ciepło 2026-09;;14.431,52
+9;2026;CC1007;406100;Koszty ogólne kontraktu;5100001192;30.09.2026;Koszty ogólne kontraktu 2026-09;;8.046,50
+9;2026;CC1008;401100;Wynagrodzenia techników;5100001193;30.09.2026;Płace techników 2026-09;;55.712,80
+9;2026;CC1008;401200;Nadgodziny techników;5100001194;30.09.2026;Nadgodziny techników 2026-09;;556,21
+9;2026;CC1008;402100;Materiały eksploatacyjne;5100001195;30.09.2026;Zużycie materiałów 2026-09;;12.181,90
+9;2026;CC1008;403100;Podwykonawcy – sprzątanie;5100000493;30.09.2026;FV/0061/26/BŁY;Błysk Serwis sp. z o.o.;64.082,96
+9;2026;CC1008;403200;Podwykonawcy – ochrona;5100000550;06.10.2026;FV/0045/26/SEC;Securo Polska S.A.;46.530,79
+9;2026;CC1008;403300;Podwykonawcy – serwis HVAC;5100000529;01.10.2026;FV/0040/26/FRO;Frost Serwis s.c.;19.168,06
+9;2026;CC1008;403400;Podwykonawcy – zieleń i odśnieżanie;5100000526;30.09.2026;FV/0104/26/ZIE;Zielony Zakątek s.c.;5.698,49
+9;2026;CC1008;404100;Energia elektryczna;5100001196;30.09.2026;Energia – refaktura dostawcy 2026-09;;114.634,99
+9;2026;CC1008;404200;Media – woda i ciepło;5100001197;30.09.2026;Media – woda i ciepło 2026-09;;23.556,70
+9;2026;CC1008;405100;Wynajem sprzętu;5100001198;30.09.2026;Wynajem sprzętu 2026-09;;4.513,06
+9;2026;CC1008;406100;Koszty ogólne kontraktu;5100001199;30.09.2026;Koszty ogólne kontraktu 2026-09;;14.630,00
+9;2026;CC1009;401100;Wynagrodzenia techników;5100001200;30.09.2026;Płace techników 2026-09;;41.796,48
+9;2026;CC1009;402100;Materiały eksploatacyjne;5100001201;30.09.2026;Zużycie materiałów 2026-09;;4.184,30
+9;2026;CC1009;403100;Podwykonawcy – sprzątanie;5100000494;30.09.2026;FV/0062/26/BŁY;Błysk Serwis sp. z o.o.;53.930,29
+9;2026;CC1009;403200;Podwykonawcy – ochrona;5100000523;30.09.2026;FV/0060/26/STR;Strażnik Ochrona sp. z o.o.;27.869,46
+9;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000503;30.09.2026;FV/0115/26/KLI;Klimat-Tech sp. z o.o.;4.502,47
+9;2026;CC1009;403300;Podwykonawcy – serwis HVAC;5100000504;30.09.2026;FV/0116/26/KLI;Klimat-Tech sp. z o.o.;4.672,26
+9;2026;CC1009;403400;Podwykonawcy – zieleń i odśnieżanie;5100000527;30.09.2026;FV/0105/26/ZIE;Zielony Zakątek s.c.;2.286,12
+9;2026;CC1009;404100;Energia elektryczna;5100001202;30.09.2026;Energia – refaktura dostawcy 2026-09;;40.061,82
+9;2026;CC1009;404200;Media – woda i ciepło;5100001203;30.09.2026;Media – woda i ciepło 2026-09;;10.763,15
+9;2026;CC1009;406100;Koszty ogólne kontraktu;5100001204;30.09.2026;Koszty ogólne kontraktu 2026-09;;5.852,00
+9;2026;CC1010;401100;Wynagrodzenia techników;5100001205;30.09.2026;Płace techników 2026-09;;59.597,12
+9;2026;CC1010;401200;Nadgodziny techników;5100001206;30.09.2026;Nadgodziny techników 2026-09;;4.503,30
+9;2026;CC1010;402100;Materiały eksploatacyjne;5100001207;30.09.2026;Zużycie materiałów 2026-09;;22.222,05
+9;2026;CC1010;403100;Podwykonawcy – sprzątanie;5100000497;30.09.2026;FV/0044/26/CLE;CleanPro sp. z o.o.;49.419,62
+9;2026;CC1010;403200;Podwykonawcy – ochrona;5100000524;30.09.2026;FV/0061/26/STR;Strażnik Ochrona sp. z o.o.;43.042,96
+9;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000505;30.09.2026;FV/0117/26/KLI;Klimat-Tech sp. z o.o.;4.527,27
+9;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000506;30.09.2026;FV/0118/26/KLI;Klimat-Tech sp. z o.o.;4.079,87
+9;2026;CC1010;403300;Podwykonawcy – serwis HVAC;5100000507;30.09.2026;FV/0119/26/KLI;Klimat-Tech sp. z o.o.;4.545,90
+9;2026;CC1010;403400;Podwykonawcy – zieleń i odśnieżanie;5100000553;06.10.2026;FV/0106/26/ZIE;Zielony Zakątek s.c.;7.608,37
+9;2026;CC1010;404100;Energia elektryczna;5100001208;30.09.2026;Energia – refaktura dostawcy 2026-09;;67.838,17
+9;2026;CC1010;404200;Media – woda i ciepło;5100001209;30.09.2026;Media – woda i ciepło 2026-09;;16.515,89
+9;2026;CC1010;405100;Wynajem sprzętu;5100001210;30.09.2026;Wynajem sprzętu 2026-09;;6.411,82
+9;2026;CC1010;406100;Koszty ogólne kontraktu;5100001211;30.09.2026;Koszty ogólne kontraktu 2026-09;;19.019,00
+9;2026;CC1011;401100;Wynagrodzenia techników;5100001212;30.09.2026;Płace techników 2026-09;;42.708,16
+9;2026;CC1011;402100;Materiały eksploatacyjne;5100001213;30.09.2026;Zużycie materiałów 2026-09;;4.444,16
+9;2026;CC1011;403100;Podwykonawcy – sprzątanie;5100000498;30.09.2026;FV/0045/26/CLE;CleanPro sp. z o.o.;45.893,44
+9;2026;CC1011;403200;Podwykonawcy – ochrona;5100000534;02.10.2026;FV/0062/26/STR;Strażnik Ochrona sp. z o.o.;23.741,76
+9;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000508;30.09.2026;FV/0121/26/KLI;Klimat-Tech sp. z o.o.;3.964,21
+9;2026;CC1011;403300;Podwykonawcy – serwis HVAC;5100000542;04.10.2026;FV/0120/26/KLI;Klimat-Tech sp. z o.o.;4.273,79
+9;2026;CC1011;403400;Podwykonawcy – zieleń i odśnieżanie;5100000540;03.10.2026;FV/0107/26/ZIE;Zielony Zakątek s.c.;1.912,99
+9;2026;CC1011;404100;Energia elektryczna;5100001214;30.09.2026;Energia – refaktura dostawcy 2026-09;;34.226,99
+9;2026;CC1011;404200;Media – woda i ciepło;5100001215;30.09.2026;Media – woda i ciepło 2026-09;;9.151,02
+9;2026;CC1011;406100;Koszty ogólne kontraktu;5100001216;30.09.2026;Koszty ogólne kontraktu 2026-09;;5.120,50
+9;2026;CC1012;401100;Wynagrodzenia techników;5100001217;30.09.2026;Płace techników 2026-09;;43.065,44
+9;2026;CC1012;402100;Materiały eksploatacyjne;5100001218;30.09.2026;Zużycie materiałów 2026-09;;2.353,06
+9;2026;CC1012;403100;Podwykonawcy – sprzątanie;5100000495;30.09.2026;FV/0063/26/BŁY;Błysk Serwis sp. z o.o.;33.464,80
+9;2026;CC1012;403200;Podwykonawcy – ochrona;5100000535;02.10.2026;FV/0063/26/STR;Strażnik Ochrona sp. z o.o.;16.855,16
+9;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000509;30.09.2026;FV/0122/26/KLI;Klimat-Tech sp. z o.o.;2.232,07
+9;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000510;30.09.2026;FV/0123/26/KLI;Klimat-Tech sp. z o.o.;1.288,15
+9;2026;CC1012;403300;Podwykonawcy – serwis HVAC;5100000511;30.09.2026;FV/0124/26/KLI;Klimat-Tech sp. z o.o.;2.271,17
+9;2026;CC1012;403400;Podwykonawcy – zieleń i odśnieżanie;5100000528;30.09.2026;FV/0108/26/ZIE;Zielony Zakątek s.c.;1.402,42
+9;2026;CC1012;404100;Energia elektryczna;5100001219;30.09.2026;Energia – refaktura dostawcy 2026-09;;25.352,96
+9;2026;CC1012;404200;Media – woda i ciepło;5100001220;30.09.2026;Media – woda i ciepło 2026-09;;6.680,70
+9;2026;CC1012;406100;Koszty ogólne kontraktu;5100001221;30.09.2026;Koszty ogólne kontraktu 2026-09;;3.657,50

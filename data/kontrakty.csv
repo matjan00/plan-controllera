@@ -1,0 +1,10 @@
+﻿id_kontraktu;klient;nazwa_kontraktu;typ_rozliczenia;narzut_proc;oplata_zarzadzania_mies;marza_docelowa_proc;data_startu;data_konca;lokalizacje;centrum_zysku;element_PSP;oplata_stala_mies_2026
+K01;Grupa Horyzont S.A.;Horyzont – Lipowy Park;Fixed fee;0,00;0,00;11,00;2023-01-01;2027-12-31;L01;PC2001;K-01-01;249000,00
+K02;Bank Wisła S.A.;Bank Wisła – Warszawa i Lublin;Cost plus;8,00;0,00;7,40;2024-04-01;2028-03-31;L02, L11;PC2002;K-02-01;0,00
+K03;Nordtech Logistics sp. z o.o.;Nordtech – magazyny;Fixed fee;0,00;0,00;9,00;2022-07-01;2026-12-31;L03, L10;PC2003;K-03-01;516000,00
+K04;Grupa Horyzont S.A.;Horyzont – Kraków;Fixed fee;0,00;0,00;12,00;2024-01-01;2028-12-31;L04;PC2004;K-04-01;202000,00
+K05;Medline Szpitale sp. z o.o.;Medline – szpital Kraków;Open book;0,00;38000,00;6,00;2025-01-01;2029-12-31;L05;PC2005;K-05-01;0,00
+K06;Galeria Nova sp. z o.o.;Galeria Nova – Katowice;Fixed fee;0,00;0,00;10,00;2023-10-01;2026-09-30;L06;PC2006;K-06-01;432000,00
+K07;Delta Shared Services sp. z o.o.;Delta – Wrocław;Fixed fee;0,00;0,00;11,00;2025-03-01;2028-02-29;L07;PC2007;K-07-01;233000,00
+K08;Komponenta Automotive S.A.;Komponenta – Poznań;Cost plus;10,00;0,00;9,10;2021-01-01;2026-12-31;L08;PC2008;K-08-01;0,00
+K09;Grupa Horyzont S.A.;Horyzont – Północ;Fixed fee;0,00;0,00;12,00;2024-01-01;2028-12-31;L09, L12;PC2009;K-09-01;321000,00

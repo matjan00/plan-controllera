@@ -1,0 +1,13 @@
+﻿id_lokalizacji;lokalizacja;miasto;region;typ_obiektu;powierzchnia_m2;centrum_kosztow;id_kontraktu
+L01;Biurowiec Lipowy Park;Warszawa;Centrum;Biuro;24000;CC1001;K01
+L02;Wieża Wolska;Warszawa;Centrum;Biuro;31000;CC1002;K02
+L03;Centrum logistyczne Pruszków;Pruszków;Centrum;Magazyn;48000;CC1003;K03
+L04;Biurowiec Krakowska Brama;Kraków;Południe;Biuro;18000;CC1004;K04
+L05;Szpital Medline Kraków;Kraków;Południe;Szpital;12000;CC1005;K05
+L06;Galeria Nova Katowice;Katowice;Południe;Handel;36000;CC1006;K06
+L07;Centrum usług Delta Wrocław;Wrocław;Zachód;Biuro;22000;CC1007;K07
+L08;Zakład Komponenta Poznań;Poznań;Zachód;Przemysł;40000;CC1008;K08
+L09;Oliwa Business Point;Gdańsk;Północ;Biuro;16000;CC1009;K09
+L10;Magazyn e-commerce Stryków;Stryków;Centrum;Magazyn;52000;CC1010;K03
+L11;Kampus Bank Wisła Lublin;Lublin;Wschód;Biuro;14000;CC1011;K02
+L12;Port Office Szczecin;Szczecin;Północ;Biuro;10000;CC1012;K09

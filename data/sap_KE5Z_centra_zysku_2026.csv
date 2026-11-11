@@ -1,0 +1,1016 @@
+﻿Okres;Rok obrot.;Centrum zysku;Konto;Nazwa konta;Wartość w WK
+1;2026;PC2001;401100;Wynagrodzenia techników;35.672,00
+1;2026;PC2001;401200;Nadgodziny techników;136,44
+1;2026;PC2001;402100;Materiały eksploatacyjne;7.248,95
+1;2026;PC2001;403100;Podwykonawcy – sprzątanie;83.396,29
+1;2026;PC2001;403200;Podwykonawcy – ochrona;38.856,89
+1;2026;PC2001;403300;Podwykonawcy – serwis HVAC;11.972,01
+1;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;6.538,29
+1;2026;PC2001;404100;Energia elektryczna;72.843,21
+1;2026;PC2001;404200;Media – woda i ciepło;34.737,20
+1;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+1;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+1;2026;PC2001;701500;Przychód – refaktura energii;72.843,21-
+1;2026;PC2002;401100;Wynagrodzenia techników;71.643,20
+1;2026;PC2002;401200;Nadgodziny techników;669,71
+1;2026;PC2002;402100;Materiały eksploatacyjne;11.559,53
+1;2026;PC2002;403100;Podwykonawcy – sprzątanie;153.116,83
+1;2026;PC2002;403200;Podwykonawcy – ochrona;73.655,82
+1;2026;PC2002;403300;Podwykonawcy – serwis HVAC;21.593,35
+1;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;12.571,10
+1;2026;PC2002;404100;Energia elektryczna;136.434,73
+1;2026;PC2002;404200;Media – woda i ciepło;65.516,10
+1;2026;PC2002;405100;Wynajem sprzętu;5.287,96
+1;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+1;2026;PC2002;701200;Przychód – refaktura kosztów;568.507,08-
+1;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;45.480,57-
+1;2026;PC2003;401100;Wynagrodzenia techników;102.265,60
+1;2026;PC2003;401200;Nadgodziny techników;2.782,41
+1;2026;PC2003;402100;Materiały eksploatacyjne;22.778,16
+1;2026;PC2003;403100;Podwykonawcy – sprzątanie;94.204,16
+1;2026;PC2003;403200;Podwykonawcy – ochrona;80.927,82
+1;2026;PC2003;403300;Podwykonawcy – serwis HVAC;21.805,64
+1;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;28.543,61
+1;2026;PC2003;404100;Energia elektryczna;161.289,61
+1;2026;PC2003;404200;Media – woda i ciepło;74.079,14
+1;2026;PC2003;405100;Wynajem sprzętu;11.719,67
+1;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+1;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+1;2026;PC2003;701500;Przychód – refaktura energii;161.289,61-
+1;2026;PC2004;401100;Wynagrodzenia techników;36.369,60
+1;2026;PC2004;401200;Nadgodziny techników;378,22
+1;2026;PC2004;402100;Materiały eksploatacyjne;4.336,56
+1;2026;PC2004;403100;Podwykonawcy – sprzątanie;61.680,66
+1;2026;PC2004;403200;Podwykonawcy – ochrona;29.726,97
+1;2026;PC2004;403300;Podwykonawcy – serwis HVAC;9.133,78
+1;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;4.950,05
+1;2026;PC2004;404100;Energia elektryczna;53.753,33
+1;2026;PC2004;404200;Media – woda i ciepło;26.669,60
+1;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+1;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+1;2026;PC2004;701500;Przychód – refaktura energii;53.753,33-
+1;2026;PC2005;401100;Wynagrodzenia techników;34.320,00
+1;2026;PC2005;401200;Nadgodziny techników;254,48
+1;2026;PC2005;402100;Materiały eksploatacyjne;4.182,33
+1;2026;PC2005;403100;Podwykonawcy – sprzątanie;122.238,61
+1;2026;PC2005;403200;Podwykonawcy – ochrona;37.407,02
+1;2026;PC2005;403300;Podwykonawcy – serwis HVAC;12.814,43
+1;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;3.321,71
+1;2026;PC2005;404100;Energia elektryczna;77.263,88
+1;2026;PC2005;404200;Media – woda i ciepło;42.712,71
+1;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+1;2026;PC2005;701200;Przychód – refaktura kosztów;338.904,17-
+1;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+1;2026;PC2006;401100;Wynagrodzenia techników;44.857,60
+1;2026;PC2006;401200;Nadgodziny techników;1.093,97
+1;2026;PC2006;402100;Materiały eksploatacyjne;14.430,42
+1;2026;PC2006;403100;Podwykonawcy – sprzątanie;154.556,76
+1;2026;PC2006;403200;Podwykonawcy – ochrona;85.517,49
+1;2026;PC2006;403300;Podwykonawcy – serwis HVAC;23.284,81
+1;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;10.275,16
+1;2026;PC2006;404100;Energia elektryczna;157.263,00
+1;2026;PC2006;404200;Media – woda i ciepło;64.213,99
+1;2026;PC2006;405100;Wynajem sprzętu;5.852,68
+1;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+1;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+1;2026;PC2006;701500;Przychód – refaktura energii;157.263,00-
+1;2026;PC2007;401100;Wynagrodzenia techników;36.393,60
+1;2026;PC2007;401200;Nadgodziny techników;438,43
+1;2026;PC2007;402100;Materiały eksploatacyjne;6.019,92
+1;2026;PC2007;403100;Podwykonawcy – sprzątanie;76.297,75
+1;2026;PC2007;403200;Podwykonawcy – ochrona;36.357,49
+1;2026;PC2007;403300;Podwykonawcy – serwis HVAC;11.153,87
+1;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;6.044,28
+1;2026;PC2007;404100;Energia elektryczna;66.008,86
+1;2026;PC2007;404200;Media – woda i ciepło;32.684,01
+1;2026;PC2007;405100;Wynajem sprzętu;4.466,13
+1;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+1;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+1;2026;PC2007;701500;Przychód – refaktura energii;66.008,86-
+1;2026;PC2008;401100;Wynagrodzenia techników;48.236,80
+1;2026;PC2008;401200;Nadgodziny techników;481,69
+1;2026;PC2008;402100;Materiały eksploatacyjne;12.207,84
+1;2026;PC2008;403100;Podwykonawcy – sprzątanie;62.295,24
+1;2026;PC2008;403200;Podwykonawcy – ochrona;46.556,60
+1;2026;PC2008;403300;Podwykonawcy – serwis HVAC;15.572,30
+1;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;11.368,09
+1;2026;PC2008;404100;Energia elektryczna;139.997,97
+1;2026;PC2008;404200;Media – woda i ciepło;54.996,94
+1;2026;PC2008;405100;Wynajem sprzętu;4.792,65
+1;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+1;2026;PC2008;701200;Przychód – refaktura kosztów;411.136,12-
+1;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;41.113,61-
+1;2026;PC2009;401100;Wynagrodzenia techników;73.473,60
+1;2026;PC2009;401200;Nadgodziny techników;904,31
+1;2026;PC2009;402100;Materiały eksploatacyjne;15.674,28
+1;2026;PC2009;403100;Podwykonawcy – sprzątanie;84.094,84
+1;2026;PC2009;403200;Podwykonawcy – ochrona;43.732,69
+1;2026;PC2009;403300;Podwykonawcy – serwis HVAC;12.266,51
+1;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;7.405,73
+1;2026;PC2009;404100;Energia elektryczna;80.361,88
+1;2026;PC2009;404200;Media – woda i ciepło;38.354,65
+1;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+1;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+1;2026;PC2009;701400;Przychód – prace dodatkowe;12.143,42-
+1;2026;PC2009;701500;Przychód – refaktura energii;80.361,88-
+2;2026;PC2001;401100;Wynagrodzenia techników;35.672,00
+2;2026;PC2001;401200;Nadgodziny techników;2.555,99
+2;2026;PC2001;402100;Materiały eksploatacyjne;20.687,85
+2;2026;PC2001;403100;Podwykonawcy – sprzątanie;80.151,53
+2;2026;PC2001;403200;Podwykonawcy – ochrona;40.510,62
+2;2026;PC2001;403300;Podwykonawcy – serwis HVAC;11.430,30
+2;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;6.687,97
+2;2026;PC2001;404100;Energia elektryczna;71.019,32
+2;2026;PC2001;404200;Media – woda i ciepło;33.161,57
+2;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+2;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+2;2026;PC2001;701400;Przychód – prace dodatkowe;17.141,31-
+2;2026;PC2001;701500;Przychód – refaktura energii;71.019,32-
+2;2026;PC2002;401100;Wynagrodzenia techników;71.643,20
+2;2026;PC2002;401200;Nadgodziny techników;1.636,54
+2;2026;PC2002;402100;Materiały eksploatacyjne;13.579,76
+2;2026;PC2002;403100;Podwykonawcy – sprzątanie;147.920,51
+2;2026;PC2002;403200;Podwykonawcy – ochrona;74.440,41
+2;2026;PC2002;403300;Podwykonawcy – serwis HVAC;21.813,93
+2;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;12.636,82
+2;2026;PC2002;404100;Energia elektryczna;129.397,49
+2;2026;PC2002;404200;Media – woda i ciepło;63.433,03
+2;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+2;2026;PC2002;701200;Przychód – refaktura kosztów;552.960,44-
+2;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;44.236,84-
+2;2026;PC2003;401100;Wynagrodzenia techników;102.265,60
+2;2026;PC2003;401200;Nadgodziny techników;5.945,04
+2;2026;PC2003;402100;Materiały eksploatacyjne;48.021,46
+2;2026;PC2003;403100;Podwykonawcy – sprzątanie;92.387,62
+2;2026;PC2003;403200;Podwykonawcy – ochrona;84.477,29
+2;2026;PC2003;403300;Podwykonawcy – serwis HVAC;22.359,41
+2;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;28.320,72
+2;2026;PC2003;404100;Energia elektryczna;153.893,86
+2;2026;PC2003;404200;Media – woda i ciepło;70.974,76
+2;2026;PC2003;405100;Wynajem sprzętu;12.109,00
+2;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+2;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+2;2026;PC2003;701400;Przychód – prace dodatkowe;24.595,20-
+2;2026;PC2003;701500;Przychód – refaktura energii;153.893,86-
+2;2026;PC2004;401100;Wynagrodzenia techników;36.369,60
+2;2026;PC2004;401200;Nadgodziny techników;2.142,27
+2;2026;PC2004;402100;Materiały eksploatacyjne;11.541,88
+2;2026;PC2004;403100;Podwykonawcy – sprzątanie;60.283,78
+2;2026;PC2004;403200;Podwykonawcy – ochrona;29.523,74
+2;2026;PC2004;403300;Podwykonawcy – serwis HVAC;9.049,73
+2;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;4.927,09
+2;2026;PC2004;404100;Energia elektryczna;52.048,60
+2;2026;PC2004;404200;Media – woda i ciepło;24.823,60
+2;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+2;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+2;2026;PC2004;701400;Przychód – prace dodatkowe;10.862,95-
+2;2026;PC2004;701500;Przychód – refaktura energii;52.048,60-
+2;2026;PC2005;401100;Wynagrodzenia techników;34.320,00
+2;2026;PC2005;401200;Nadgodziny techników;111,81
+2;2026;PC2005;402100;Materiały eksploatacyjne;2.835,48
+2;2026;PC2005;403100;Podwykonawcy – sprzątanie;117.122,22
+2;2026;PC2005;403200;Podwykonawcy – ochrona;37.522,51
+2;2026;PC2005;403300;Podwykonawcy – serwis HVAC;13.229,40
+2;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;3.420,46
+2;2026;PC2005;404100;Energia elektryczna;74.933,04
+2;2026;PC2005;404200;Media – woda i ciepło;41.754,36
+2;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+2;2026;PC2005;701200;Przychód – refaktura kosztów;329.638,28-
+2;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+2;2026;PC2006;401100;Wynagrodzenia techników;44.857,60
+2;2026;PC2006;401200;Nadgodziny techników;2.132,54
+2;2026;PC2006;402100;Materiały eksploatacyjne;10.791,61
+2;2026;PC2006;403100;Podwykonawcy – sprzątanie;147.488,15
+2;2026;PC2006;403200;Podwykonawcy – ochrona;82.184,01
+2;2026;PC2006;403300;Podwykonawcy – serwis HVAC;23.033,37
+2;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;9.930,31
+2;2026;PC2006;404100;Energia elektryczna;150.486,17
+2;2026;PC2006;404200;Media – woda i ciepło;60.666,85
+2;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+2;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+2;2026;PC2006;701500;Przychód – refaktura energii;150.486,17-
+2;2026;PC2007;401100;Wynagrodzenia techników;36.393,60
+2;2026;PC2007;401200;Nadgodziny techników;125,27
+2;2026;PC2007;402100;Materiały eksploatacyjne;5.985,72
+2;2026;PC2007;403100;Podwykonawcy – sprzątanie;74.258,53
+2;2026;PC2007;403200;Podwykonawcy – ochrona;35.929,99
+2;2026;PC2007;403300;Podwykonawcy – serwis HVAC;10.921,39
+2;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;6.112,11
+2;2026;PC2007;404100;Energia elektryczna;65.348,77
+2;2026;PC2007;404200;Media – woda i ciepło;31.082,39
+2;2026;PC2007;405100;Wynajem sprzętu;5.406,52
+2;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+2;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+2;2026;PC2007;701500;Przychód – refaktura energii;65.348,77-
+2;2026;PC2008;401100;Wynagrodzenia techników;48.236,80
+2;2026;PC2008;401200;Nadgodziny techników;3.744,71
+2;2026;PC2008;402100;Materiały eksploatacyjne;27.751,90
+2;2026;PC2008;403100;Podwykonawcy – sprzątanie;63.379,46
+2;2026;PC2008;403200;Podwykonawcy – ochrona;44.523,71
+2;2026;PC2008;403300;Podwykonawcy – serwis HVAC;15.782,72
+2;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;11.020,00
+2;2026;PC2008;404100;Energia elektryczna;132.449,72
+2;2026;PC2008;404200;Media – woda i ciepło;50.098,66
+2;2026;PC2008;405100;Wynajem sprzętu;4.606,59
+2;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+2;2026;PC2008;701200;Przychód – refaktura kosztów;416.224,27-
+2;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;41.622,43-
+2;2026;PC2009;401100;Wynagrodzenia techników;73.473,60
+2;2026;PC2009;401200;Nadgodziny techników;3.121,86
+2;2026;PC2009;402100;Materiały eksploatacyjne;14.519,24
+2;2026;PC2009;403100;Podwykonawcy – sprzątanie;87.604,76
+2;2026;PC2009;403200;Podwykonawcy – ochrona;43.704,49
+2;2026;PC2009;403300;Podwykonawcy – serwis HVAC;12.608,96
+2;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;7.383,78
+2;2026;PC2009;404100;Energia elektryczna;76.545,55
+2;2026;PC2009;404200;Media – woda i ciepło;37.200,58
+2;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+2;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+2;2026;PC2009;701400;Przychód – prace dodatkowe;11.258,03-
+2;2026;PC2009;701500;Przychód – refaktura energii;76.545,55-
+3;2026;PC2001;401100;Wynagrodzenia techników;39.239,20
+3;2026;PC2001;401200;Nadgodziny techników;5.025,82
+3;2026;PC2001;402100;Materiały eksploatacyjne;15.535,29
+3;2026;PC2001;403100;Podwykonawcy – sprzątanie;82.774,54
+3;2026;PC2001;403200;Podwykonawcy – ochrona;41.636,09
+3;2026;PC2001;403300;Podwykonawcy – serwis HVAC;12.278,94
+3;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;3.905,27
+3;2026;PC2001;404100;Energia elektryczna;61.882,10
+3;2026;PC2001;404200;Media – woda i ciepło;27.686,90
+3;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+3;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+3;2026;PC2001;701400;Przychód – prace dodatkowe;15.763,44-
+3;2026;PC2001;701500;Przychód – refaktura energii;61.882,10-
+3;2026;PC2002;401100;Wynagrodzenia techników;78.807,52
+3;2026;PC2002;401200;Nadgodziny techników;3.311,69
+3;2026;PC2002;402100;Materiały eksploatacyjne;21.075,76
+3;2026;PC2002;403100;Podwykonawcy – sprzątanie;154.135,75
+3;2026;PC2002;403200;Podwykonawcy – ochrona;75.984,58
+3;2026;PC2002;403300;Podwykonawcy – serwis HVAC;23.315,78
+3;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;6.954,41
+3;2026;PC2002;404100;Energia elektryczna;118.202,23
+3;2026;PC2002;404200;Media – woda i ciepło;51.715,67
+3;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+3;2026;PC2002;701200;Przychód – refaktura kosztów;549.962,14-
+3;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;43.996,97-
+3;2026;PC2003;401100;Wynagrodzenia techników;112.492,16
+3;2026;PC2003;401200;Nadgodziny techników;3.721,74
+3;2026;PC2003;402100;Materiały eksploatacyjne;48.257,53
+3;2026;PC2003;403100;Podwykonawcy – sprzątanie;93.263,58
+3;2026;PC2003;403200;Podwykonawcy – ochrona;82.733,49
+3;2026;PC2003;403300;Podwykonawcy – serwis HVAC;22.919,54
+3;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;15.558,85
+3;2026;PC2003;404100;Energia elektryczna;139.094,64
+3;2026;PC2003;404200;Media – woda i ciepło;57.551,64
+3;2026;PC2003;405100;Wynajem sprzętu;12.195,85
+3;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+3;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+3;2026;PC2003;701400;Przychód – prace dodatkowe;24.956,00-
+3;2026;PC2003;701500;Przychód – refaktura energii;139.094,64-
+3;2026;PC2004;401100;Wynagrodzenia techników;40.006,56
+3;2026;PC2004;402100;Materiały eksploatacyjne;5.272,07
+3;2026;PC2004;403100;Podwykonawcy – sprzątanie;61.428,55
+3;2026;PC2004;403200;Podwykonawcy – ochrona;30.831,77
+3;2026;PC2004;403300;Podwykonawcy – serwis HVAC;9.657,58
+3;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;2.943,49
+3;2026;PC2004;404100;Energia elektryczna;48.620,59
+3;2026;PC2004;404200;Media – woda i ciepło;19.949,17
+3;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+3;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+3;2026;PC2004;701500;Przychód – refaktura energii;48.620,59-
+3;2026;PC2005;401100;Wynagrodzenia techników;37.752,00
+3;2026;PC2005;401200;Nadgodziny techników;480,68
+3;2026;PC2005;402100;Materiały eksploatacyjne;3.441,79
+3;2026;PC2005;403100;Podwykonawcy – sprzątanie;117.047,57
+3;2026;PC2005;403200;Podwykonawcy – ochrona;38.873,79
+3;2026;PC2005;403300;Podwykonawcy – serwis HVAC;13.083,23
+3;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;1.948,15
+3;2026;PC2005;404100;Energia elektryczna;69.551,32
+3;2026;PC2005;404200;Media – woda i ciepło;32.329,07
+3;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+3;2026;PC2005;701200;Przychód – refaktura kosztów;318.896,60-
+3;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+3;2026;PC2006;401100;Wynagrodzenia techników;49.343,36
+3;2026;PC2006;401200;Nadgodziny techników;1.039,75
+3;2026;PC2006;402100;Materiały eksploatacyjne;10.555,21
+3;2026;PC2006;403100;Podwykonawcy – sprzątanie;145.686,43
+3;2026;PC2006;403200;Podwykonawcy – ochrona;79.923,30
+3;2026;PC2006;403300;Podwykonawcy – serwis HVAC;23.237,74
+3;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;5.640,17
+3;2026;PC2006;404100;Energia elektryczna;132.327,84
+3;2026;PC2006;404200;Media – woda i ciepło;48.740,53
+3;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+3;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+3;2026;PC2006;701500;Przychód – refaktura energii;132.327,84-
+3;2026;PC2007;401100;Wynagrodzenia techników;40.032,96
+3;2026;PC2007;401200;Nadgodziny techników;2.932,01
+3;2026;PC2007;402100;Materiały eksploatacyjne;10.559,59
+3;2026;PC2007;403100;Podwykonawcy – sprzątanie;76.556,53
+3;2026;PC2007;403200;Podwykonawcy – ochrona;37.989,65
+3;2026;PC2007;403300;Podwykonawcy – serwis HVAC;11.568,18
+3;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;3.586,40
+3;2026;PC2007;404100;Energia elektryczna;56.910,53
+3;2026;PC2007;404200;Media – woda i ciepło;23.973,67
+3;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+3;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+3;2026;PC2007;701400;Przychód – prace dodatkowe;5.411,59-
+3;2026;PC2007;701500;Przychód – refaktura energii;56.910,53-
+3;2026;PC2008;401100;Wynagrodzenia techników;53.060,48
+3;2026;PC2008;401200;Nadgodziny techników;421,59
+3;2026;PC2008;402100;Materiały eksploatacyjne;10.197,59
+3;2026;PC2008;403100;Podwykonawcy – sprzątanie;61.309,55
+3;2026;PC2008;403200;Podwykonawcy – ochrona;45.151,47
+3;2026;PC2008;403300;Podwykonawcy – serwis HVAC;16.524,96
+3;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;6.243,20
+3;2026;PC2008;404100;Energia elektryczna;117.738,42
+3;2026;PC2008;404200;Media – woda i ciepło;39.447,69
+3;2026;PC2008;405100;Wynajem sprzętu;4.693,99
+3;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+3;2026;PC2008;701200;Przychód – refaktura kosztów;369.418,94-
+3;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;36.941,89-
+3;2026;PC2009;401100;Wynagrodzenia techników;80.820,96
+3;2026;PC2009;401200;Nadgodziny techników;2.265,56
+3;2026;PC2009;402100;Materiały eksploatacyjne;14.659,86
+3;2026;PC2009;403100;Podwykonawcy – sprzątanie;85.486,07
+3;2026;PC2009;403200;Podwykonawcy – ochrona;41.433,20
+3;2026;PC2009;403300;Podwykonawcy – serwis HVAC;13.440,52
+3;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.178,71
+3;2026;PC2009;404100;Energia elektryczna;70.050,70
+3;2026;PC2009;404200;Media – woda i ciepło;28.572,91
+3;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+3;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+3;2026;PC2009;701400;Przychód – prace dodatkowe;11.774,85-
+3;2026;PC2009;701500;Przychód – refaktura energii;70.050,70-
+4;2026;PC2001;401100;Wynagrodzenia techników;37.455,60
+4;2026;PC2001;401200;Nadgodziny techników;54,97
+4;2026;PC2001;402100;Materiały eksploatacyjne;11.638,16
+4;2026;PC2001;403100;Podwykonawcy – sprzątanie;82.739,79
+4;2026;PC2001;403200;Podwykonawcy – ochrona;41.654,85
+4;2026;PC2001;403300;Podwykonawcy – serwis HVAC;13.892,27
+4;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;4.463,33
+4;2026;PC2001;404100;Energia elektryczna;59.749,77
+4;2026;PC2001;404200;Media – woda i ciepło;20.931,13
+4;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+4;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+4;2026;PC2001;701500;Przychód – refaktura energii;59.749,77-
+4;2026;PC2002;401100;Wynagrodzenia techników;75.225,36
+4;2026;PC2002;401200;Nadgodziny techników;1.891,16
+4;2026;PC2002;402100;Materiały eksploatacyjne;30.079,62
+4;2026;PC2002;403100;Podwykonawcy – sprzątanie;148.230,25
+4;2026;PC2002;403200;Podwykonawcy – ochrona;76.962,08
+4;2026;PC2002;403300;Podwykonawcy – serwis HVAC;25.457,71
+4;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;8.576,04
+4;2026;PC2002;404100;Energia elektryczna;94.150,20
+4;2026;PC2002;404200;Media – woda i ciepło;38.918,28
+4;2026;PC2002;405100;Wynajem sprzętu;4.892,72
+4;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+4;2026;PC2002;701200;Przychód – refaktura kosztów;520.842,17-
+4;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;41.667,37-
+4;2026;PC2003;401100;Wynagrodzenia techników;107.378,88
+4;2026;PC2003;401200;Nadgodziny techników;3.855,22
+4;2026;PC2003;402100;Materiały eksploatacyjne;30.453,08
+4;2026;PC2003;403100;Podwykonawcy – sprzątanie;95.035,11
+4;2026;PC2003;403200;Podwykonawcy – ochrona;81.840,44
+4;2026;PC2003;403300;Podwykonawcy – serwis HVAC;25.949,81
+4;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;19.091,76
+4;2026;PC2003;404100;Energia elektryczna;127.260,14
+4;2026;PC2003;404200;Media – woda i ciepło;42.153,74
+4;2026;PC2003;405100;Wynajem sprzętu;12.360,55
+4;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+4;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+4;2026;PC2003;701500;Przychód – refaktura energii;127.260,14-
+4;2026;PC2004;401100;Wynagrodzenia techników;38.188,08
+4;2026;PC2004;402100;Materiały eksploatacyjne;4.714,12
+4;2026;PC2004;403100;Podwykonawcy – sprzątanie;61.843,25
+4;2026;PC2004;403200;Podwykonawcy – ochrona;31.320,66
+4;2026;PC2004;403300;Podwykonawcy – serwis HVAC;10.579,49
+4;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;3.314,50
+4;2026;PC2004;404100;Energia elektryczna;44.470,45
+4;2026;PC2004;404200;Media – woda i ciepło;15.236,06
+4;2026;PC2004;405100;Wynajem sprzętu;5.040,73
+4;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+4;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+4;2026;PC2004;701500;Przychód – refaktura energii;44.470,45-
+4;2026;PC2005;401100;Wynagrodzenia techników;36.036,00
+4;2026;PC2005;401200;Nadgodziny techników;232,86
+4;2026;PC2005;402100;Materiały eksploatacyjne;2.519,24
+4;2026;PC2005;403100;Podwykonawcy – sprzątanie;119.341,42
+4;2026;PC2005;403200;Podwykonawcy – ochrona;36.921,49
+4;2026;PC2005;403300;Podwykonawcy – serwis HVAC;15.281,30
+4;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;2.285,36
+4;2026;PC2005;404100;Energia elektryczna;61.768,26
+4;2026;PC2005;404200;Media – woda i ciepło;24.657,42
+4;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+4;2026;PC2005;701200;Przychód – refaktura kosztów;303.432,35-
+4;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+4;2026;PC2006;401100;Wynagrodzenia techników;47.100,48
+4;2026;PC2006;401200;Nadgodziny techników;1.285,54
+4;2026;PC2006;402100;Materiały eksploatacyjne;11.237,18
+4;2026;PC2006;403100;Podwykonawcy – sprzątanie;154.118,84
+4;2026;PC2006;403200;Podwykonawcy – ochrona;84.952,85
+4;2026;PC2006;403300;Podwykonawcy – serwis HVAC;27.112,47
+4;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;6.776,50
+4;2026;PC2006;404100;Energia elektryczna;120.960,89
+4;2026;PC2006;404200;Media – woda i ciepło;37.824,78
+4;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+4;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+4;2026;PC2006;701500;Przychód – refaktura energii;120.960,89-
+4;2026;PC2007;401100;Wynagrodzenia techników;38.213,28
+4;2026;PC2007;401200;Nadgodziny techników;532,38
+4;2026;PC2007;402100;Materiały eksploatacyjne;5.901,55
+4;2026;PC2007;403100;Podwykonawcy – sprzątanie;72.948,23
+4;2026;PC2007;403200;Podwykonawcy – ochrona;37.380,29
+4;2026;PC2007;403300;Podwykonawcy – serwis HVAC;12.325,97
+4;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;4.045,65
+4;2026;PC2007;404100;Energia elektryczna;52.171,86
+4;2026;PC2007;404200;Media – woda i ciepło;19.126,59
+4;2026;PC2007;405100;Wynajem sprzętu;4.914,94
+4;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+4;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+4;2026;PC2007;701500;Przychód – refaktura energii;52.171,86-
+4;2026;PC2008;401100;Wynagrodzenia techników;50.648,64
+4;2026;PC2008;401200;Nadgodziny techników;335,24
+4;2026;PC2008;402100;Materiały eksploatacyjne;15.165,86
+4;2026;PC2008;403100;Podwykonawcy – sprzątanie;63.406,22
+4;2026;PC2008;403200;Podwykonawcy – ochrona;45.123,50
+4;2026;PC2008;403300;Podwykonawcy – serwis HVAC;18.786,63
+4;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;7.527,59
+4;2026;PC2008;404100;Energia elektryczna;111.182,46
+4;2026;PC2008;404200;Media – woda i ciepło;30.421,35
+4;2026;PC2008;405100;Wynajem sprzętu;5.024,41
+4;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+4;2026;PC2008;701200;Przychód – refaktura kosztów;362.251,90-
+4;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;36.225,19-
+4;2026;PC2009;401100;Wynagrodzenia techników;77.147,28
+4;2026;PC2009;402100;Materiały eksploatacyjne;6.203,59
+4;2026;PC2009;403100;Podwykonawcy – sprzątanie;86.988,29
+4;2026;PC2009;403200;Podwykonawcy – ochrona;43.635,93
+4;2026;PC2009;403300;Podwykonawcy – serwis HVAC;15.376,64
+4;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.747,69
+4;2026;PC2009;404100;Energia elektryczna;63.317,40
+4;2026;PC2009;404200;Media – woda i ciepło;22.302,05
+4;2026;PC2009;405100;Wynajem sprzętu;3.703,25
+4;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+4;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+4;2026;PC2009;701500;Przychód – refaktura energii;63.317,40-
+5;2026;PC2001;401100;Wynagrodzenia techników;35.672,00
+5;2026;PC2001;401200;Nadgodziny techników;191,02
+5;2026;PC2001;402100;Materiały eksploatacyjne;5.252,30
+5;2026;PC2001;403100;Podwykonawcy – sprzątanie;82.254,38
+5;2026;PC2001;403200;Podwykonawcy – ochrona;41.245,09
+5;2026;PC2001;403300;Podwykonawcy – serwis HVAC;14.742,30
+5;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;4.559,99
+5;2026;PC2001;404100;Energia elektryczna;57.625,85
+5;2026;PC2001;404200;Media – woda i ciepło;15.211,62
+5;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+5;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+5;2026;PC2001;701500;Przychód – refaktura energii;57.625,85-
+5;2026;PC2002;401100;Wynagrodzenia techników;71.643,20
+5;2026;PC2002;401200;Nadgodziny techników;753,99
+5;2026;PC2002;402100;Materiały eksploatacyjne;12.188,42
+5;2026;PC2002;403100;Podwykonawcy – sprzątanie;155.103,85
+5;2026;PC2002;403200;Podwykonawcy – ochrona;74.184,81
+5;2026;PC2002;403300;Podwykonawcy – serwis HVAC;26.743,99
+5;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;8.264,56
+5;2026;PC2002;404100;Energia elektryczna;92.656,87
+5;2026;PC2002;404200;Media – woda i ciepło;28.414,39
+5;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+5;2026;PC2002;701200;Przychód – refaktura kosztów;486.412,83-
+5;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;38.913,03-
+5;2026;PC2003;401100;Wynagrodzenia techników;102.265,60
+5;2026;PC2003;401200;Nadgodziny techników;8.559,03
+5;2026;PC2003;402100;Materiały eksploatacyjne;42.108,48
+5;2026;PC2003;403100;Podwykonawcy – sprzątanie;96.796,21
+5;2026;PC2003;403200;Podwykonawcy – ochrona;82.548,21
+5;2026;PC2003;403300;Podwykonawcy – serwis HVAC;27.284,34
+5;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;18.690,46
+5;2026;PC2003;404100;Energia elektryczna;125.774,22
+5;2026;PC2003;404200;Media – woda i ciepło;33.260,91
+5;2026;PC2003;405100;Wynajem sprzętu;12.013,86
+5;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+5;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+5;2026;PC2003;701400;Przychód – prace dodatkowe;26.455,66-
+5;2026;PC2003;701500;Przychód – refaktura energii;125.774,22-
+5;2026;PC2004;401100;Wynagrodzenia techników;36.369,60
+5;2026;PC2004;401200;Nadgodziny techników;261,34
+5;2026;PC2004;402100;Materiały eksploatacyjne;5.302,39
+5;2026;PC2004;403100;Podwykonawcy – sprzątanie;54.321,44
+5;2026;PC2004;403200;Podwykonawcy – ochrona;29.575,79
+5;2026;PC2004;403300;Podwykonawcy – serwis HVAC;10.580,87
+5;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;3.269,17
+5;2026;PC2004;404100;Energia elektryczna;43.943,08
+5;2026;PC2004;404200;Media – woda i ciepło;12.252,10
+5;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+5;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+5;2026;PC2004;701500;Przychód – refaktura energii;43.943,08-
+5;2026;PC2005;401100;Wynagrodzenia techników;34.320,00
+5;2026;PC2005;401200;Nadgodziny techników;1.452,60
+5;2026;PC2005;402100;Materiały eksploatacyjne;16.946,07
+5;2026;PC2005;403100;Podwykonawcy – sprzątanie;115.380,31
+5;2026;PC2005;403200;Podwykonawcy – ochrona;37.857,71
+5;2026;PC2005;403300;Podwykonawcy – serwis HVAC;15.699,00
+5;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;2.334,13
+5;2026;PC2005;404100;Energia elektryczna;63.366,15
+5;2026;PC2005;404200;Media – woda i ciepło;19.986,23
+5;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+5;2026;PC2005;701200;Przychód – refaktura kosztów;311.731,20-
+5;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+5;2026;PC2006;401100;Wynagrodzenia techników;44.857,60
+5;2026;PC2006;401200;Nadgodziny techników;1.299,70
+5;2026;PC2006;402100;Materiały eksploatacyjne;21.695,24
+5;2026;PC2006;403100;Podwykonawcy – sprzątanie;170.472,80
+5;2026;PC2006;403200;Podwykonawcy – ochrona;104.357,22
+5;2026;PC2006;403300;Podwykonawcy – serwis HVAC;26.785,87
+5;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;6.627,09
+5;2026;PC2006;404100;Energia elektryczna;120.846,04
+5;2026;PC2006;404200;Media – woda i ciepło;29.274,14
+5;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+5;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+5;2026;PC2006;701500;Przychód – refaktura energii;120.846,04-
+5;2026;PC2007;401100;Wynagrodzenia techników;36.393,60
+5;2026;PC2007;401200;Nadgodziny techników;3.726,63
+5;2026;PC2007;402100;Materiały eksploatacyjne;13.934,22
+5;2026;PC2007;403100;Podwykonawcy – sprzątanie;76.605,10
+5;2026;PC2007;403200;Podwykonawcy – ochrona;35.824,86
+5;2026;PC2007;403300;Podwykonawcy – serwis HVAC;12.937,66
+5;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;4.230,47
+5;2026;PC2007;404100;Energia elektryczna;52.225,78
+5;2026;PC2007;404200;Media – woda i ciepło;14.291,97
+5;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+5;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+5;2026;PC2007;701400;Przychód – prace dodatkowe;12.348,19-
+5;2026;PC2007;701500;Przychód – refaktura energii;52.225,78-
+5;2026;PC2008;401100;Wynagrodzenia techników;48.236,80
+5;2026;PC2008;401200;Nadgodziny techników;344,40
+5;2026;PC2008;402100;Materiały eksploatacyjne;11.319,89
+5;2026;PC2008;403100;Podwykonawcy – sprzątanie;61.895,01
+5;2026;PC2008;403200;Podwykonawcy – ochrona;45.613,96
+5;2026;PC2008;403300;Podwykonawcy – serwis HVAC;19.488,94
+5;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;7.342,87
+5;2026;PC2008;404100;Energia elektryczna;105.230,70
+5;2026;PC2008;404200;Media – woda i ciepło;22.634,70
+5;2026;PC2008;405100;Wynajem sprzętu;4.829,85
+5;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+5;2026;PC2008;701200;Przychód – refaktura kosztów;341.567,12-
+5;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;34.156,71-
+5;2026;PC2009;401100;Wynagrodzenia techników;73.473,60
+5;2026;PC2009;401200;Nadgodziny techników;83,62
+5;2026;PC2009;402100;Materiały eksploatacyjne;6.447,22
+5;2026;PC2009;403100;Podwykonawcy – sprzątanie;87.420,60
+5;2026;PC2009;403200;Podwykonawcy – ochrona;42.840,91
+5;2026;PC2009;403300;Podwykonawcy – serwis HVAC;15.576,67
+5;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.828,36
+5;2026;PC2009;404100;Energia elektryczna;62.705,27
+5;2026;PC2009;404200;Media – woda i ciepło;16.550,64
+5;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+5;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+5;2026;PC2009;701500;Przychód – refaktura energii;62.705,27-
+6;2026;PC2001;401100;Wynagrodzenia techników;37.455,60
+6;2026;PC2001;401200;Nadgodziny techników;682,22
+6;2026;PC2001;402100;Materiały eksploatacyjne;6.029,47
+6;2026;PC2001;403100;Podwykonawcy – sprzątanie;81.236,86
+6;2026;PC2001;403200;Podwykonawcy – ochrona;39.855,59
+6;2026;PC2001;403300;Podwykonawcy – serwis HVAC;17.736,04
+6;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;4.581,13
+6;2026;PC2001;404100;Energia elektryczna;62.533,94
+6;2026;PC2001;404200;Media – woda i ciepło;13.133,71
+6;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+6;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+6;2026;PC2001;701500;Przychód – refaktura energii;62.533,94-
+6;2026;PC2002;401100;Wynagrodzenia techników;75.225,36
+6;2026;PC2002;401200;Nadgodziny techników;539,93
+6;2026;PC2002;402100;Materiały eksploatacyjne;21.986,89
+6;2026;PC2002;403100;Podwykonawcy – sprzątanie;152.054,90
+6;2026;PC2002;403200;Podwykonawcy – ochrona;74.537,77
+6;2026;PC2002;403300;Podwykonawcy – serwis HVAC;32.747,98
+6;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;8.425,10
+6;2026;PC2002;404100;Energia elektryczna;102.745,67
+6;2026;PC2002;404200;Media – woda i ciepło;25.194,86
+6;2026;PC2002;405100;Wynajem sprzętu;5.544,20
+6;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+6;2026;PC2002;701200;Przychód – refaktura kosztów;515.461,41-
+6;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;41.236,91-
+6;2026;PC2003;401100;Wynagrodzenia techników;107.378,88
+6;2026;PC2003;401200;Nadgodziny techników;14.708,48
+6;2026;PC2003;402100;Materiały eksploatacyjne;49.307,30
+6;2026;PC2003;403100;Podwykonawcy – sprzątanie;93.770,27
+6;2026;PC2003;403200;Podwykonawcy – ochrona;83.122,12
+6;2026;PC2003;403300;Podwykonawcy – serwis HVAC;78.435,74
+6;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;18.959,80
+6;2026;PC2003;404100;Energia elektryczna;136.104,39
+6;2026;PC2003;404200;Media – woda i ciepło;27.996,02
+6;2026;PC2003;405100;Wynajem sprzętu;85.436,31
+6;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+6;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+6;2026;PC2003;701400;Przychód – prace dodatkowe;22.607,84-
+6;2026;PC2003;701500;Przychód – refaktura energii;136.104,39-
+6;2026;PC2004;401100;Wynagrodzenia techników;38.188,08
+6;2026;PC2004;401200;Nadgodziny techników;1.812,69
+6;2026;PC2004;402100;Materiały eksploatacyjne;22.722,81
+6;2026;PC2004;403100;Podwykonawcy – sprzątanie;60.913,72
+6;2026;PC2004;403200;Podwykonawcy – ochrona;30.215,71
+6;2026;PC2004;403300;Podwykonawcy – serwis HVAC;13.028,31
+6;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;3.285,11
+6;2026;PC2004;404100;Energia elektryczna;45.967,63
+6;2026;PC2004;404200;Media – woda i ciepło;9.792,48
+6;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+6;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+6;2026;PC2004;701400;Przychód – prace dodatkowe;20.894,68-
+6;2026;PC2004;701500;Przychód – refaktura energii;45.967,63-
+6;2026;PC2005;401100;Wynagrodzenia techników;36.036,00
+6;2026;PC2005;402100;Materiały eksploatacyjne;5.089,11
+6;2026;PC2005;403100;Podwykonawcy – sprzątanie;124.112,13
+6;2026;PC2005;403200;Podwykonawcy – ochrona;37.709,71
+6;2026;PC2005;403300;Podwykonawcy – serwis HVAC;19.165,25
+6;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;2.214,76
+6;2026;PC2005;404100;Energia elektryczna;67.256,67
+6;2026;PC2005;404200;Media – woda i ciepło;16.328,16
+6;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+6;2026;PC2005;701200;Przychód – refaktura kosztów;312.300,79-
+6;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+6;2026;PC2006;401100;Wynagrodzenia techników;47.100,48
+6;2026;PC2006;401200;Nadgodziny techników;2.408,50
+6;2026;PC2006;402100;Materiały eksploatacyjne;40.298,53
+6;2026;PC2006;403100;Podwykonawcy – sprzątanie;161.245,53
+6;2026;PC2006;403200;Podwykonawcy – ochrona;103.365,05
+6;2026;PC2006;403300;Podwykonawcy – serwis HVAC;45.251,26
+6;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;6.825,13
+6;2026;PC2006;404100;Energia elektryczna;132.593,70
+6;2026;PC2006;404200;Media – woda i ciepło;25.172,18
+6;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+6;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+6;2026;PC2006;701500;Przychód – refaktura energii;132.593,70-
+6;2026;PC2007;401100;Wynagrodzenia techników;38.213,28
+6;2026;PC2007;401200;Nadgodziny techników;1.626,26
+6;2026;PC2007;402100;Materiały eksploatacyjne;9.161,10
+6;2026;PC2007;403100;Podwykonawcy – sprzątanie;73.519,22
+6;2026;PC2007;403200;Podwykonawcy – ochrona;38.116,01
+6;2026;PC2007;403300;Podwykonawcy – serwis HVAC;16.104,28
+6;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;4.153,50
+6;2026;PC2007;404100;Energia elektryczna;57.084,34
+6;2026;PC2007;404200;Media – woda i ciepło;12.526,50
+6;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+6;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+6;2026;PC2007;701400;Przychód – prace dodatkowe;6.606,41-
+6;2026;PC2007;701500;Przychód – refaktura energii;57.084,34-
+6;2026;PC2008;401100;Wynagrodzenia techników;50.648,64
+6;2026;PC2008;401200;Nadgodziny techników;515,76
+6;2026;PC2008;402100;Materiały eksploatacyjne;15.624,77
+6;2026;PC2008;403100;Podwykonawcy – sprzątanie;62.741,66
+6;2026;PC2008;403200;Podwykonawcy – ochrona;45.133,79
+6;2026;PC2008;403300;Podwykonawcy – serwis HVAC;24.026,65
+6;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;7.376,02
+6;2026;PC2008;404100;Energia elektryczna;114.251,31
+6;2026;PC2008;404200;Media – woda i ciepło;20.502,86
+6;2026;PC2008;405100;Wynajem sprzętu;4.650,94
+6;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+6;2026;PC2008;701200;Przychód – refaktura kosztów;360.102,40-
+6;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;36.010,24-
+6;2026;PC2009;401100;Wynagrodzenia techników;77.147,28
+6;2026;PC2009;402100;Materiały eksploatacyjne;7.575,42
+6;2026;PC2009;403100;Podwykonawcy – sprzątanie;88.907,69
+6;2026;PC2009;403200;Podwykonawcy – ochrona;44.463,34
+6;2026;PC2009;403300;Podwykonawcy – serwis HVAC;18.983,59
+6;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.857,04
+6;2026;PC2009;404100;Energia elektryczna;67.806,82
+6;2026;PC2009;404200;Media – woda i ciepło;14.778,65
+6;2026;PC2009;405100;Wynajem sprzętu;1.717,03
+6;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+6;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+6;2026;PC2009;701500;Przychód – refaktura energii;67.806,82-
+7;2026;PC2001;401100;Wynagrodzenia techników;43.072,56
+7;2026;PC2001;401200;Nadgodziny techników;1.479,47
+7;2026;PC2001;402100;Materiały eksploatacyjne;13.798,38
+7;2026;PC2001;403100;Podwykonawcy – sprzątanie;81.069,74
+7;2026;PC2001;403200;Podwykonawcy – ochrona;41.567,59
+7;2026;PC2001;403300;Podwykonawcy – serwis HVAC;17.848,19
+7;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;4.577,80
+7;2026;PC2001;404100;Energia elektryczna;65.197,72
+7;2026;PC2001;404200;Media – woda i ciepło;13.587,89
+7;2026;PC2001;405100;Wynajem sprzętu;1.579,76
+7;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+7;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+7;2026;PC2001;701400;Przychód – prace dodatkowe;7.547,28-
+7;2026;PC2001;701500;Przychód – refaktura energii;65.197,72-
+7;2026;PC2002;401100;Wynagrodzenia techników;86.511,28
+7;2026;PC2002;401200;Nadgodziny techników;7.296,52
+7;2026;PC2002;402100;Materiały eksploatacyjne;27.070,22
+7;2026;PC2002;403100;Podwykonawcy – sprzątanie;150.478,66
+7;2026;PC2002;403200;Podwykonawcy – ochrona;74.699,13
+7;2026;PC2002;403300;Podwykonawcy – serwis HVAC;33.549,10
+7;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;8.314,70
+7;2026;PC2002;404100;Energia elektryczna;109.752,71
+7;2026;PC2002;404200;Media – woda i ciepło;24.750,61
+7;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+7;2026;PC2002;701200;Przychód – refaktura kosztów;538.881,68-
+7;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;43.110,53-
+7;2026;PC2003;401100;Wynagrodzenia techników;123.487,92
+7;2026;PC2003;401200;Nadgodziny techników;7.433,05
+7;2026;PC2003;402100;Materiały eksploatacyjne;36.748,91
+7;2026;PC2003;403100;Podwykonawcy – sprzątanie;94.234,46
+7;2026;PC2003;403200;Podwykonawcy – ochrona;86.160,72
+7;2026;PC2003;403300;Podwykonawcy – serwis HVAC;80.265,73
+7;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;18.884,05
+7;2026;PC2003;404100;Energia elektryczna;146.252,60
+7;2026;PC2003;404200;Media – woda i ciepło;28.643,60
+7;2026;PC2003;405100;Wynajem sprzętu;88.147,95
+7;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+7;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+7;2026;PC2003;701500;Przychód – refaktura energii;146.252,60-
+7;2026;PC2004;401100;Wynagrodzenia techników;43.915,28
+7;2026;PC2004;402100;Materiały eksploatacyjne;6.951,04
+7;2026;PC2004;403100;Podwykonawcy – sprzątanie;59.016,57
+7;2026;PC2004;403200;Podwykonawcy – ochrona;31.310,91
+7;2026;PC2004;403300;Podwykonawcy – serwis HVAC;13.137,42
+7;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;3.446,54
+7;2026;PC2004;404100;Energia elektryczna;49.754,65
+7;2026;PC2004;404200;Media – woda i ciepło;9.985,85
+7;2026;PC2004;405100;Wynajem sprzętu;2.540,68
+7;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+7;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+7;2026;PC2004;701500;Przychód – refaktura energii;49.754,65-
+7;2026;PC2005;401100;Wynagrodzenia techników;41.442,32
+7;2026;PC2005;401200;Nadgodziny techników;176,11
+7;2026;PC2005;402100;Materiały eksploatacyjne;4.894,84
+7;2026;PC2005;403100;Podwykonawcy – sprzątanie;115.807,11
+7;2026;PC2005;403200;Podwykonawcy – ochrona;36.905,56
+7;2026;PC2005;403300;Podwykonawcy – serwis HVAC;19.317,04
+7;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;2.222,89
+7;2026;PC2005;404100;Energia elektryczna;72.430,05
+7;2026;PC2005;404200;Media – woda i ciepło;16.115,17
+7;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+7;2026;PC2005;701200;Przychód – refaktura kosztów;313.700,09-
+7;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+7;2026;PC2006;401100;Wynagrodzenia techników;54.165,92
+7;2026;PC2006;401200;Nadgodziny techników;6.449,06
+7;2026;PC2006;402100;Materiały eksploatacyjne;43.863,62
+7;2026;PC2006;403100;Podwykonawcy – sprzątanie;167.811,40
+7;2026;PC2006;403200;Podwykonawcy – ochrona;101.528,45
+7;2026;PC2006;403300;Podwykonawcy – serwis HVAC;45.415,09
+7;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;6.960,40
+7;2026;PC2006;404100;Energia elektryczna;141.543,54
+7;2026;PC2006;404200;Media – woda i ciepło;24.495,17
+7;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+7;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+7;2026;PC2006;701500;Przychód – refaktura energii;141.543,54-
+7;2026;PC2007;401100;Wynagrodzenia techników;43.944,72
+7;2026;PC2007;401200;Nadgodziny techników;328,84
+7;2026;PC2007;402100;Materiały eksploatacyjne;6.025,09
+7;2026;PC2007;403100;Podwykonawcy – sprzątanie;74.592,30
+7;2026;PC2007;403200;Podwykonawcy – ochrona;37.813,29
+7;2026;PC2007;403300;Podwykonawcy – serwis HVAC;15.964,24
+7;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;4.192,66
+7;2026;PC2007;404100;Energia elektryczna;62.409,09
+7;2026;PC2007;404200;Media – woda i ciepło;12.027,07
+7;2026;PC2007;405100;Wynajem sprzętu;3.705,29
+7;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+7;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+7;2026;PC2007;701500;Przychód – refaktura energii;62.409,09-
+7;2026;PC2008;401100;Wynagrodzenia techników;58.245,20
+7;2026;PC2008;401200;Nadgodziny techników;328,40
+7;2026;PC2008;402100;Materiały eksploatacyjne;13.618,46
+7;2026;PC2008;403100;Podwykonawcy – sprzątanie;62.325,92
+7;2026;PC2008;403200;Podwykonawcy – ochrona;47.485,44
+7;2026;PC2008;403300;Podwykonawcy – serwis HVAC;25.440,80
+7;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;7.632,42
+7;2026;PC2008;404100;Energia elektryczna;125.362,86
+7;2026;PC2008;404200;Media – woda i ciepło;19.649,62
+7;2026;PC2008;405100;Wynajem sprzętu;4.806,46
+7;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+7;2026;PC2008;701200;Przychód – refaktura kosztów;379.525,58-
+7;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;37.952,56-
+7;2026;PC2009;401100;Wynagrodzenia techników;88.719,28
+7;2026;PC2009;401200;Nadgodziny techników;3.230,12
+7;2026;PC2009;402100;Materiały eksploatacyjne;16.715,48
+7;2026;PC2009;403100;Podwykonawcy – sprzątanie;87.619,83
+7;2026;PC2009;403200;Podwykonawcy – ochrona;42.567,21
+7;2026;PC2009;403300;Podwykonawcy – serwis HVAC;19.211,78
+7;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.883,76
+7;2026;PC2009;404100;Energia elektryczna;71.824,01
+7;2026;PC2009;404200;Media – woda i ciepło;14.421,28
+7;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+7;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+7;2026;PC2009;701400;Przychód – prace dodatkowe;15.396,50-
+7;2026;PC2009;701500;Przychód – refaktura energii;71.824,01-
+8;2026;PC2001;401100;Wynagrodzenia techników;39.327,12
+8;2026;PC2001;401200;Nadgodziny techników;2.885,63
+8;2026;PC2001;402100;Materiały eksploatacyjne;23.074,51
+8;2026;PC2001;403100;Podwykonawcy – sprzątanie;82.995,66
+8;2026;PC2001;403200;Podwykonawcy – ochrona;39.716,62
+8;2026;PC2001;403300;Podwykonawcy – serwis HVAC;16.677,18
+8;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;4.569,79
+8;2026;PC2001;404100;Energia elektryczna;62.844,03
+8;2026;PC2001;404200;Media – woda i ciepło;13.609,36
+8;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+8;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+8;2026;PC2001;701400;Przychód – prace dodatkowe;22.158,38-
+8;2026;PC2001;701500;Przychód – refaktura energii;62.844,03-
+8;2026;PC2002;401100;Wynagrodzenia techników;78.988,56
+8;2026;PC2002;401200;Nadgodziny techników;4.687,93
+8;2026;PC2002;402100;Materiały eksploatacyjne;30.860,41
+8;2026;PC2002;403100;Podwykonawcy – sprzątanie;152.253,40
+8;2026;PC2002;403200;Podwykonawcy – ochrona;74.888,68
+8;2026;PC2002;403300;Podwykonawcy – serwis HVAC;32.759,40
+8;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;8.450,18
+8;2026;PC2002;404100;Energia elektryczna;106.742,66
+8;2026;PC2002;404200;Media – woda i ciepło;25.362,88
+8;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+8;2026;PC2002;701200;Przychód – refaktura kosztów;531.452,85-
+8;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;42.516,23-
+8;2026;PC2003;401100;Wynagrodzenia techników;112.749,84
+8;2026;PC2003;401200;Nadgodziny techników;9.509,28
+8;2026;PC2003;402100;Materiały eksploatacyjne;60.057,49
+8;2026;PC2003;403100;Podwykonawcy – sprzątanie;97.125,95
+8;2026;PC2003;403200;Podwykonawcy – ochrona;84.987,36
+8;2026;PC2003;403300;Podwykonawcy – serwis HVAC;77.375,51
+8;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;19.006,94
+8;2026;PC2003;404100;Energia elektryczna;145.915,52
+8;2026;PC2003;404200;Media – woda i ciepło;28.610,35
+8;2026;PC2003;405100;Wynajem sprzętu;89.618,32
+8;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+8;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+8;2026;PC2003;701400;Przychód – prace dodatkowe;24.711,67-
+8;2026;PC2003;701500;Przychód – refaktura energii;145.915,52-
+8;2026;PC2004;401100;Wynagrodzenia techników;40.096,56
+8;2026;PC2004;401200;Nadgodziny techników;431,93
+8;2026;PC2004;402100;Materiały eksploatacyjne;4.692,03
+8;2026;PC2004;403100;Podwykonawcy – sprzątanie;59.002,70
+8;2026;PC2004;403200;Podwykonawcy – ochrona;29.733,49
+8;2026;PC2004;403300;Podwykonawcy – serwis HVAC;13.458,55
+8;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;3.289,52
+8;2026;PC2004;404100;Energia elektryczna;47.230,14
+8;2026;PC2004;404200;Media – woda i ciepło;10.056,56
+8;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+8;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+8;2026;PC2004;701500;Przychód – refaktura energii;47.230,14-
+8;2026;PC2005;401100;Wynagrodzenia techników;37.838,64
+8;2026;PC2005;401200;Nadgodziny techników;564,09
+8;2026;PC2005;402100;Materiały eksploatacyjne;4.026,90
+8;2026;PC2005;403100;Podwykonawcy – sprzątanie;116.249,60
+8;2026;PC2005;403200;Podwykonawcy – ochrona;36.668,21
+8;2026;PC2005;403300;Podwykonawcy – serwis HVAC;19.594,54
+8;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;2.258,84
+8;2026;PC2005;404100;Energia elektryczna;69.464,37
+8;2026;PC2005;404200;Media – woda i ciepło;15.991,24
+8;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+8;2026;PC2005;701200;Przychód – refaktura kosztów;307.045,43-
+8;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+8;2026;PC2006;401100;Wynagrodzenia techników;49.455,84
+8;2026;PC2006;401200;Nadgodziny techników;7.730,48
+8;2026;PC2006;402100;Materiały eksploatacyjne;36.957,93
+8;2026;PC2006;403100;Podwykonawcy – sprzątanie;165.132,79
+8;2026;PC2006;403200;Podwykonawcy – ochrona;100.867,23
+8;2026;PC2006;403300;Podwykonawcy – serwis HVAC;42.885,32
+8;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;6.884,57
+8;2026;PC2006;404100;Energia elektryczna;133.013,95
+8;2026;PC2006;404200;Media – woda i ciepło;24.921,57
+8;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+8;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+8;2026;PC2006;701400;Przychód – prace dodatkowe;8.945,07-
+8;2026;PC2006;701500;Przychód – refaktura energii;133.013,95-
+8;2026;PC2007;401100;Wynagrodzenia techników;40.123,44
+8;2026;PC2007;401200;Nadgodziny techników;766,26
+8;2026;PC2007;402100;Materiały eksploatacyjne;7.318,37
+8;2026;PC2007;403100;Podwykonawcy – sprzątanie;73.424,25
+8;2026;PC2007;403200;Podwykonawcy – ochrona;36.163,27
+8;2026;PC2007;403300;Podwykonawcy – serwis HVAC;15.501,57
+8;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;4.034,42
+8;2026;PC2007;404100;Energia elektryczna;58.713,65
+8;2026;PC2007;404200;Media – woda i ciepło;12.700,10
+8;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+8;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+8;2026;PC2007;701500;Przychód – refaktura energii;58.713,65-
+8;2026;PC2008;401100;Wynagrodzenia techników;53.180,40
+8;2026;PC2008;401200;Nadgodziny techników;4.758,31
+8;2026;PC2008;402100;Materiały eksploatacyjne;19.238,98
+8;2026;PC2008;403100;Podwykonawcy – sprzątanie;62.173,12
+8;2026;PC2008;403200;Podwykonawcy – ochrona;47.894,60
+8;2026;PC2008;403300;Podwykonawcy – serwis HVAC;24.493,15
+8;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;7.353,30
+8;2026;PC2008;404100;Energia elektryczna;124.654,88
+8;2026;PC2008;404200;Media – woda i ciepło;19.470,95
+8;2026;PC2008;405100;Wynajem sprzętu;4.576,73
+8;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+8;2026;PC2008;701200;Przychód – refaktura kosztów;382.424,42-
+8;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;38.242,44-
+8;2026;PC2009;401100;Wynagrodzenia techników;81.004,56
+8;2026;PC2009;401200;Nadgodziny techników;379,03
+8;2026;PC2009;402100;Materiały eksploatacyjne;5.991,04
+8;2026;PC2009;403100;Podwykonawcy – sprzątanie;86.996,95
+8;2026;PC2009;403200;Podwykonawcy – ochrona;43.301,06
+8;2026;PC2009;403300;Podwykonawcy – serwis HVAC;18.972,64
+8;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;4.955,25
+8;2026;PC2009;404100;Energia elektryczna;70.062,82
+8;2026;PC2009;404200;Media – woda i ciepło;14.429,32
+8;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+8;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+8;2026;PC2009;701500;Przychód – refaktura energii;70.062,82-
+9;2026;PC2001;401100;Wynagrodzenia techników;41.199,84
+9;2026;PC2001;402100;Materiały eksploatacyjne;6.542,65
+9;2026;PC2001;403100;Podwykonawcy – sprzątanie;79.368,17
+9;2026;PC2001;403200;Podwykonawcy – ochrona;38.957,39
+9;2026;PC2001;403300;Podwykonawcy – serwis HVAC;14.283,19
+9;2026;PC2001;403400;Podwykonawcy – zieleń i odśnieżanie;3.455,97
+9;2026;PC2001;404100;Energia elektryczna;58.083,12
+9;2026;PC2001;404200;Media – woda i ciepło;15.644,62
+9;2026;PC2001;406100;Koszty ogólne kontraktu;8.778,00
+9;2026;PC2001;701100;Przychód – opłata stała;249.000,00-
+9;2026;PC2001;701500;Przychód – refaktura energii;58.083,12-
+9;2026;PC2002;401100;Wynagrodzenia techników;82.749,92
+9;2026;PC2002;401200;Nadgodziny techników;4.585,25
+9;2026;PC2002;402100;Materiały eksploatacyjne;21.596,30
+9;2026;PC2002;403100;Podwykonawcy – sprzątanie;147.637,06
+9;2026;PC2002;403200;Podwykonawcy – ochrona;75.699,53
+9;2026;PC2002;403300;Podwykonawcy – serwis HVAC;25.725,63
+9;2026;PC2002;403400;Podwykonawcy – zieleń i odśnieżanie;6.266,36
+9;2026;PC2002;404100;Energia elektryczna;99.163,60
+9;2026;PC2002;404200;Media – woda i ciepło;29.807,54
+9;2026;PC2002;405100;Wynajem sprzętu;3.653,50
+9;2026;PC2002;406100;Koszty ogólne kontraktu;16.458,75
+9;2026;PC2002;701200;Przychód – refaktura kosztów;513.343,44-
+9;2026;PC2002;701300;Przychód – narzut / opłata za zarządzanie;41.067,48-
+9;2026;PC2003;401100;Wynagrodzenia techników;118.118,88
+9;2026;PC2003;401200;Nadgodziny techników;8.704,46
+9;2026;PC2003;402100;Materiały eksploatacyjne;54.486,29
+9;2026;PC2003;403100;Podwykonawcy – sprzątanie;95.119,04
+9;2026;PC2003;403200;Podwykonawcy – ochrona;83.315,83
+9;2026;PC2003;403300;Podwykonawcy – serwis HVAC;25.279,06
+9;2026;PC2003;403400;Podwykonawcy – zieleń i odśnieżanie;14.399,15
+9;2026;PC2003;404100;Energia elektryczna;129.865,76
+9;2026;PC2003;404200;Media – woda i ciepło;32.524,55
+9;2026;PC2003;405100;Wynajem sprzętu;11.600,16
+9;2026;PC2003;406100;Koszty ogólne kontraktu;36.575,00
+9;2026;PC2003;701100;Przychód – opłata stała;516.000,00-
+9;2026;PC2003;701400;Przychód – prace dodatkowe;33.544,95-
+9;2026;PC2003;701500;Przychód – refaktura energii;129.865,76-
+9;2026;PC2004;401100;Wynagrodzenia techników;42.005,92
+9;2026;PC2004;402100;Materiały eksploatacyjne;3.994,79
+9;2026;PC2004;403100;Podwykonawcy – sprzątanie;59.702,44
+9;2026;PC2004;403200;Podwykonawcy – ochrona;29.360,39
+9;2026;PC2004;403300;Podwykonawcy – serwis HVAC;10.305,81
+9;2026;PC2004;403400;Podwykonawcy – zieleń i odśnieżanie;2.614,23
+9;2026;PC2004;404100;Energia elektryczna;44.454,61
+9;2026;PC2004;404200;Media – woda i ciepło;11.643,29
+9;2026;PC2004;406100;Koszty ogólne kontraktu;6.583,50
+9;2026;PC2004;701100;Przychód – opłata stała;202.000,00-
+9;2026;PC2004;701500;Przychód – refaktura energii;44.454,61-
+9;2026;PC2005;401100;Wynagrodzenia techników;39.640,48
+9;2026;PC2005;401200;Nadgodziny techników;557,67
+9;2026;PC2005;402100;Materiały eksploatacyjne;8.877,67
+9;2026;PC2005;403100;Podwykonawcy – sprzątanie;123.280,21
+9;2026;PC2005;403200;Podwykonawcy – ochrona;38.456,81
+9;2026;PC2005;403300;Podwykonawcy – serwis HVAC;15.639,51
+9;2026;PC2005;403400;Podwykonawcy – zieleń i odśnieżanie;1.727,39
+9;2026;PC2005;404100;Energia elektryczna;63.005,50
+9;2026;PC2005;404200;Media – woda i ciepło;18.894,50
+9;2026;PC2005;406100;Koszty ogólne kontraktu;4.389,00
+9;2026;PC2005;701200;Przychód – refaktura kosztów;314.468,74-
+9;2026;PC2005;701300;Przychód – narzut / opłata za zarządzanie;38.000,00-
+9;2026;PC2006;401100;Wynagrodzenia techników;51.810,88
+9;2026;PC2006;401200;Nadgodziny techników;1.232,87
+9;2026;PC2006;402100;Materiały eksploatacyjne;21.917,09
+9;2026;PC2006;403100;Podwykonawcy – sprzątanie;164.554,30
+9;2026;PC2006;403200;Podwykonawcy – ochrona;103.206,37
+9;2026;PC2006;403300;Podwykonawcy – serwis HVAC;26.441,53
+9;2026;PC2006;403400;Podwykonawcy – zieleń i odśnieżanie;5.216,04
+9;2026;PC2006;404100;Energia elektryczna;125.590,84
+9;2026;PC2006;404200;Media – woda i ciepło;28.930,62
+9;2026;PC2006;406100;Koszty ogólne kontraktu;13.167,00
+9;2026;PC2006;701100;Przychód – opłata stała;432.000,00-
+9;2026;PC2006;701500;Przychód – refaktura energii;125.590,84-
+9;2026;PC2007;401100;Wynagrodzenia techników;42.034,08
+9;2026;PC2007;401200;Nadgodziny techników;286,98
+9;2026;PC2007;402100;Materiały eksploatacyjne;5.289,65
+9;2026;PC2007;403100;Podwykonawcy – sprzątanie;73.318,98
+9;2026;PC2007;403200;Podwykonawcy – ochrona;36.704,54
+9;2026;PC2007;403300;Podwykonawcy – serwis HVAC;13.205,88
+9;2026;PC2007;403400;Podwykonawcy – zieleń i odśnieżanie;3.242,28
+9;2026;PC2007;404100;Energia elektryczna;53.743,42
+9;2026;PC2007;404200;Media – woda i ciepło;14.431,52
+9;2026;PC2007;406100;Koszty ogólne kontraktu;8.046,50
+9;2026;PC2007;701100;Przychód – opłata stała;233.000,00-
+9;2026;PC2007;701500;Przychód – refaktura energii;53.743,42-
+9;2026;PC2008;401100;Wynagrodzenia techników;55.712,80
+9;2026;PC2008;401200;Nadgodziny techników;556,21
+9;2026;PC2008;402100;Materiały eksploatacyjne;12.181,90
+9;2026;PC2008;403100;Podwykonawcy – sprzątanie;64.082,96
+9;2026;PC2008;403200;Podwykonawcy – ochrona;46.530,79
+9;2026;PC2008;403300;Podwykonawcy – serwis HVAC;19.168,06
+9;2026;PC2008;403400;Podwykonawcy – zieleń i odśnieżanie;5.698,49
+9;2026;PC2008;404100;Energia elektryczna;114.634,99
+9;2026;PC2008;404200;Media – woda i ciepło;23.556,70
+9;2026;PC2008;405100;Wynajem sprzętu;4.513,06
+9;2026;PC2008;406100;Koszty ogólne kontraktu;14.630,00
+9;2026;PC2008;701200;Przychód – refaktura kosztów;361.265,96-
+9;2026;PC2008;701300;Przychód – narzut / opłata za zarządzanie;36.126,60-
+9;2026;PC2009;401100;Wynagrodzenia techników;84.861,92
+9;2026;PC2009;402100;Materiały eksploatacyjne;6.537,36
+9;2026;PC2009;403100;Podwykonawcy – sprzątanie;87.395,09
+9;2026;PC2009;403200;Podwykonawcy – ochrona;44.724,62
+9;2026;PC2009;403300;Podwykonawcy – serwis HVAC;14.966,12
+9;2026;PC2009;403400;Podwykonawcy – zieleń i odśnieżanie;3.688,54
+9;2026;PC2009;404100;Energia elektryczna;65.414,78
+9;2026;PC2009;404200;Media – woda i ciepło;17.443,85
+9;2026;PC2009;406100;Koszty ogólne kontraktu;9.509,50
+9;2026;PC2009;701100;Przychód – opłata stała;321.000,00-
+9;2026;PC2009;701500;Przychód – refaktura energii;65.414,78-

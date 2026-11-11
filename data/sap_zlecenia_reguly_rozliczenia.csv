@@ -1,0 +1,6 @@
+﻿Zlecenie;Opis zlecenia;Odbiorca;Udział %;Klucz
+400001;Modernizacja oświetlenia LED – Wieża Wolska;CC1002;100;stały %
+400002;Wymiana agregatu chłodniczego – Galeria Nova;CC1006;100;stały %
+400003;Audyt energetyczny – magazyny Nordtech;CC1003;60;stały %
+400003;Audyt energetyczny – magazyny Nordtech;CC1010;40;stały %
+400004;Szkolenia BHP i UDT techników 2026;wszystkie CC1001–CC1012;;liczba techników na centrum kosztów (lokalizacje.csv / godziny)

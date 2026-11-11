@@ -1,0 +1,65 @@
+﻿Element PSP;Opis;Okres;Rok obrot.;Rodzaj kosztów;Nazwa rodzaju kosztów;Zlecenie PM;Wartość/WalORK
+K-09-01;Horyzont – Północ;1;2026;402100;Materiały eksploatacyjne;Z26-00438;9.117,58
+K-09-01;Horyzont – Północ;1;2026;401100;Wynagrodzenia techników;Z26-00438;1.001,94
+K-09-01;Horyzont – Północ;2;2026;402100;Materiały eksploatacyjne;Z26-00578;6.906,50
+K-09-01;Horyzont – Północ;2;2026;401100;Wynagrodzenia techników;Z26-00578;2.475,19
+K-04-01;Horyzont – Kraków;2;2026;402100;Materiały eksploatacyjne;Z26-00609;7.039,82
+K-04-01;Horyzont – Kraków;2;2026;401100;Wynagrodzenia techników;Z26-00609;2.012,64
+K-01-01;Horyzont – Lipowy Park;2;2026;402100;Materiały eksploatacyjne;Z26-00641;12.205,92
+K-01-01;Horyzont – Lipowy Park;2;2026;401100;Wynagrodzenia techników;Z26-00641;2.078,50
+K-03-01;Nordtech – magazyny;2;2026;402100;Materiały eksploatacyjne;Z26-00819;18.326,68
+K-03-01;Nordtech – magazyny;2;2026;401100;Wynagrodzenia techników;Z26-00819;2.169,32
+K-08-01;Komponenta – Poznań;2;2026;402100;Materiały eksploatacyjne;Z26-00889;13.341,08
+K-08-01;Komponenta – Poznań;2;2026;401100;Wynagrodzenia techników;Z26-00889;2.318,66
+K-03-01;Nordtech – magazyny;3;2026;402100;Materiały eksploatacyjne;Z26-01231;19.526,73
+K-03-01;Nordtech – magazyny;3;2026;401100;Wynagrodzenia techników;Z26-01231;1.269,94
+K-09-01;Horyzont – Północ;3;2026;402100;Materiały eksploatacyjne;Z26-01257;7.829,99
+K-09-01;Horyzont – Północ;3;2026;401100;Wynagrodzenia techników;Z26-01257;1.982,38
+K-07-01;Delta – Wrocław;3;2026;402100;Materiały eksploatacyjne;Z26-01301;2.016,96
+K-07-01;Delta – Wrocław;3;2026;401100;Wynagrodzenia techników;Z26-01301;2.492,70
+K-01-01;Horyzont – Lipowy Park;3;2026;402100;Materiały eksploatacyjne;Z26-01304;10.316,73
+K-01-01;Horyzont – Lipowy Park;3;2026;401100;Wynagrodzenia techników;Z26-01304;2.819,47
+K-02-01;Bank Wisła – Warszawa i Lublin;3;2026;402100;Materiały eksploatacyjne;Z26-01474;7.973,29
+K-02-01;Bank Wisła – Warszawa i Lublin;3;2026;401100;Wynagrodzenia techników;Z26-01474;2.390,79
+K-02-01;Bank Wisła – Warszawa i Lublin;4;2026;402100;Materiały eksploatacyjne;Z26-01942;15.993,08
+K-02-01;Bank Wisła – Warszawa i Lublin;4;2026;401100;Wynagrodzenia techników;Z26-01942;1.525,00
+K-03-01;Nordtech – magazyny;5;2026;402100;Materiały eksploatacyjne;Z26-02267;4.122,99
+K-03-01;Nordtech – magazyny;5;2026;401100;Wynagrodzenia techników;Z26-02267;2.080,12
+K-05-01;Medline – szpital Kraków;5;2026;402100;Materiały eksploatacyjne;Z26-02346;14.465,45
+K-05-01;Medline – szpital Kraków;5;2026;401100;Wynagrodzenia techników;Z26-02346;1.482,30
+K-07-01;Delta – Wrocław;5;2026;402100;Materiały eksploatacyjne;Z26-02491;7.135,15
+K-07-01;Delta – Wrocław;5;2026;401100;Wynagrodzenia techników;Z26-02491;3.155,01
+K-03-01;Nordtech – magazyny;5;2026;402100;Materiały eksploatacyjne;Z26-02566;14.023,83
+K-03-01;Nordtech – magazyny;5;2026;401100;Wynagrodzenia techników;Z26-02566;1.819,44
+K-04-01;Horyzont – Kraków;6;2026;402100;Materiały eksploatacyjne;Z26-02884;15.617,85
+K-04-01;Horyzont – Kraków;6;2026;401100;Wynagrodzenia techników;Z26-02884;1.794,38
+K-07-01;Delta – Wrocław;6;2026;402100;Materiały eksploatacyjne;Z26-03186;3.929,51
+K-07-01;Delta – Wrocław;6;2026;401100;Wynagrodzenia techników;Z26-03186;1.575,83
+K-03-01;Nordtech – magazyny;6;2026;402100;Materiały eksploatacyjne;Z26-03473;15.877,47
+K-03-01;Nordtech – magazyny;6;2026;401100;Wynagrodzenia techników;Z26-03473;2.962,40
+K-02-01;Bank Wisła – Warszawa i Lublin;7;2026;402100;Materiały eksploatacyjne;Z26-03688;9.205,67
+K-02-01;Bank Wisła – Warszawa i Lublin;7;2026;401100;Wynagrodzenia techników;Z26-03688;2.735,35
+K-09-01;Horyzont – Północ;7;2026;402100;Materiały eksploatacyjne;Z26-03794;10.691,07
+K-09-01;Horyzont – Północ;7;2026;401100;Wynagrodzenia techników;Z26-03794;2.139,35
+K-01-01;Horyzont – Lipowy Park;7;2026;402100;Materiały eksploatacyjne;Z26-03966;5.228,26
+K-01-01;Horyzont – Lipowy Park;7;2026;401100;Wynagrodzenia techników;Z26-03966;1.061,14
+K-02-01;Bank Wisła – Warszawa i Lublin;7;2026;402100;Materiały eksploatacyjne;Z26-04223;4.189,11
+K-02-01;Bank Wisła – Warszawa i Lublin;7;2026;401100;Wynagrodzenia techników;Z26-04223;2.994,51
+K-08-01;Komponenta – Poznań;8;2026;402100;Materiały eksploatacyjne;Z26-04334;9.034,43
+K-08-01;Komponenta – Poznań;8;2026;401100;Wynagrodzenia techników;Z26-04334;2.553,34
+K-02-01;Bank Wisła – Warszawa i Lublin;8;2026;402100;Materiały eksploatacyjne;Z26-04541;16.015,45
+K-02-01;Bank Wisła – Warszawa i Lublin;8;2026;401100;Wynagrodzenia techników;Z26-04541;2.485,99
+K-03-01;Nordtech – magazyny;8;2026;402100;Materiały eksploatacyjne;Z26-04600;18.748,88
+K-03-01;Nordtech – magazyny;8;2026;401100;Wynagrodzenia techników;Z26-04600;1.844,18
+K-06-01;Galeria Nova – Katowice;8;2026;402100;Materiały eksploatacyjne;Z26-04626;4.650,56
+K-06-01;Galeria Nova – Katowice;8;2026;401100;Wynagrodzenia techników;Z26-04626;2.803,66
+K-01-01;Horyzont – Lipowy Park;8;2026;402100;Materiały eksploatacyjne;Z26-04872;16.171,44
+K-01-01;Horyzont – Lipowy Park;8;2026;401100;Wynagrodzenia techników;Z26-04872;2.293,88
+K-03-01;Nordtech – magazyny;9;2026;402100;Materiały eksploatacyjne;Z26-05121;5.757,91
+K-03-01;Nordtech – magazyny;9;2026;401100;Wynagrodzenia techników;Z26-05121;2.311,63
+K-03-01;Nordtech – magazyny;9;2026;402100;Materiały eksploatacyjne;Z26-05340;17.227,81
+K-03-01;Nordtech – magazyny;9;2026;401100;Wynagrodzenia techników;Z26-05340;2.656,78
+K-05-01;Medline – szpital Kraków;9;2026;402100;Materiały eksploatacyjne;Z26-05372;4.557,67
+K-05-01;Medline – szpital Kraków;9;2026;401100;Wynagrodzenia techników;Z26-05372;1.006,55
+K-02-01;Bank Wisła – Warszawa i Lublin;9;2026;402100;Materiały eksploatacyjne;Z26-05432;8.777,80
+K-02-01;Bank Wisła – Warszawa i Lublin;9;2026;401100;Wynagrodzenia techników;Z26-05432;1.960,67
