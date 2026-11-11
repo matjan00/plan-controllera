@@ -915,6 +915,8 @@ async function syncNow(){ if(!SYNC.user) return;
   if(error) throw error;
   if(!applyRemote(d)){ S.uid=SYNC.user.id; if(!d||(S.updated||0)>remoteMs(d)) await push(); else { SYNC.last=new Date(); setSync("Zsynchronizowano o "+fmtTime(SYNC.last)); } } }
 async function attach(user){
+  // postęp z pierwszej wersji (konto Google/Firebase, id nie jest UUID) przechodzi na konto Supabase
+  if(S.uid && !/^[0-9a-f]{8}-[0-9a-f]{4}-/i.test(S.uid)) S.uid=user.id;
   if(S.uid && S.uid!==user.id){ try{ localStorage.setItem("pc-user-"+S.uid,JSON.stringify(S)); }catch(e){} let mine=null; try{ mine=JSON.parse(localStorage.getItem("pc-user-"+user.id)||"null"); }catch(e){} S=mine?merge(defaultState(),mine):defaultState(); saveLocal(); render(); }
   setSync("Łączę z kontem…","busy");
   try{ await syncNow(); }catch(e){ setSync(syncErr(e,"połączyć z kontem"),"err"); }
