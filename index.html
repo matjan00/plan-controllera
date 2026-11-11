@@ -182,7 +182,7 @@ details.plainx > summary{cursor:pointer;font-weight:600;min-height:40px;display:
 .quote{background:var(--sunk);border-radius:10px;padding:10px 12px;font-size:.92rem;position:relative}
 .quote .cp{position:absolute;right:6px;top:6px}
 .quote p{padding-right:64px}
-textarea,input[type=text],input[type=number],select{font:inherit;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-height:44px;max-width:100%}
+textarea,input[type=text],input[type=email],input[type=password],input[type=number],select{font:inherit;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:8px 10px;min-height:44px;max-width:100%}
 textarea{width:100%;min-height:70px;resize:vertical}
 /* nowbar i toast */
 .nowbar{position:fixed;left:0;right:0;bottom:calc(62px + env(safe-area-inset-bottom,0px));z-index:6;display:flex;justify-content:center;padding:0 12px;pointer-events:none}
@@ -221,9 +221,7 @@ body.playing .wrap{padding-bottom:160px}
 </nav>
 
 <script src="config.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-auth-compat.js"></script>
-<script src="https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore-compat.js"></script>
+<script src="vendor/supabase.js"></script>
 <script src="answers.js"></script>
 <script src="datafiles.js"></script>
 <script src="content-xl.js"></script>
@@ -280,7 +278,7 @@ function defaultState(){
     done:{}, chk:{}, cases:{}, cards:{}, quiz:[], fn:"en", cardDir:"pl", welcomed:false, celebrate:null, updated:0};
 }
 let S=defaultState();
-const SYNC={configured:false,auth:null,db:null,user:null,ref:null,unsub:null,busy:false,dirty:false,last:null,msg:"",state:"ok"};
+const SYNC={configured:false,client:null,user:null,busy:false,dirty:false,last:null,msg:"",state:"ok"};
 let saveTimer=null;
 function lsGet(){try{const r=localStorage.getItem(LS);return r?JSON.parse(r):null}catch(e){return null}}
 function lsSet(o){try{localStorage.setItem(LS,JSON.stringify(o))}catch(e){}}
@@ -289,7 +287,7 @@ function backup(why){ try{ localStorage.setItem(LSB,JSON.stringify({at:Date.now(
 const fmtTime=(d)=>d.toLocaleTimeString("pl-PL",{hour:"2-digit",minute:"2-digit"});
 function pruneOld(){ const k=Object.keys(S.plans).sort(); while(k.length>70) delete S.plans[k.shift()]; if(S.quiz.length>500) S.quiz=S.quiz.slice(-500); }
 function saveLocal(){ pruneOld(); lsSet(S); }
-function save(){ S.updated=Date.now(); saveLocal(); if(SYNC.ref){ clearTimeout(saveTimer); saveTimer=setTimeout(push,1200); } }
+function save(){ S.updated=Date.now(); saveLocal(); if(SYNC.user){ clearTimeout(saveTimer); saveTimer=setTimeout(push,1200); } }
 const todayKey=(d)=>{ d=d||new Date(); return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"); };
 function addDays(key,n){ const [y,m,d]=key.split("-").map(Number); const x=new Date(y,m-1,d); x.setDate(x.getDate()+n); return todayKey(x); }
 function hash(s){let h=2166136261;for(const c of String(s)){h^=c.charCodeAt(0);h=Math.imul(h,16777619)}return h>>>0}
@@ -468,7 +466,7 @@ function header(){
   const ab=document.getElementById("acct-btn");
   ab.hidden=!SYNC.configured; ab.textContent=SYNC.user?"Konto":"Zaloguj"; ab.classList.toggle("primary",!SYNC.user);
   if(SYNC.user){ ab.dataset.sync=SYNC.state; ab.setAttribute("aria-label","Konto: "+(SYNC.msg||SYNC.user.email||"")); }
-  else { delete ab.dataset.sync; ab.setAttribute("aria-label","Zaloguj się kontem Google"); }
+  else { delete ab.dataset.sync; ab.setAttribute("aria-label","Zaloguj się"); }
 }
 function ctlKey(el){
   if(!el||el===document.body) return null; if(el.id) return "#"+CSS.escape(el.id);
@@ -573,7 +571,7 @@ function welcomeHtml(){
     <p>Codziennie dostajesz plan z bloków: rozgrzewka, nowy temat, ćwiczenie na danych, mini-case i fiszki. Plan czytasz na telefonie, ćwiczenia robisz w Excelu i Power BI na komputerze.</p>
     <ol><li>Na komputerze pobierz paczkę danych: <a href="data/dane_plan_controllera.zip" download>dane_plan_controllera.zip</a> (wszystkie pliki, ok. ${sizeTxt((window.DATAFILES||{})["dane_plan_controllera.zip"])}).</li>
       <li>Ustaw czas sesji poniżej (20–60 min).</li>
-      <li>${SYNC.configured?"Zaloguj się kontem Google (przycisk u góry), żeby postęp był wspólny na telefonie i komputerze.":"Postęp zapisuje się na tym urządzeniu."}</li>
+      <li>${SYNC.configured?"Zaloguj się (przycisk u góry) tym samym e-mailem i hasłem co w aplikacji fitness – postęp będzie wspólny na telefonie i komputerze.":"Postęp zapisuje się na tym urządzeniu."}</li>
       <li>Jeśli coś już umiesz, w Postęp → Ustawienia przestaw poziom toru.</li></ol>
     <div><button class="btn primary" data-act="welcome-ok">Zaczynam</button></div></div>`;
 }
@@ -895,59 +893,67 @@ document.addEventListener("change",(e)=>{
   if(t.id==="importfile") importFile(t);
 });
 document.addEventListener("input",(e)=>{ if(e.target.id==="csearch"){ document.getElementById("clist").innerHTML=cardListHtml(e.target.value); } });
-document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible"){ if(timerState.i!==null) keepAwake(); if(TAB==="today" && !S.plans[todayKey()]) render(); } });
+document.addEventListener("visibilitychange",()=>{ if(document.visibilityState==="visible"){ if(timerState.i!==null) keepAwake(); if(SYNC.user) syncNow().catch(()=>{}); if(TAB==="today" && !S.plans[todayKey()]) render(); } });
 
 /* ============================== KONTO I SYNCHRONIZACJA ============================== */
-/* Firebase wspólny z Arabeską i Planem przy pianinie; ta aplikacja pisze do controller/{uid}. */
+/* Supabase (projekt aplikacji fitness): tabela controller_state, jeden wiersz na konto. */
 function setSync(t,state){ SYNC.msg=t; SYNC.state=state||"ok"; const ab=document.getElementById("acct-btn"); if(ab&&SYNC.user){ ab.dataset.sync=SYNC.state; } const el=document.getElementById("syncmsg"); if(el) el.textContent=t; }
-function syncErr(e,what){ const c=(e&&e.code)||"";
-  if(!navigator.onLine||c==="unavailable"||c==="deadline-exceeded") return "Brak internetu – postęp jest bezpieczny na tym urządzeniu, zsynchronizuję go, gdy wróci sieć.";
-  if(c==="permission-denied"||c==="unauthenticated") return "Konto odmówiło zapisu. Jeśli to pierwsze uruchomienie, w Firebase trzeba dodać regułę dla kolekcji „controller” (plik firestore.rules). Postęp jest na tym urządzeniu.";
-  return "Nie udało się "+(what||"zsynchronizować")+". Postęp jest na tym urządzeniu – spróbuj „Synchronizuj teraz”."; }
-async function push(){ if(!SYNC.ref) return; if(SYNC.busy){ SYNC.dirty=true; return; } SYNC.busy=true;
-  try{ await SYNC.ref.set({updatedAt:S.updated||Date.now(), data:JSON.parse(JSON.stringify(S))}); SYNC.last=new Date(); setSync("Zsynchronizowano o "+fmtTime(SYNC.last)); }
+function syncErr(e,what){ const c=String((e&&e.code)||""), m=String((e&&e.message)||"");
+  if(!navigator.onLine||/failed to fetch|network/i.test(m)) return "Brak internetu – postęp jest bezpieczny na tym urządzeniu, zsynchronizuję go, gdy wróci sieć.";
+  if(c==="42P01"||c==="PGRST205"||/controller_state/.test(m)) return "W Supabase nie ma jeszcze tabeli controller_state – uruchom raz plik supabase/controller_state.sql w SQL Editor. Postęp jest na tym urządzeniu.";
+  if(c==="42501"||/row-level security|jwt/i.test(m)) return "Konto odmówiło zapisu – wyloguj się i zaloguj ponownie. Postęp jest na tym urządzeniu.";
+  return "Nie udało się "+(what||"zsynchronizować")+" ("+(m||c||"błąd")+"). Postęp jest na tym urządzeniu – spróbuj „Synchronizuj teraz”."; }
+const remoteMs=(d)=>d&&d.updated_at? Date.parse(d.updated_at) : 0;
+async function push(){ if(!SYNC.user) return; if(SYNC.busy){ SYNC.dirty=true; return; } SYNC.busy=true;
+  try{ const {error}=await SYNC.client.from("controller_state").upsert({user_id:SYNC.user.id, data:JSON.parse(JSON.stringify(S)), updated_at:new Date(S.updated||Date.now()).toISOString()},{onConflict:"user_id"});
+    if(error) throw error; SYNC.last=new Date(); setSync("Zsynchronizowano o "+fmtTime(SYNC.last)); }
   catch(e){ setSync(syncErr(e),"err"); }
   SYNC.busy=false; if(SYNC.dirty){ SYNC.dirty=false; push(); } }
-function applyRemote(d){ if(d&&d.data&&(d.updatedAt||0)>(S.updated||0)){ S=merge(defaultState(),JSON.parse(JSON.stringify(d.data))); if(SYNC.user) S.uid=SYNC.user.uid; saveLocal(); SYNC.last=new Date(); setSync("Pobrano postęp z konta o "+fmtTime(SYNC.last)); for(const k in CS) delete CS[k]; render(); return true; } return false; }
-async function syncNow(){ if(!SYNC.ref) return; const snap=await SYNC.ref.get(); const d=snap.exists?snap.data():null, uid=SYNC.user&&SYNC.user.uid;
-  if(!applyRemote(d)){ if(uid) S.uid=uid; if(!d||(S.updated||0)>(d.updatedAt||0)) await push(); else { SYNC.last=new Date(); setSync("Zsynchronizowano o "+fmtTime(SYNC.last)); } } }
+function applyRemote(d){ if(d&&d.data&&remoteMs(d)>(S.updated||0)){ S=merge(defaultState(),JSON.parse(JSON.stringify(d.data))); S.updated=remoteMs(d); if(SYNC.user) S.uid=SYNC.user.id; saveLocal(); SYNC.last=new Date(); setSync("Pobrano postęp z konta o "+fmtTime(SYNC.last)); for(const k in CS) delete CS[k]; render(); return true; } return false; }
+async function syncNow(){ if(!SYNC.user) return;
+  const {data:d,error}=await SYNC.client.from("controller_state").select("data,updated_at").eq("user_id",SYNC.user.id).maybeSingle();
+  if(error) throw error;
+  if(!applyRemote(d)){ S.uid=SYNC.user.id; if(!d||(S.updated||0)>remoteMs(d)) await push(); else { SYNC.last=new Date(); setSync("Zsynchronizowano o "+fmtTime(SYNC.last)); } } }
 async function attach(user){
-  if(S.uid && S.uid!==user.uid){ try{ localStorage.setItem("pc-user-"+S.uid,JSON.stringify(S)); }catch(e){} let mine=null; try{ mine=JSON.parse(localStorage.getItem("pc-user-"+user.uid)||"null"); }catch(e){} S=mine?merge(defaultState(),mine):defaultState(); saveLocal(); render(); }
-  const ref=SYNC.db.collection("controller").doc(user.uid); SYNC.ref=ref; setSync("Łączę z kontem…","busy");
-  try{ await syncNow(); if(SYNC.ref!==ref) return; SYNC.unsub=ref.onSnapshot(sn=>{ if(sn.exists&&!sn.metadata.hasPendingWrites) applyRemote(sn.data()); },()=>{}); }
-  catch(e){ if(SYNC.ref===ref) setSync(syncErr(e,"połączyć z kontem"),"err"); }
+  if(S.uid && S.uid!==user.id){ try{ localStorage.setItem("pc-user-"+S.uid,JSON.stringify(S)); }catch(e){} let mine=null; try{ mine=JSON.parse(localStorage.getItem("pc-user-"+user.id)||"null"); }catch(e){} S=mine?merge(defaultState(),mine):defaultState(); saveLocal(); render(); }
+  setSync("Łączę z kontem…","busy");
+  try{ await syncNow(); }catch(e){ setSync(syncErr(e,"połączyć z kontem"),"err"); }
   if(TAB==="progress") render();
 }
+function onUser(u){ SYNC.user=u||null; if(u) attach(u); else setSync("Zaloguj się w Postęp → Konto, żeby postęp zapisywał się na koncie."); render(); }
 async function initStore(){
   const local=lsGet(); if(local) S=merge(defaultState(),local);
   render();
-  const cfg=window.FIREBASE_CONFIG;
-  if(!cfg){ setSync("Postęp zapisuje się na tym urządzeniu."); return; }
-  if(!window.firebase){ setSync("Offline – postęp zapisuje się na tym urządzeniu."); return; }
+  if(!window.SUPABASE_URL||!window.SUPABASE_KEY){ setSync("Postęp zapisuje się na tym urządzeniu."); return; }
+  if(!window.supabase){ setSync("Offline – postęp zapisuje się na tym urządzeniu."); return; }
   SYNC.configured=true;
-  try{ firebase.initializeApp(cfg); }catch(e){}
-  SYNC.auth=firebase.auth(); SYNC.db=firebase.firestore();
-  SYNC.auth.setPersistence(firebase.auth.Auth.Persistence.LOCAL).catch(()=>{});
-  SYNC.auth.getRedirectResult().catch(()=>{});
-  SYNC.auth.onAuthStateChanged(u=>{ if(SYNC.unsub){ SYNC.unsub(); SYNC.unsub=null; } SYNC.ref=null; SYNC.user=u;
-    if(u) attach(u); else setSync("Zaloguj się przyciskiem „Zaloguj” u góry, żeby postęp zapisywał się na koncie."); render(); });
+  SYNC.client=window.supabase.createClient(window.SUPABASE_URL,window.SUPABASE_KEY,{auth:{persistSession:true,autoRefreshToken:true,storageKey:"pc-auth"}});
+  try{ const {data}=await SYNC.client.auth.getSession(); onUser(data&&data.session&&data.session.user); }catch(e){ onUser(null); }
+  SYNC.client.auth.onAuthStateChange((ev,session)=>{ const u=session&&session.user; if((u&&u.id)!==(SYNC.user&&SYNC.user.id)) setTimeout(()=>onUser(u),0); });
 }
+let loginBusy=false, loginMsg="";
 function accountCard(){
   let inner;
   if(!SYNC.configured) inner=`<p class="small muted">Synchronizacja nie jest włączona. Postęp zapisuje się na tym urządzeniu.</p>`;
-  else if(!SYNC.user) inner=`<p class="small">Zaloguj się kontem Google – tym samym co w Planie przy pianinie. Postęp będzie wspólny na telefonie i komputerze, a kopia zostaje też w przeglądarce.</p><div class="row"><button class="btn primary sm" data-act="glogin">Zaloguj przez Google</button></div>`;
+  else if(!SYNC.user) inner=`<p class="small">Zaloguj się tym samym e-mailem i hasłem co w aplikacji fitness – to ten sam projekt Supabase. Postęp będzie wspólny na telefonie i komputerze, a kopia zostaje też w przeglądarce.</p>
+    <form id="loginform" class="stack" style="gap:8px"><label class="stack" style="gap:2px"><span class="small">E-mail</span><input type="email" id="lemail" autocomplete="username" required></label>
+    <label class="stack" style="gap:2px"><span class="small">Hasło</span><input type="password" id="lpass" autocomplete="current-password" required></label>
+    <div class="row"><button class="btn primary sm" type="submit" ${loginBusy?"disabled":""}>${loginBusy?"Loguję…":"Zaloguj"}</button></div>
+    ${loginMsg?`<p class="small" role="alert" style="color:var(--danger)">${esc(loginMsg)}</p>`:""}</form>`;
   else inner=`<p class="small">Konto: <b>${esc(SYNC.user.email||"")}</b></p><p class="small ${SYNC.state==="err"?"":"muted"}" id="syncmsg" role="status">${esc(SYNC.msg||"")}</p><div class="row"><button class="btn sm" data-act="syncnow">Synchronizuj teraz</button><button class="btn sm ghost" data-act="logout">Wyloguj</button></div>`;
   const bk=backupInfo();
-  return `<div class="card stack"><h3>Konto i kopia zapasowa</h3>${inner}
+  return `<div class="card stack" id="acctcard"><h3>Konto i kopia zapasowa</h3>${inner}
     <div class="row"><button class="btn sm" data-act="export">Pobierz kopię (plik)</button><label class="btn sm ghost" style="cursor:pointer;display:inline-flex;align-items:center">Wczytaj kopię z pliku…<input type="file" id="importfile" accept="application/json,.json" hidden></label></div>
     ${bk?`<p class="small muted">Kopia awaryjna z ${esc(bk)}. <button class="btn sm ghost" data-act="import-undo">Przywróć ją</button></p>`:""}</div>`;
 }
-function authErr(e){ const c=(e&&e.code)||""; if(c==="auth/popup-closed-by-user"||c==="auth/cancelled-popup-request") return null;
-  if(c==="auth/unauthorized-domain") return "Ta domena nie jest dodana w Firebase (Authentication → Settings → Authorized domains).";
-  if(c==="auth/network-request-failed") return "Brak internetu – spróbuj, gdy będziesz online."; return "Nie udało się zalogować ("+(c||"błąd")+")."; }
-async function googleLogin(){ const p=new firebase.auth.GoogleAuthProvider(); p.setCustomParameters({prompt:"select_account"});
-  try{ await SYNC.auth.signInWithPopup(p); toast("Zalogowano"); }
-  catch(e){ if(e&&(e.code==="auth/popup-blocked"||e.code==="auth/operation-not-supported-in-this-environment")){ SYNC.auth.signInWithRedirect(p); return; } const m=authErr(e); if(m) toast(m); } }
+document.addEventListener("submit",async(e)=>{
+  if(e.target.id!=="loginform") return; e.preventDefault();
+  const email=document.getElementById("lemail").value.trim(), pass=document.getElementById("lpass").value;
+  loginBusy=true; loginMsg=""; render();
+  try{ const {error}=await SYNC.client.auth.signInWithPassword({email,password:pass}); if(error) throw error; toast("Zalogowano"); }
+  catch(err){ const m=String(err&&err.message||""); loginMsg=/invalid login/i.test(m)?"Błędny e-mail lub hasło.":/email not confirmed/i.test(m)?"Adres e-mail nie jest potwierdzony – sprawdź skrzynkę.":!navigator.onLine?"Brak internetu – spróbuj, gdy będziesz online.":"Nie udało się zalogować ("+m+")."; }
+  loginBusy=false; render();
+});
 function exportState(){ const blob=new Blob([JSON.stringify(S,null,1)],{type:"application/json"}); const a=document.createElement("a"); a.href=URL.createObjectURL(blob); a.download="plan-controllera-"+todayKey()+".json"; document.body.appendChild(a); a.click(); setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},1000); }
 function backupInfo(){ try{ const b=JSON.parse(localStorage.getItem(LSB)||"null"); return b? new Date(b.at).toLocaleString("pl-PL",{day:"numeric",month:"long",hour:"2-digit",minute:"2-digit"}) : null; }catch(e){ return null; } }
 function restoreBackup(){ try{ const b=JSON.parse(localStorage.getItem(LSB)||"null"); if(!b) return; S=merge(defaultState(),b.s); localStorage.removeItem(LSB); save(); render(); toast("Przywrócono postęp z kopii awaryjnej"); }catch(e){ toast("Nie udało się przywrócić kopii"); } }
@@ -956,9 +962,8 @@ function importFile(input){ const f=input.files[0]; if(!f) return; const r=new F
     catch(err){ toast("To nie jest kopia z Planu controllera (plik plan-controllera-….json)."); } input.value=""; };
   r.readAsText(f); }
 document.addEventListener("click",async(e)=>{ const t=e.target.closest("[data-act]"); if(!t) return; const a=t.dataset.act;
-  if(a==="glogin") googleLogin();
-  if(a==="acct"){ if(!SYNC.user){ googleLogin(); return; } TAB="progress"; SUB="progress"; render(); window.scrollTo(0,0); }
-  if(a==="logout"){ await SYNC.auth.signOut(); toast("Wylogowano – postęp zostaje na tym urządzeniu"); }
+  if(a==="acct"){ TAB="progress"; SUB="progress"; render(); const c=document.getElementById("acctcard"); if(c){ c.scrollIntoView({block:"center"}); const em=document.getElementById("lemail"); if(em) em.focus({preventScroll:true}); } }
+  if(a==="logout"){ await SYNC.client.auth.signOut(); toast("Wylogowano – postęp zostaje na tym urządzeniu"); }
   if(a==="syncnow"){ setSync("Synchronizuję…","busy"); try{ await syncNow(); }catch(err){ setSync(syncErr(err),"err"); } render(); }
   if(a==="export") exportState();
   if(a==="import-undo") restoreBackup();
