@@ -525,7 +525,7 @@ function checkList(id, col){
     return `<button class="check" data-act="chk" data-id="${id}" data-i="${i}" aria-pressed="${on}"><span class="box" aria-hidden="true">✓</span><span>${rich(c)}</span></button>`; }).join("")}</div>`;
 }
 function topicLearn(t){
-  return `<p>${rich(t.learn)}</p>${t.v365?`<div class="tip"><b>Na Excelu 365 / nowszym</b>${rich(t.v365)}</div>`:""}
+  return `<p>${rich(t.learn)}</p>${t.v365?`<div class="tip"><b>Ciekawostka: Excel 2021 / 365</b>${rich(t.v365)}</div>`:""}
     ${(t.cert||[]).length?`<p class="small muted">Do egzaminu: ${t.cert.map(c=>`<span class="tag gray">${certCode(c)}</span>`).join(" ")}</p>`:""}`;
 }
 function topicPractice(t){
