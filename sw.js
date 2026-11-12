@@ -1,6 +1,6 @@
 // Offline cache. Strona i skrypty aplikacji: najpierw sieć (aktualizacje od razu), offline z pamięci.
 // Pliki danych do ćwiczeń nie są zapisywane z góry – trafiają do pamięci dopiero po pobraniu.
-const CACHE = "pc-v2";
+const CACHE = "pc-v3";
 const SHELL = [
   "./", "index.html", "manifest.webmanifest", "config.js", "answers.js", "datafiles.js",
   "content-xl.js", "content-pq.js", "content-bi.js", "content-sap.js", "content-extra.js",

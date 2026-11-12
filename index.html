@@ -140,7 +140,8 @@ table.mini th{background:var(--sunk);font-family:var(--f-mono);font-weight:500}
 .qopt{text-align:left;border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:10px 12px;min-height:44px;font-size:.92rem}
 .qopt.ok{border-color:var(--ok);background:color-mix(in srgb,var(--ok) 14%,var(--surface))}
 .qopt.bad{border-color:var(--danger);background:color-mix(in srgb,var(--danger) 12%,var(--surface))}
-.qbar{display:flex;gap:4px} .qbar i{flex:1;height:5px;border-radius:3px;background:var(--sunk)} .qbar i.ok{background:var(--ok)} .qbar i.bad{background:var(--danger)}
+.qbar{display:flex;gap:4px} .qbar i{flex:1;height:5px;border-radius:3px;background:var(--sunk)} .qbar i.ok{background:var(--ok)} .qbar i.bad{background:var(--danger)} .qbar i.dk{background:var(--muted)}
+.qdk{justify-self:start;color:var(--muted);border-style:dashed} .qdk.on{color:var(--ink);border-style:solid;background:var(--sunk)}
 .fcard{border:1px solid var(--line);border-radius:14px;padding:18px 16px;text-align:center;background:var(--surface);display:flex;flex-direction:column;gap:8px;min-height:150px;justify-content:center}
 .fcard .front{font:700 1.3rem/1.25 var(--f-display)}
 .fcard .back{font-size:1.05rem}
@@ -260,29 +261,42 @@ const FILE_NAMES=DATA_DESC.map(x=>x[0]);
 /* ============================== FUNKCJE EN → PL ============================== */
 const FN_PL={SUMIFS:"SUMA.WARUNKÓW",COUNTIFS:"LICZ.WARUNKI",AVERAGEIFS:"ŚREDNIA.WARUNKÓW",IFERROR:"JEŻELI.BŁĄD",IFS:"WARUNKI",IF:"JEŻELI",
  INDEX:"INDEKS",MATCH:"PODAJ.POZYCJĘ",XLOOKUP:"X.WYSZUKAJ",VLOOKUP:"WYSZUKAJ.PIONOWO",MAXIFS:"MAKS.WARUNKÓW",MINIFS:"MIN.WARUNKÓW",
- EOMONTH:"NARZ.MIESIĄC",EDATE:"NR.SER.DATY",NETWORKDAYS:"DNI.ROBOCZE",SUMPRODUCT:"SUMA.ILOCZYNÓW",CHOOSE:"WYBIERZ",YEAR:"ROK",MONTH:"MIESIĄC",
+ EOMONTH:"NR.SER.OST.DN.MIES",EDATE:"NR.SER.DATY",NETWORKDAYS:"DNI.ROBOCZE",SUMPRODUCT:"SUMA.ILOCZYNÓW",CHOOSE:"WYBIERZ",YEAR:"ROK",MONTH:"MIESIĄC",
  DATE:"DATA",SUM:"SUMA",ROWS:"ILE.WIERSZY",ROUNDUP:"ZAOKR.GÓRA",ROUND:"ZAOKR",ABS:"MODUŁ.LICZBY",AND:"ORAZ",OR:"LUB",AVERAGE:"ŚREDNIA",
  INDIRECT:"ADR.POŚR",ISERROR:"CZY.BŁĄD",FILTER:"FILTRUJ",SORT:"SORTUJ",UNIQUE:"UNIKATOWE",GROUPBY:"GRUPUJ.WEDŁUG","RANK.EQ":"POZYCJA.NAJW",
  CUBEVALUE:"WARTOŚĆ.MODUŁU",CUBEMEMBER:"ELEMENT.MODUŁU",TODAY:"DZIŚ",COUNTIF:"LICZ.JEŻELI",SUMIF:"SUMA.JEŻELI",TEXT:"TEKST",LEFT:"LEWY",
- COUNTA:"ILE.NIEPUSTYCH",MAX:"MAX",MIN:"MIN",TRIM:"USUŃ.ZBĘDNE.ODSTĘPY",TEXTJOIN:"POŁĄCZ.TEKSTY",SWITCH:"PRZEŁĄCZ"};
-const FN_RE=new RegExp("(^|[^A-Za-z0-9_.])("+Object.keys(FN_PL).sort((a,b)=>b.length-a.length).map(k=>k.replace(".","\\.")).join("|")+")(?=\\()","g");
+ COUNTA:"ILE.NIEPUSTYCH",MAX:"MAX",MIN:"MIN",TRIM:"USUŃ.ZBĘDNE.ODSTĘPY",TEXTJOIN:"POŁĄCZ.TEKSTY",SWITCH:"PRZEŁĄCZ",
+ COUNT:"ILE.LICZB",LARGE:"MAX.K",SMALL:"MIN.K",DMAX:"BD.MAX",HLOOKUP:"WYSZUKAJ.POZIOMO",XMATCH:"X.DOPASUJ",SEQUENCE:"SEKWENCJA",
+ LET:"LET",LAMBDA:"LAMBDA",CUBESET:"ZESTAW.MODUŁÓW",GETPIVOTDATA:"WEŹDANETABELI",FORECAST:"REGLINX","FORECAST.LINEAR":"REGLINX.LINIOWA",
+ RIGHT:"PRAWY",MID:"FRAGMENT.TEKSTU",LEN:"DŁ",VALUE:"WARTOŚĆ",ISNUMBER:"CZY.LICZBA",ISBLANK:"CZY.PUSTA",NOT:"NIE",DAY:"DZIEŃ",
+ WEEKDAY:"DZIEŃ.TYG",NOW:"TERAZ",ROUNDDOWN:"ZAOKR.DÓŁ",COLUMNS:"LICZBA.KOLUMN",MEDIAN:"MEDIANA",SUBTOTAL:"SUMY.CZĘŚCIOWE",
+ TRUE:"PRAWDA",FALSE:"FAŁSZ"};
+/* Tłumaczy wyłącznie treść <f>…</f> (formuły arkusza Excela) i tytuły tematów toru Excel – DAX/M/SAP nigdy nie trafiają do <f>.
+   Pomija teksty w cudzysłowie i nazwy w [nawiasach] (kolumny tabel), tłumaczy też nazwę bez nawiasu (np. „<f>SUMIFS</f>”, GROUPBY(…;SUM)).
+   Treść jest pisana już po polsku-regionalnie: średnik jako separator argumentów, przecinek dziesiętny – więc nie zmieniamy separatorów. */
+const FN_RE=/("(?:[^"]|"")*"|\[[^\]]*\])|(^|[^A-Za-z0-9_.$])([A-Z][A-Z0-9]*(?:\.[A-Z0-9]+)*)(?![A-Za-z0-9_.])/g;
 function fxText(s){
   if(S.fn!=="pl") return s;
-  return s.replace(FN_RE,(m,p,f)=>p+FN_PL[f]).replace(/\bTRUE\b/g,"PRAWDA").replace(/\bFALSE\b/g,"FAŁSZ").replace(/#Headers/g,"#Nagłówki");
+  return String(s).replace(/#Headers\b/g,"#Nagłówki").replace(FN_RE,(m,lit,p,f)=>lit? lit : p+(FN_PL.hasOwnProperty(f)?FN_PL[f]:f));
 }
+// tytuły tematów toru Excel (np. „IF, IFS i IFERROR”) – getter, żeby każde miejsce z t.t pokazywało bieżący wariant nazw
+TR.xl.levels.forEach(l=>l.topics.concat([l.case]).forEach(x=>{ const raw=x.t; Object.defineProperty(x,"t",{get:()=>fxText(raw),enumerable:true,configurable:true}); }));
 
 /* ============================== STAN ============================== */
 const LS="pc-state", LSB="pc-backup";
 function defaultState(){
   return {v:1, minutes:45, sessions:0, plans:{}, lv:{xl:1,pq:1,bi:1,sap:1}, spent:{xl:0,pq:0,bi:0,sap:0},
-    done:{}, chk:{}, cases:{}, cards:{}, quiz:[], fn:"en", cardDir:"pl", welcomed:false, celebrate:null, updated:0};
+    done:{}, chk:{}, cases:{}, cards:{}, quiz:[], fn:"pl", fnV:1, cardDir:"pl", welcomed:false, celebrate:null, updated:0};
 }
 let S=defaultState();
 const SYNC={configured:false,client:null,user:null,busy:false,dirty:false,last:null,msg:"",state:"ok"};
 let saveTimer=null;
 function lsGet(){try{const r=localStorage.getItem(LS);return r?JSON.parse(r):null}catch(e){return null}}
 function lsSet(o){try{localStorage.setItem(LS,JSON.stringify(o))}catch(e){}}
-function merge(base,saved){ const o=Object.assign(base,saved||{}); const d=defaultState(); for(const k of ["lv","spent"]) o[k]=Object.assign({},d[k],o[k]||{}); return o; }
+function merge(base,saved){ const o=Object.assign(base,saved||{}); const d=defaultState(); for(const k of ["lv","spent"]) o[k]=Object.assign({},d[k],o[k]||{});
+  // jednorazowo: stany sprzed fnV miały fn:"en" tylko jako domyślne → polskie nazwy funkcji; późniejszy wybór "en" zostaje (fnV już jest)
+  if(saved && !saved.fnV){ o.fn="pl"; o.fnV=1; }
+  return o; }
 function backup(why){ try{ localStorage.setItem(LSB,JSON.stringify({at:Date.now(),s:S,why})); }catch(e){} }
 const fmtTime=(d)=>d.toLocaleTimeString("pl-PL",{hour:"2-digit",minute:"2-digit"});
 function pruneOld(){ const k=Object.keys(S.plans).sort(); while(k.length>70) delete S.plans[k.shift()]; if(S.quiz.length>500) S.quiz=S.quiz.slice(-500); }
@@ -317,7 +331,7 @@ function fileLinks(s){
   });
 }
 // treść z <f>…</f> → <code class="fx">, {{…}} → wyniki
-function rich(s){ return fill(s).replace(/<f>([\s\S]*?)<\/f>/g,(m,x)=>`<code class="fx">${fxText(x)}</code>`); }
+function rich(s){ return fill(s).replace(/<f>([\s\S]*?)<\/f>/g,(m,x)=>`<code class="fx">${esc(fxText(x))}</code>`); }
 
 /* ============================== POSTĘP ============================== */
 const clamp=(x)=>Math.max(0,Math.min(1,x));
@@ -369,13 +383,30 @@ function pickPrimary(active){
   }
   return {prim: best? best.t : null, lag: (mean-lag.p>0.04)? lag.t : null};
 }
+// Czas na „Nowy temat” wynika z treści: czytanie (~150 słów/min, tekst techniczny) + ~2 min na wypróbowanie, 3–8 min.
+function wordCount(s){ return String(s||"").replace(/<[^>]*>/g," ").replace(/\{\{[^}]*\}\}/g,"x").split(/\s+/).filter(Boolean).length; }
+function topicMinutes(t){ if(!t) return 3; return Math.min(8, Math.max(3, Math.ceil(wordCount(t.learn+" "+(t.v365||""))/150 + 2))); }
+// Bloki z b.fix mają stałe minuty; reszta dzieli pozostały czas wg wag b.w. Każdy blok ma min. 2 min, suma = minutes.
 function distribute(blocks, minutes){
-  const sum=blocks.reduce((a,b)=>a+b.w,0);
-  blocks.forEach(b=>b.min=Math.max(2,Math.round(b.w*minutes/sum)));
-  const diff=minutes-blocks.reduce((a,b)=>a+b.min,0);
-  const big=blocks.reduce((a,b)=>b.min>a.min?b:a,blocks[0]); big.min+=diff;
-  blocks.forEach(b=>delete b.w);
+  if(!blocks.length) return blocks;
+  const fixed=blocks.filter(b=>b.fix), flex=blocks.filter(b=>!b.fix);
+  const room=Math.max(2*fixed.length, minutes-2*flex.length), fixSum=fixed.reduce((a,b)=>a+b.fix,0);
+  fixed.forEach(b=>b.min=fixSum>room? Math.max(2,Math.floor(b.fix*room/fixSum)) : b.fix);
+  const rest=minutes-fixed.reduce((a,b)=>a+b.min,0), sum=flex.reduce((a,b)=>a+(b.w||1),0)||1;
+  flex.forEach(b=>b.min=Math.max(2,Math.round((b.w||1)*rest/sum)));
+  let diff=minutes-blocks.reduce((a,b)=>a+b.min,0);
+  while(diff<0){ const big=blocks.reduce((a,b)=>b.min>a.min?b:a,blocks[0]); if(big.min<=2) break; const take=Math.min(-diff,big.min-2); big.min-=take; diff+=take; }
+  if(diff>0){ const pool=flex.length?flex:blocks; pool.reduce((a,b)=>b.min>a.min?b:a,pool[0]).min+=diff; }
+  blocks.forEach(b=>{ delete b.w; delete b.fix; });
   return blocks;
+}
+// Przelicz minuty niezrobionych bloków na (plan.minutes − zrobione); temat zostaje przy czasie z treści.
+function rebalance(plan){
+  const rest=plan.blocks.filter(b=>!b.done); if(!rest.length) return;
+  const used=plan.blocks.filter(b=>b.done).reduce((a,b)=>a+b.min,0);
+  rest.forEach(b=>{ if(b.type==="topic") b.fix=topicMinutes(TOPIC[b.topic]); else b.w=b.min||1; });
+  distribute(rest, Math.max(rest.length*2, plan.minutes-used));
+  plan.tv=1;
 }
 function genPlan(key, minutes){
   const idx=S.sessions, light=idx%6===5;
@@ -394,7 +425,7 @@ function genPlan(key, minutes){
   const caseTr = caseUnlocked(P.id)? P.id : (active.find(t=>caseUnlocked(t.id))||{}).id;
   const topic=nextTopic(P.id);
   blocks.push({type:"warm",w:4});
-  if(topic){ blocks.push({type:"topic",tr:P.id,topic:topic.id,w:8}); blocks.push({type:"practice",tr:P.id,topic:topic.id,w:16}); }
+  if(topic){ blocks.push({type:"topic",tr:P.id,topic:topic.id,fix:topicMinutes(topic)}); blocks.push({type:"practice",tr:P.id,topic:topic.id,w:16}); }
   if(caseTr){ blocks.push({type:"case",tr:caseTr,cs:lvlObj(caseTr).case.id,w:topic?11:35}); }
   else if(minutes>30){
     const other = (lag && lag.id!==P.id && nextTopic(lag.id))? lag : active.filter(t=>t.id!==P.id && nextTopic(t.id)).sort((a,b)=>trackProg(a.id)-trackProg(b.id))[0];
@@ -403,11 +434,13 @@ function genPlan(key, minutes){
   }
   blocks.push({type:"review",w:6});
   blocks=distribute(blocks,minutes);
-  return {minutes, blocks:blocks.map(b=>Object.assign(b,{done:false})), primary:P.id, light:false, counted:false};
+  return {minutes, blocks:blocks.map(b=>Object.assign(b,{done:false})), primary:P.id, light:false, counted:false, tv:1};
 }
 function todayPlan(){
   const k=todayKey();
   if(!S.plans[k]){ S.plans[k]=genPlan(k,S.minutes); saveLocal(); }
+  // plan wygenerowany starą wersją (temat ze stałą wagą, np. 11 min) – przelicz minuty niezrobionych bloków
+  else if(!S.plans[k].tv && S.plans[k].blocks.some(b=>b.type==="topic"&&!b.done) && timerState.i===null){ rebalance(S.plans[k]); saveLocal(); }
   return S.plans[k];
 }
 function markBlock(i, done){
@@ -424,11 +457,7 @@ function regenPlan(minutes){
   const keep=old && old.blocks.some(b=>b.done);
   S.minutes=minutes;
   if(!keep){ S.plans[k]=genPlan(k,minutes); }
-  else { // zachowaj zrobione bloki, przelicz minuty pozostałych
-    old.minutes=minutes; const rest=old.blocks.filter(b=>!b.done); const used=old.blocks.filter(b=>b.done).reduce((a,b)=>a+b.min,0);
-    const left=Math.max(rest.length*2,minutes-used); const tot=rest.reduce((a,b)=>a+b.min,0)||1;
-    rest.forEach(b=>b.min=Math.max(2,Math.round(b.min*left/tot)));
-  }
+  else { old.minutes=minutes; rebalance(old); } // zachowaj zrobione bloki, przelicz minuty pozostałych (temat bez zmian)
   save();
 }
 
@@ -753,23 +782,25 @@ function quizStart(host, mode, n){
 function quizDraw(host){
   const el=document.getElementById(host), z=QZ[host]; if(!el) return;
   if(!z){ el.innerHTML=`<button class="btn primary" data-act="qstart" data-h="${host}">Zacznij (${host.startsWith("quiz-tools")?10:5} pytań)</button>`; return; }
-  const bar=`<div class="qbar" aria-hidden="true">${z.list.map((_,i)=>`<i class="${z.res[i]===true?"ok":z.res[i]===false?"bad":""}"></i>`).join("")}</div>`;
+  const bar=`<div class="qbar" aria-hidden="true">${z.list.map((_,i)=>`<i class="${z.res[i]===true?"ok":z.res[i]===false?"bad":z.res[i]==="dk"?"dk":""}"></i>`).join("")}</div>`;
   if(z.i>=z.list.length){
-    const ok=z.res.filter(Boolean).length;
-    el.innerHTML=`${bar}<p style="margin-top:10px"><b>${ok} z ${z.list.length}</b> poprawnie.${ok===z.list.length?" Świetnie!":" Błędne pytania wrócą w kolejnych quizach."}</p><div class="row" style="margin-top:8px"><button class="btn sm" data-act="qstart" data-h="${host}">Jeszcze raz</button></div>`;
+    const ok=z.res.filter(r=>r===true).length, dk=z.res.filter(r=>r==="dk").length;
+    el.innerHTML=`${bar}<p style="margin-top:10px"><b>${ok} z ${z.list.length}</b> poprawnie${dk?`, „nie wiem”: ${dk}`:""}.${ok===z.list.length?" Świetnie!":" Błędne i nieznane pytania wrócą w kolejnych quizach."}</p><div class="row" style="margin-top:8px"><button class="btn sm" data-act="qstart" data-h="${host}">Jeszcze raz</button></div>`;
     return;
   }
   const q=z.list[z.i];
   if(!z.order) z.order=q.a.map((_,i)=>i).sort((a,b)=>hash(z.i+":"+a+":"+q.q)-hash(z.i+":"+b+":"+q.q));
   const picked=z.picked;
   el.innerHTML=`${bar}<div class="stack t-${q.tr}" style="gap:8px;margin-top:10px"><p class="small muted">${TR[q.tr].short} · pytanie ${z.i+1} z ${z.list.length}</p><p>${rich(q.q)}</p>${q.ctx?q.ctx.replace("<table>",'<table class="mini">'):""}
-    <div class="qopts">${z.order.map(i=>`<button class="qopt ${picked!==null?(i===q.ok?"ok":i===picked?"bad":""):""}" data-act="qans" data-h="${host}" data-i="${i}" ${picked!==null?"disabled":""}>${rich(q.a[i])}</button>`).join("")}</div>
-    ${picked!==null?`<p class="small" role="status">${picked===q.ok?"✓ Dobrze.":"✗ Poprawnie: "+rich(q.a[q.ok])+"."} ${rich(q.why)}</p><div><button class="btn primary sm" data-act="qnext" data-h="${host}">${z.i+1<z.list.length?"Dalej":"Wynik"}</button></div>`:""}</div>`;
+    <div class="qopts">${z.order.map(i=>`<button class="qopt ${picked!==null?(i===q.ok?"ok":i===picked?"bad":""):""}" data-act="qans" data-h="${host}" data-i="${i}" ${picked!==null?"disabled":""}>${rich(q.a[i])}</button>`).join("")}
+      <button class="btn ghost sm qdk ${picked===-1?"on":""}" data-act="qans" data-h="${host}" data-i="-1" ${picked!==null?"disabled":""} aria-label="Nie wiem – pokaż poprawną odpowiedź">Nie wiem</button></div>
+    ${picked!==null?`<p class="small" role="status">${picked===q.ok?"✓ Dobrze.":(picked===-1?"Poprawna odpowiedź: ":"✗ Poprawnie: ")+rich(q.a[q.ok])+"."} ${rich(q.why)}</p><div><button class="btn primary sm" data-act="qnext" data-h="${host}">${z.i+1<z.list.length?"Dalej":"Wynik"}</button></div>`:""}</div>`;
 }
 function quizAnswer(host, i){
   const z=QZ[host]; if(!z||z.picked!==null) return;
-  const q=z.list[z.i]; z.picked=i; const ok=i===q.ok; z.res[z.i]=ok;
-  S.quiz.push({d:todayKey(),tr:q.tr,ok,q:QUIZ.indexOf(q)}); save();
+  const q=z.list[z.i], dk=i<0; z.picked=dk?-1:i; const ok=!dk&&i===q.ok; z.res[z.i]=dk?"dk":ok;
+  const rec={d:todayKey(),tr:q.tr,ok,q:QUIZ.indexOf(q)}; if(dk) rec.dk=true;
+  S.quiz.push(rec); save();
   quizDraw(host);
 }
 
@@ -871,7 +902,7 @@ document.addEventListener("click",(e)=>{
     case "copy": copyText(caseText(CASE[d.id],d.k)); break;
     case "copyall": copyText(Object.keys(CASE).filter(caseDone).map(id=>"• "+caseText(CASE[id],d.k)).join("\n")); break;
     case "qstart": quizStart(d.h, d.h==="quiz-tools"? QSEL : "warm", d.h==="quiz-tools"?10:5); break;
-    case "qans": quizAnswer(d.h,+d.i); break;
+    case "qans": { quizAnswer(d.h,+d.i); const el=document.getElementById(d.h), nx=el&&el.querySelector('[data-act="qnext"]'); nx&&nx.focus({preventScroll:true}); break; }
     case "qnext": { const z=QZ[d.h]; z.i++; z.picked=null; z.order=null; quizDraw(d.h); const el=document.getElementById(d.h); el&&el.querySelector("button")&&el.querySelector("button").focus({preventScroll:true}); break; }
     case "cflip": CS[d.h].flip=true; cardsDraw(d.h); document.querySelector(`#${d.h} .rate button:nth-child(2)`)?.focus({preventScroll:true}); break;
     case "crate": cardRate(d.h,+d.v); break;

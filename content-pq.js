@@ -76,7 +76,7 @@ window.TRACK_PQ = {
         "Nazwij zapytanie Zlecenia_mies."],
       check: ["L06 w marcu 2026: <b>{{l06_orders_mar}}</b> zleceń."] },
     { id: "pq2e", t: "Scal zapytania – typy złączeń", cert: ["PL300"],
-      learn: "Scal zapytania = złączenie tabel po kluczu (jak XLOOKUP, ale dla całych tabel). Typy: lewe zewnętrzne (wszystko z lewej + dopasowane), wewnętrzne (tylko dopasowane), <b>lewe anty</b> (z lewej, czego nie ma po prawej – idealne do szukania braków). Przed scaleniem zgrupuj tabelę prawą, żeby nie mnożyć wierszy.",
+      learn: "Scal zapytania = złączenie tabel po kluczu (jak <f>XLOOKUP</f> w Excelu, ale dla całych tabel). Typy: lewe zewnętrzne (wszystko z lewej + dopasowane), wewnętrzne (tylko dopasowane), <b>lewe anty</b> (z lewej, czego nie ma po prawej – idealne do szukania braków). Przed scaleniem zgrupuj tabelę prawą, żeby nie mnożyć wierszy.",
       file: "zlecenia_serwisowe.csv + godziny_technikow.csv",
       steps: ["Wczytaj godziny; dodaj kolumnę koszt = godziny_zwykle × stawka + nadgodziny × stawka × 1,5.", "Grupuj godziny po id_zlecenia: suma godzin i suma kosztu.",
         "Scal Zlecenia z grupą godzin (lewe zewnętrzne), rozwiń sumy.", "Drugi raz: lewe anty – zlecenia bez żadnych godzin."],
