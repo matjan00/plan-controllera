@@ -353,12 +353,13 @@ const BLOCKS={
   practice:{name:"Ćwiczenie na danych",ab:"Ćw"},
   case:{name:"Mini-case",ab:"MC"},
   proj:{name:"Projekt: drugi tor",ab:"Pr"},
+  more:{name:"Dodatkowo",ab:"+"},
   review:{name:"Powtórka: fiszki",ab:"Fi",col:"gen"},
   revtopics:{name:"Powtórka tematów",ab:"Pt",col:"gen"},
 };
 function blockCol(b){ return BLOCKS[b.type].col || b.tr || "gen"; }
 function blockName(b){
-  if(b.type==="topic"||b.type==="practice"||b.type==="proj") return BLOCKS[b.type].name+": "+TR[b.tr].short;
+  if(b.type==="topic"||b.type==="practice"||b.type==="proj"||b.type==="more") return BLOCKS[b.type].name+": "+TR[b.tr].short;
   if(b.type==="case") return "Mini-case: "+TR[b.tr].short;
   return BLOCKS[b.type].name;
 }
@@ -449,15 +450,41 @@ function markBlock(i, done){
   if(done && !plan.counted){ plan.counted=true; S.sessions++; if(plan.primary) S.spent[plan.primary]=(S.spent[plan.primary]||0)+1; }
   if(!done && plan.counted && !plan.blocks.some(x=>x.done)){ plan.counted=false; S.sessions=Math.max(0,S.sessions-1); if(plan.primary) S.spent[plan.primary]=Math.max(0,(S.spent[plan.primary]||0)-1); }
   // ćwiczenie z kompletem odhaczonych punktów zalicza temat
-  if(done && (b.type==="practice"||b.type==="proj") && b.topic && allChecked(b.topic)) setTopicDone(b.topic,true,true);
+  if(done && (b.type==="practice"||b.type==="proj"||b.type==="more") && b.topic && allChecked(b.topic)) setTopicDone(b.topic,true,true);
   save();
+}
+// „Mam więcej czasu”: dopisz do dzisiejszego planu bloki na +m minut (kolejne tematy, odblokowany mini-case albo powtórki).
+const MAX_BLOCKS=10;
+function extraBlocks(plan, m){
+  const used=new Set(plan.blocks.map(b=>b.topic).filter(Boolean)), cases=new Set(plan.blocks.map(b=>b.cs).filter(Boolean));
+  const active=TRACKS.filter(t=>!trackDone(t.id)).map(t=>t.id)
+    .sort((a,b)=>(a===plan.primary?-1:b===plan.primary?1:trackProg(a)-trackProg(b)));
+  const want=m>=30?2:1, out=[];
+  const cs=active.find(t=>caseUnlocked(t) && !cases.has(lvlObj(t).case.id));
+  if(cs) out.push({type:"case",tr:cs,cs:lvlObj(cs).case.id,w:2});
+  for(const t of active){
+    if(out.length>=want) break;
+    const x=lvlObj(t).topics.find(x=>!S.done[x.id] && !used.has(x.id));
+    if(x){ out.push({type:"more",tr:t,topic:x.id,w:2}); used.add(x.id); }
+  }
+  if(out.length<want) out.push({type:"review",w:1});
+  if(!out.length) out.push({type:"warm",w:1});
+  return distribute(out.slice(0, Math.max(1, MAX_BLOCKS-plan.blocks.length)), m).map(b=>Object.assign(b,{done:false,extra:true}));
+}
+function addMore(m){
+  const plan=todayPlan();
+  if(plan.blocks.length>=MAX_BLOCKS){ toast("Na dziś wystarczy – plan ma już "+MAX_BLOCKS+" bloków"); return false; }
+  const add=extraBlocks(plan, m), at=plan.blocks.length;
+  plan.blocks.push(...add);
+  plan.minutes=plan.blocks.reduce((a,b)=>a+b.min,0); plan.extra=(plan.extra||0)+m;
+  save(); return at;
 }
 function regenPlan(minutes){
   const k=todayKey(), old=S.plans[k];
   const keep=old && old.blocks.some(b=>b.done);
   S.minutes=minutes;
   if(!keep){ S.plans[k]=genPlan(k,minutes); }
-  else { old.minutes=minutes; rebalance(old); } // zachowaj zrobione bloki, przelicz minuty pozostałych (temat bez zmian)
+  else { old.minutes=minutes+(old.extra||0); rebalance(old); } // zachowaj zrobione bloki, przelicz minuty pozostałych (temat bez zmian)
   save();
 }
 
@@ -561,7 +588,7 @@ const OPEN={day:null,i:null};
 const curIndex=(plan)=>plan.blocks.findIndex(b=>!b.done);
 function openIndex(plan){ if(OPEN.day===todayKey()&&OPEN.i!==null) return OPEN.i; return timerState.i!==null&&typeof timerState.i==="number"? timerState.i : curIndex(plan); }
 function sheetRow(plan, nav){
-  const cur=curIndex(plan), open=openIndex(plan), L="ABCDEFG";
+  const cur=curIndex(plan), open=openIndex(plan), L="ABCDEFGHIJKL";
   const heads=plan.blocks.map((b,i)=>`<span style="flex-grow:${b.min}">${L[i]}</span>`).join("");
   const cells=plan.blocks.map((b,i)=>{
     const cls=`cell t-${blockCol(b)} ${b.done?"done":""} ${nav&&i===open?"now":""}`, face=`<b class="ab">${BLOCKS[b.type].ab}</b><span>${b.min}′</span>`;
@@ -576,6 +603,7 @@ function blockBody(b, i){
   if(b.type==="topic"){ const t=TOPIC[b.topic]; return `<p class="small muted">${esc(TR[t.tr].name)} · poziom ${t.lv}: ${esc(lvlObj(t.tr,t.lv).name)}</p>${topicLearn(t)}<p class="small muted">Po przeczytaniu przejdź do ćwiczenia – zrobisz je na komputerze.</p>`; }
   if(b.type==="practice"){ const t=TOPIC[b.topic]; return `${topicPractice(t)}${S.done[t.id]?`<span class="tag">Temat zaliczony</span>`:`<p class="small muted">Gdy odhaczysz wszystkie punkty, „Gotowe” zaliczy temat.</p>`}`; }
   if(b.type==="proj"){ const t=TOPIC[b.topic]; return `<p class="small muted">Więcej czasu dla toru <b>${esc(TR[t.tr].name)}</b> – ${trackProg(t.tr)<overall()?"najbardziej odstaje od reszty":"kolejny temat"}.</p><h3>${esc(t.t)}</h3>${topicLearn(t)}${topicPractice(t)}`; }
+  if(b.type==="more"){ const t=TOPIC[b.topic]; return `<p class="small muted">Dodatkowy blok – ${esc(TR[t.tr].name)} · poziom ${t.lv}: ${esc(lvlObj(t.tr,t.lv).name)}</p>${topicLearn(t)}${topicPractice(t)}${S.done[t.id]?`<span class="tag">Temat zaliczony</span>`:""}`; }
   if(b.type==="case") return caseBody(CASE[b.cs], true);
   if(b.type==="review") return `<div id="cards-${i}" data-cards="1"></div>`;
   if(b.type==="revtopics") return `<p class="small muted">Sesja lżejsza (co 6.): zrób ponownie skrócone sprawdzenie – bez zaglądania do kroków.</p>${b.items.map(id=>{ const t=TOPIC[id];
@@ -591,7 +619,7 @@ function blockHtml(b,i,isOpen,last){
   </article>`;
 }
 function doneLabel(b,last){
-  if((b.type==="practice"||b.type==="proj") && !S.done[b.topic]) return allChecked(b.topic)? "Gotowe – zaliczam temat" : "Koniec czasu – dokończę następnym razem";
+  if((b.type==="practice"||b.type==="proj"||b.type==="more") && !S.done[b.topic]) return allChecked(b.topic)? "Gotowe – zaliczam temat" : "Koniec czasu – dokończę następnym razem";
   return last? "Gotowe – koniec sesji" : "Gotowe – następny blok";
 }
 function welcomeHtml(){
@@ -622,7 +650,9 @@ function finaleHtml(plan){
   rows.push(["Postęp ogólny",pct(overall())]);
   return `<div class="card stack"><h2>Sesja skończona</h2>${sheetRow(plan,false)}
     <ul class="plain" style="list-style:none;padding:0">${rows.map(r=>`<li class="spread" style="border-bottom:1px solid var(--line);padding:4px 0"><span>${esc(r[0])}</span><b class="mono">${esc(r[1])}</b></li>`).join("")}</ul>
-    <p class="small muted">${(S.sessions%6)===5?"Następna sesja jest lżejsza – same powtórki.":"Jutro nowy plan; tor wybiera się według wag i tego, co najbardziej odstaje."}</p></div>`;
+    <p class="small muted">${(S.sessions%6)===5?"Następna sesja jest lżejsza – same powtórki.":"Jutro nowy plan; tor wybiera się według wag i tego, co najbardziej odstaje."}</p>
+    ${plan.blocks.length<MAX_BLOCKS?`<div class="stack" style="gap:6px;border-top:1px solid var(--line);padding-top:10px"><p><b>Masz jeszcze czas?</b> <span class="small muted">Dopiszę bloki do dzisiejszego planu – kolejny temat${TRACKS.some(t=>caseUnlocked(t.id))?" albo mini-case":""}.</span></p>
+      <div class="row">${[15,30].map(m=>`<button class="btn ${m===15?"primary":""}" data-act="more" data-m="${m}">+${m} min</button>`).join("")}</div></div>`:""}</div>`;
 }
 function viewToday(){
   const plan=todayPlan(), done=plan.blocks.filter(b=>b.done), mins=done.reduce((a,b)=>a+b.min,0), n=plan.blocks.length;
@@ -890,6 +920,7 @@ document.addEventListener("click",(e)=>{
       break; }
     case "timer": { const i=+d.i; if(timerState.i===i) stopTimer(); else startTimer(i, plan().blocks[i].min); render(); break; }
     case "minutes": regenPlan(+d.m); OPEN.i=null; render(); break;
+    case "more": { const at=addMore(+d.m); if(at===false) break; OPEN.day=todayKey(); OPEN.i=at; render(); showBlock(at); toast(`Dodano ${d.m} min do dzisiejszego planu`); break; }
     case "chk": { const arr=chkArr(d.id); arr[+d.i]=!arr[+d.i]; S.chk[d.id]=arr; save(); render(); break; }
     case "topicdone": setTopicDone(d.id, d.v==="1"); break;
     case "casedone": if(d.v==="1" && !allChecked(d.id)){ toast("Najpierw odhacz wszystkie punkty „Do oddania”"); break; } setCaseDone(d.id, d.v==="1"); break;
